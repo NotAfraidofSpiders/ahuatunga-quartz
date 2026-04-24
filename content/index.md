@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Ahuatunga
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-24T12:13:01.040-05:00
-published: 2026-04-24T12:13:01.040-05:00
+modified: 2026-04-24T12:52:55.029-05:00
+published: 2026-04-24T12:52:55.029-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -18,6 +18,33 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 >
 > Please report any broken links, images, stat blocks, etc. to me so that I can fix them.
 >
-> Unfortunately, because of the way I set up this wiki, there may be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
+> Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
 
 # The Ahuatunga Campaign Setting
+
+The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Dragons rules, with a few homebrew modifications. The setting itself is a single island with six elemental regions that have distinct geography, weather, creatures, and cultures. Links to commonly referenced rules and pages can be found below.
+
+## Commonly Referenced Rules
+
+> [!info] Core Mechanics
+>
+> - [[Ability Scores]]
+> - [[Combat Rules]]
+>   - [[Weapon Rules]]
+>   - [[Armor Rules]]
+>   - [[Oversized Weapons]]
+>   - [[Crunchy Crits]]
+>   - [[Martial Revisions]]
+>   - [[Movement Rules]]
+> - [[Death Revisions]]
+> - [[Spellcasting Rules]]
+>   - [[Spells]]
+> - [[Resting Rules]]
+> - [[Environment Rules]]
+
+> [!faq] Player Options
+>
+> - [[Iwi Lineage]]
+> - [[Class Index|Classes]]
+> - [[Backgrounds]]
+> - [[Feats]]
