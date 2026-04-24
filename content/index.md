@@ -2,8 +2,8 @@
 publish: true
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-24T13:10:21.101-05:00
-published: 2026-04-24T13:10:21.101-05:00
+modified: 2026-04-24T13:27:20.991-05:00
+published: 2026-04-24T13:27:20.991-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -48,3 +48,12 @@ The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Drago
 > - [[Class Index|Classes]]
 > - [[Backgrounds]]
 > - [[Feats]]
+
+## Common Knowledge Lore
+
+> [!abstract] History
+>
+> - [[A Brief History]]
+> - [[The Six Elements]]
+> - [[Calendar]]
+> - [[1 - Island of Ahuatunga|The Island]]
