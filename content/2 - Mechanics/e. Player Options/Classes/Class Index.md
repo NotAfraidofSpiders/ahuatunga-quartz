@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-24T12:37:59.598-05:00
-modified: 2026-04-24T12:51:37.990-05:00
-published: 2026-04-24T12:51:37.990-05:00
+modified: 2026-04-24T13:20:22.094-05:00
+published: 2026-04-24T13:20:22.094-05:00
 tags:
   - web-utils
   - PlayerOption
@@ -10,7 +10,7 @@ tags:
 
 | Class            | Spellcaster                                         | Primary Ability Score                                               | Secondary Ability Score                                            |
 | ---------------- | --------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [[Artificer]]    | [[Character Advancement Rules#Spellcasting\|Half]]  | [[Ability Scores#Intelligence\|Intelligence]]                       |                                                                    |
+| [[Artificer]]    | [[Character Advancement Rules#Spellcasting\|Half]]  | [[Ability Scores#Intelligence\|Intelligence]]                       | -                                                                  |
 | [[Barbarian]]    | -                                                   | [[Ability Scores#Strength\|Strength]]                               |                                                                    |
 | [[Bard]]         | [[Character Advancement Rules#Spellcasting\|Full]]  | [[Ability Scores#Charisma\|Charisma]]                               | -                                                                  |
 | [[Blood Hunter]] | \*                                                   | [[Ability Scores#Intelligence\|Int]]/[[Ability Scores#Wisdom\|Wis]] | [[Ability Scores#Strength\|Str]]/[[Ability Scores#Dexterity\|Dex]] |
