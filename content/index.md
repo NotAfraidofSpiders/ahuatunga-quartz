@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Welcome to Ahuatunga
+title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-24T12:52:55.029-05:00
-published: 2026-04-24T12:52:55.029-05:00
+modified: 2026-04-24T13:10:21.101-05:00
+published: 2026-04-24T13:10:21.101-05:00
 tags:
   - Player-Notes
   - web-utils
