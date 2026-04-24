@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: notafraidofspiders.github.io/ahuatunga-quartz
+  baseUrl: notafraidofspiders.github.io/Ahuatunga-Quartz
   ignorePatterns:
     - private
     - templates
