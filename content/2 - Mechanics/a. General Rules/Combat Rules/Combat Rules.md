@@ -1,8 +1,9 @@
 ---
 publish: true
+title: Combat Rules
 created: 2025-12-05T19:23:32.811-06:00
-modified: 2026-04-22T20:45:19.391-05:00
-published: 2026-04-22T20:45:19.391-05:00
+modified: 2026-04-24T13:34:08.043-05:00
+published: 2026-04-24T13:34:08.043-05:00
 tags:
   - Rules
 ---
