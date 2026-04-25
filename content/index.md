@@ -2,8 +2,8 @@
 publish: true
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-24T13:30:28.591-05:00
-published: 2026-04-24T13:30:28.591-05:00
+modified: 2026-04-25T17:27:27.507-05:00
+published: 2026-04-25T17:27:27.507-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -19,6 +19,11 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > Please report any broken links, images, stat blocks, etc. to me so that I can fix them.
 >
 > Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
+
+> [!bug] Folder Note Bug
+> I have identified a major bug which prevents hyperlinks to documents which are both folders and files from working from within the body of a page. This impacts any links to [[Combat Rules]], [[Spellcasting Rules]], and each of the [[Class Index|classes]]. The bug causes the link to point to a URL which does not exist, rather than the actual page which can be accessed normally through the file explorer or search bar.
+>
+> Sorry for the inconvenience!
 
 # The Ahuatunga Campaign Setting
 
