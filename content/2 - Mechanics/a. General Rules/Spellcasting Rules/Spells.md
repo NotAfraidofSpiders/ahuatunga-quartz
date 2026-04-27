@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Spellcasting Rules/Spells.md
 created: 2025-09-21T19:24:55.683-05:00
-modified: 2026-04-26T00:07:06.790-05:00
-published: 2026-04-26T00:07:06.790-05:00
+modified: 2026-04-27T14:46:47.036-05:00
+published: 2026-04-27T14:46:47.036-05:00
 tags:
   - Rules
   - StatBlock
@@ -76,17 +77,17 @@ You create a ghostly, skeletal hand in the space of a creature within range. Mak
 
 _Transmutation Cantrip_
 
-| Casting Info |                         |
-| ------------ | ----------------------- |
-| Casting Time | 1 action                |
-| Range        | 60 feet                 |
-| Components   | S                       |
-| Duration     | Instantaneous or 1 hour |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | S                                    |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous or 1 hour              |
 You choose non-magical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
 
 - You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 - You instantaneously extinguish the flames within the cube.
-- You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.
+- You double or halve the area of [[Environment Rules#Bright Light|bright light]] and [[Environment Rules#Dim Light|dim light]] cast by the flame, change its color, or both. The change lasts for 1 hour.
 - You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
@@ -215,13 +216,13 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 
 _Evocation cantrip_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 60 feet       |
-| Components   | V, S          |
-| Duration     | Instantaneous |
-You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has [[Ability Scores#Advantage and Disadvantage|disadvantage]] on the next weapon attack roll it makes before the end of its next turn.
 
 ---
 
@@ -259,15 +260,15 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 _Transmutation Cantrip_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 30 feet       |
-| Comp         | V, S          |
-| Duration     | Instantaneous |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
 You seize the air and compel it to create one of the following effects at a point you can see within range:
 
-- One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+- One [[Combat Rules#Size Category Table|Medium or smaller]] creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
 - You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.
 - You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
 
@@ -322,12 +323,12 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 _Evocation cantrip_
 
-| Casting Info |                       |
-| ------------ | --------------------- |
-| Casting Time | 1 action              |
-| Range        | Self (15-foot radius) |
-| Components   | V                     |
-| Duration     | Instantaneous         |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | Self (15-foot radius)                |
+| [[Spellcasting Rules#Components\|Components]]     | V                                    |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within 15 feet of you. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
 ---
@@ -354,13 +355,13 @@ The hand can’t attack, activate magical items, or carry more than 10 pounds.
 
 _Transmutation cantrip_
 
-| Casting Info |                |
-| ------------ | -------------- |
-| Casting Time | 1 bonus action |
-| Range        | Touch          |
-| Components   | V, S           |
-| Duration     | 1 minute       |
-You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a sling. If thrown, it has a range of 60 feet. If someone else attacks with the pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Hit or miss, the spell then ends on the stone.
+| Casting Info                                      |                                                |
+| ------------------------------------------------- | ---------------------------------------------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Bonus Actions\|bonus action]] |
+| [[Spellcasting Rules#Range\|Range]]               | Touch                                          |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                           |
+| [[Spellcasting Rules#Duration\|Duration]]         | 1 minute                                       |
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a [[Weapons#Sling|sling]]. If thrown, it has a range of 60 feet. If someone else attacks with the pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Hit or miss, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends early on any pebbles still affected by it.
 
@@ -430,17 +431,17 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 _Transmutation cantrip_
 
-| Casting Info |                         |
-| ------------ | ----------------------- |
-| Casting Time | 1 action                |
-| Range        | 30 Feet                 |
-| Components   | S                       |
-| Duration     | Instantaneous or 1 hour |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 30 Feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | S                                    |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous or 1 hour              |
 You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
 
 - If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
 - You cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.
-- If the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
+- If the dirt or stone you target is on the ground, you cause it to become [[Movement Rules#Difficult Terrain|difficult terrain]]. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
@@ -513,13 +514,13 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 _Conjuration cantrip_
 
-| Casting Info |            |
-| ------------ | ---------- |
-| Casting Time | 1 action   |
-| Range        | Self       |
-| Components   | V, S       |
-| Duration     | 10 minutes |
-A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it as an action or if you cast it again.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | Self                                 |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | 10 minutes                           |
+A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds [[Environment Rules#Bright Light|bright light]] in a 10-foot radius and [[Environment Rules#Dim Light|dim light]] for an additional 10 feet. The spell ends if you dismiss it as an [[Combat Rules#Your Turn|action]] or if you cast it again.
 
 You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
@@ -531,13 +532,13 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 _Evocation cantrip_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 60 feet       |
-| Components   | V, S          |
-| Duration     | Instantaneous |
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its [[Movement Rules#Speed|speed]] is reduced by 10 feet until the start of your next turn.
 
 ---
 
@@ -591,12 +592,12 @@ You sap the vitality of one creature you can see in range. The target must succe
 
 _Transmutation cantrip_
 
-| Casting Info |                                 |
-| ------------ | ------------------------------- |
-| Casting Time | 1 action                        |
-| Range        | 30 feet                         |
-| Components   | S                               |
-| Duration     | Instantaneous or up to one hour |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | S                                    |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous or up to one hour      |
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
 
 - You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
@@ -621,13 +622,13 @@ The wood of a club or quarterstaff you are holding is imbued with nature’s pow
 
 _Evocation cantrip_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | Touch         |
-| Components   | V, S          |
-| Duration     | Instantaneous |
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | Touch                                |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take [[Combat Rules#Reactions|reactions]] until the start of its next turn.
 
 ---
 
@@ -685,13 +686,13 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 _Transmutation Cantrip_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 30 feet       |
-| Components   | V, S, M       |
-| Duration     | Instantaneous |
-You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is [[Combat Rules#Size Category Table|Large or smaller]], you pull the creature up to 10 feet closer to you.
 
 ---
 
@@ -863,13 +864,13 @@ As a bonus action, you can change the damage type, choosing from the options abo
 
 _1st-Level Abjuration_
 
-| Casting Info |          |
-| ------------ | -------- |
-| Casting Time | 1 action |
-| Range        | Self     |
-| Components   | V, S, M  |
-| Duration     | 1 hour   |
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | Self                                 |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
+| [[Spellcasting Rules#Duration\|Duration]]         | 1 hour                               |
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 [[Combat Rules#Temporary Hit Points|temporary hit points]] for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
 ---
 
@@ -939,12 +940,12 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 _1st-Level Evocation_
 
-| Casting Info |                     |
-| ------------ | ------------------- |
-| Casting Time | 1 action            |
-| Range        | Self (15-foot cone) |
-| Components   | V, S                |
-| Duration     | Instantaneous       |
+| Casting Info                                      |                                                  |
+| ------------------------------------------------- | ------------------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]]             |
+| [[Spellcasting Rules#Range\|Range]]               | Self (15-foot [[Spellcasting Rules#Cone\|cone]]) |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                             |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                    |
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
@@ -1148,12 +1149,12 @@ This spell doesn’t decode secret messages in a text or glyph, such as an arcan
 
 _1st-Level Transmutation_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 30 feet       |
-| Components   | V, S, M       |
-| Duration     | Instantaneous |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
 You either create or destroy water.
 
 **_Create Water._** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.
@@ -1284,13 +1285,13 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 _1st-Level Evocation_
 
-| Casting Info |                       |
-| ------------ | --------------------- |
-| Casting Time | 1 action              |
-| Range        | Self (10-foot radius) |
-| Components   | V, S                  |
-| Duration     | Instantaneous         |
-You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | Self (10-foot radius)                |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes [[Movement Rules#Difficult Terrain|difficult terrain]] until cleared.
 
 ---
 
@@ -1412,13 +1413,13 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 _1st-Level conjuration_
 
-| Casting Info  |                             |
-| ------------- | --------------------------- |
-| Casting Times | 1 action                    |
-| Range         | 120 feet                    |
-| Components    | V, S                        |
-| Duration      | Concentration, up to 1 hour |
-You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+| Casting Info                                      |                                                                   |
+| ------------------------------------------------- | ----------------------------------------------------------------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]]                              |
+| [[Spellcasting Rules#Range\|Range]]               | 120 feet                                                          |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                                              |
+| [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hour |
+You create a 20-foot-radius [[Spellcasting Rules#Sphere|sphere]] of fog centered on a point within range. The sphere spreads around corners, and its area is [[Environment Rules#Heavily Obscured|heavily obscured]]. It lasts for the duration or until a [[Temperature and Weather Rules#Wind|wind of moderate or greater speed]] (at least 10 miles per hour) disperses it.
 
 ---
 
@@ -1446,13 +1447,13 @@ The cold freezes nonmagical liquids in the area that aren't being worn or carrie
 
 _1st-Level Divination_ **Source: Explorer's Guide to Wildemount**
 
-| Casting Info |          |
-| ------------ | -------- |
-| Casting Time | 1 minute |
-| Range        | Touch    |
-| Components   | V, S     |
-| Duration     | 8 hours  |
-You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
+| Casting Info                                      |          |
+| ------------------------------------------------- | -------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 minute |
+| [[Spellcasting Rules#Range\|Range]]               | Touch    |
+| [[Spellcasting Rules#Components\|Components]]     | V, S     |
+| [[Spellcasting Rules#Duration\|Duration]]         | 8 hours  |
+You touch a willing creature. For the duration, the target can add 1d8 to its [[Combat Rules#Initiative|initiative]] rolls.
 
 ### Goodberry
 
@@ -1532,12 +1533,12 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 _1st-Level Conjuration_ **Source: Unearthed Arcana 36 - Starter Spells**
 
-| Casting Info |          |
-| ------------ | -------- |
-| Casting Time | 1 minute |
-| Range        | Self     |
-| Components   | V, S, M  |
-| Duration     | 24 hours |
+| Casting Info                                      |          |
+| ------------------------------------------------- | -------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 minute |
+| [[Spellcasting Rules#Range\|Range]]               | Self     |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M  |
+| [[Spellcasting Rules#Duration\|Duration]]         | 24 hours |
 You create a healing elixir in a simple vial that appears in your hand. The elixir retains its potency for the duration or until it’s consumed, at which point the vial vanishes.
 
 As an action, a creature can drink the elixir or administer it to another creature. The drinker regains 2d4 + 2 hit points.
@@ -1562,12 +1563,12 @@ A creature of your choice that you can see within range regains hit points equal
 
 _1st-Level evocation_
 
-| Casting Info |                                                                                             |
-| ------------ | ------------------------------------------------------------------------------------------- |
-| Casting Time | 1 reaction, which you take when you are damaged by a creature within range that you can see |
-| Range        | 60 feet                                                                                     |
-| Components   | V, S                                                                                        |
-| Duration     | Instantaneous                                                                               |
+| Casting Info                                      |                                                                                                                         |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Reactions\|reaction]], which you take when you are damaged by a creature within range that you can see |
+| [[Spellcasting Rules#Range\|Range]]               | 60 feet                                                                                                                 |
+| [[Spellcasting Rules#Components\|Components]]     | V, S                                                                                                                    |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                                                                                           |
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
 ---
@@ -1632,12 +1633,12 @@ If the target drops to 0 hit points before this spell ends, you can use a bonus 
 
 _1st-Level Evocation_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 60 feet       |
-| Components   | S, M          |
-| Duration     | Instantaneous |
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
+| [[Spellcasting Rules#Components\|Components]]     | S, M                                 |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.
 
 ---
@@ -1706,13 +1707,13 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 _1st-Level Transmutation_
 
-| Casting Info |          |
-| ------------ | -------- |
-| Casting Time | 1 action |
-| Range        | Touch    |
-| Components   | V, S, M  |
-| Duration     | 1 minute |
-You touch a creature. The creature's jump distance is tripled until the spell ends.
+| Casting Info                                      |                                      |
+| ------------------------------------------------- | ------------------------------------ |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]] |
+| [[Combat Rules#Ranged Attacks\|ranged attack]]    | Touch                                |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
+| [[Spellcasting Rules#Duration\|Duration]]         | 1 minute                             |
+You touch a creature. The creature's [[Movement Rules#Jumping|jump distance]] is tripled until the spell ends.
 
 ### Longstrider
 
@@ -2131,12 +2132,12 @@ You call out to the spirits of nature to aid you. When you cast this spell, choo
 
 _1st-Level Evocation_
 
-| Casting Info |                               |
-| ------------ | ----------------------------- |
-| Casting Time | 1 action                      |
-| Range        | 30 feet                       |
-| Components   | V, S, M                       |
-| Duration     | Concentration, up to 1 minute |
+| Casting Info                                      |                                                                     |
+| ------------------------------------------------- | ------------------------------------------------------------------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]]                                |
+| [[Spellcasting Rules#Range\|Range]]               | 30 feet                                                             |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                             |
+| [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 minute |
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you.
 
 ---
@@ -2175,12 +2176,12 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 
 _2nd-Level Evocation_
 
-| Casting Info |               |
-| ------------ | ------------- |
-| Casting Time | 1 action      |
-| Range        | 30 feet       |
-| Components   | V, S, M       |
-| Duration     | Instantaneous |
+| Casting Info                                      |                                                |
+| ------------------------------------------------- | ---------------------------------------------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 action                                       |
+| [[Spellcasting Rules#Range\|Range]]               | Self (30-ft [[Spellcasting Rules#Line\|line]]) |
+| [[Spellcasting Rules#Components\|Components]]     | V, S, M                                        |
+| [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                  |
 A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
 
 ---
@@ -2531,12 +2532,12 @@ As a bonus action, you can move the dust devil up to 30 feet in any direction. I
 
 ### Earthbind
 
-| Casting Info |                                                                  |
-| ------------ | ---------------------------------------------------------------- |
-| Casting Time | 1 [[Combat Rules#Your Turn\|action]]                             |
-| Range        | 300 ft                                                           |
-| Components   | [[Spellcasting Rules#Verbal (V)\|V]]                             |
-| Duration     | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+| Casting Info                                      |                                                                  |
+| ------------------------------------------------- | ---------------------------------------------------------------- |
+| [[Spellcasting Rules#Casting Time\|Casting Time]] | 1 [[Combat Rules#Your Turn\|action]]                             |
+| [[Spellcasting Rules#Range\|Range]]               | 300 ft                                                           |
+| [[Spellcasting Rules#Components\|Components]]     | V                                                                |
+| [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a [[Ability Scores#Saving Throws|Strength saving throw]] or its [[Monster Rules#Fly|flying speed]] (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
 #### DM ruling:
@@ -3143,7 +3144,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 | [[Spellcasting Rules#Range\|Range]]               | Self (30-ft [[Spellcasting Rules#Cone\|cone]]) |
 | [[Spellcasting Rules#Components\|Components]]     | S, M                                           |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                  |
-A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn’t hindered by ice.
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its [[Movement Rules#Speed|speed]] reduced to 0. On a successful save, a creature takes half as much damage and isn’t hindered by ice.
 
 ---
 
@@ -3405,14 +3406,14 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                               |
 | [[Spellcasting Rules#Components\|Components]]     | V                                                                  |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 mins |
-A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.
+A [[Environment Rules|strong wind]] (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.
 
 The wind has the following effects:
 
-- It deafens you and other creatures in its area.
+- It [[Conditions#Deafened|deafens]] you and other creatures in its area.
 - It extinguishes unprotected flames in its area that are torch-sized or smaller.
 - The area is difficult terrain for creatures other than you.
-- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.
+- The [[Combat Rules#Attack Rolls|attack rolls]] of [[Combat Rules#Ranged Attacks|ranged weapon attacks]] have [[Ability Scores#Advantage and Disadvantage|disadvantage]] if they pass in or out of the wind.
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
 ### Warp Sense

@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Waiiwi.md
 created: 2025-09-21T19:25:18.877-05:00
-modified: 2026-04-22T20:48:11.329-05:00
-published: 2026-04-22T20:48:11.329-05:00
+modified: 2026-04-27T14:24:25.968-05:00
+published: 2026-04-27T14:24:25.968-05:00
 tags:
   - PlayerOption
   - lineage
@@ -12,7 +13,7 @@ _[[Iwi Lineage|Waiiwi]] live in harmony with the element of water, primarily inh
 
 ## Natural Swimmers
 
-You have a 30 foot swim speed and can hold your breath 10 times longer than normal.
+You have a 30 foot [[Monster Rules#Swim|swim speed]] and can [[Environment Rules#Suffocating|hold your breath]] 10 times longer than normal.
 
 ## One with the Tide
 

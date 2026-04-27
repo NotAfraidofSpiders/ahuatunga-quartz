@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Hauiwi.md
 created: 2025-09-21T19:25:18.762-05:00
-modified: 2026-04-22T20:47:58.706-05:00
-published: 2026-04-22T20:47:58.706-05:00
+modified: 2026-04-27T14:04:30.243-05:00
+published: 2026-04-27T14:04:30.243-05:00
 tags:
   - PlayerOption
   - lineage
@@ -12,7 +13,7 @@ _Connected to the element of air, [[Iwi Lineage|Hauiwi]] claim the floating isla
 
 ## Fall Resistance
 
-You have resistance to [[Environment Rules#Falling|fall damage]].
+You have [[Combat Rules#Damage Resistance and Vulnerability|resistance]] to [[Environment Rules#Falling|damage from falling]].
 
 ## Feather-light Soul
 

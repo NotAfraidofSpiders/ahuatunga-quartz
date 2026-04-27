@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Tioiwi.md
 created: 2025-09-21T19:25:18.859-05:00
-modified: 2026-04-22T20:48:10.042-05:00
-published: 2026-04-22T20:48:10.042-05:00
+modified: 2026-04-27T14:18:45.847-05:00
+published: 2026-04-27T14:18:45.847-05:00
 tags:
   - PlayerOption
   - lineage
@@ -12,7 +13,7 @@ _Stoic and self-sufficient, one might describe the typical [[Iwi Lineage|tioiwi]
 
 ## Cold Resistance
 
-You have resistance to cold damage.
+You have [[Combat Rules#Damage Resistance and Vulnerability|resistance]] to cold damage.
 
 ## Frigid Heart
 

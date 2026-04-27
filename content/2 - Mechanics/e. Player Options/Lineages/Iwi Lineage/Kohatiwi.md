@@ -1,18 +1,19 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Kohatiwi.md
 created: 2025-09-21T19:25:18.813-05:00
-modified: 2026-04-22T20:48:00.769-05:00
-published: 2026-04-22T20:48:00.769-05:00
+modified: 2026-04-27T14:14:52.361-05:00
+published: 2026-04-27T14:14:52.361-05:00
 tags:
   - PlayerOption
   - lineage
 ---
 
-[[Iwi Lineage|Kohatiwi]] are the most culturally diverse tribe of iwi. Claiming the storm-wrought desserts of [[Motara - Cradle of Lightning|Motara]] as their homeland, they are usually a cunning bunch. Skilled craftsmen, clever merchants, and vicious bandits are all common enough amongst kohatiwi. Channeling the element of lightning, they are a force to be reckoned with, both on the battlefield and the trail.
+_[[Iwi Lineage|Kohatiwi]] are the most culturally diverse tribe of iwi. Claiming the storm-wrought desserts of [[Motara - Cradle of Lightning|Motara]] as their homeland, they are usually a cunning bunch. Skilled craftsmen, clever merchants, and vicious bandits are all common enough amongst kohatiwi. Channeling the element of lightning, they are a force to be reckoned with, both on the battlefield and the trail._
 
 ## Lightning Resistance
 
-You are resistant to lightning damage.
+You have [[Combat Rules#Damage Resistance and Vulnerability|resistance]] to lightning damage.
 
 ## Electric Essence
 

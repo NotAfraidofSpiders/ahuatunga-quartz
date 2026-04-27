@@ -1,8 +1,9 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Whenuiwi.md
 created: 2025-09-21T19:25:18.897-05:00
-modified: 2026-04-22T20:48:13.822-05:00
-published: 2026-04-22T20:48:13.822-05:00
+modified: 2026-04-27T14:41:35.557-05:00
+published: 2026-04-27T14:41:35.557-05:00
 tags:
   - PlayerOption
   - lineage
@@ -15,7 +16,7 @@ _Connected to the element of earth, [[Iwi Lineage|whenuiwi]] claim the caverns o
 You have [[Environment Rules#Darkvision|darkvision]] to a range of 60 feet. Additionally, you gain one of the following benefits:
 
 - You gain a 15 ft. [[Monster Rules#Burrow|burrow]] speed which leaves a tunnel behind you.  ^fcc5f6
-- You ignore difficult terrain made of earth or stone and you can use an action while wielding a tool such as a pickax to clear a path large enough for a medium creature through up to 5 ft. of solid stone.
+- You ignore [[Movement Rules#Difficult Terrain|difficult terrain]] made of earth or stone and you can use an [[Combat Rules#Your Turn|action]] while wielding a tool such as a pickax to clear a path large enough for a [[Combat Rules#Size Category Table|medium creature]] through up to 5 ft. of solid stone.
 
 ## Terran Vigil
 
