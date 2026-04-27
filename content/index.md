@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-27T15:49:07.415-05:00
-published: 2026-04-27T15:49:07.415-05:00
+modified: 2026-04-27T16:11:17.144-05:00
+published: 2026-04-27T16:11:17.144-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -25,6 +25,11 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > I have identified a major bug which prevents hyperlinks to documents which are both folders and files from working from within the body of a page. This impacts any links to [[Combat Rules]], [[Spellcasting Rules]], and each of the [[Class Index|classes]]. The bug causes the link to point to a URL which does not exist, rather than the actual page which can be accessed normally through the file explorer or search bar.
 >
 > Sorry for the inconvenience!
+>
+> _Debugging in progress..._
+>
+> - Wikilink: [[Combat Rules]]
+> - Markdown Link:[Combat Rules](</2 - Mechanics/a. General Rules/Combat Rules/Combat Rules>)
 
 # The Ahuatunga Campaign Setting
 
