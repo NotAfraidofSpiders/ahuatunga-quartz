@@ -263,8 +263,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: its-theme.ttrpg-pathfinder-remastered
 layout:
   groups:
     toolbar:
