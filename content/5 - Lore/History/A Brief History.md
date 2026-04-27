@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 - Lore/History/A Brief History.md
 created: 2026-04-02T23:04:52.126-05:00
-modified: 2026-04-22T20:47:12.014-05:00
-published: 2026-04-22T20:47:12.014-05:00
+modified: 2026-04-27T17:14:58.331-05:00
+published: 2026-04-27T17:14:58.331-05:00
 tags:
   - Lore
   - Player-Notes
@@ -21,7 +21,7 @@ The first empire fell to The Atarangi's armies half a century after the war bega
 
 #### Winning The Shadow War
 
-It took many nations, empires, kingdoms, and republics combined, in addition to the sacrifice of an untold number of brave souls to hold off the Dreadwalkers with their hordes of kararehe-wehi. The Kaitiaki, in their glorious quest to vanquish The Atarangi, sought out the ancient [[Hipoki]] of power to bolster their talents. The epic tale is best recounted by [[Raga Rero]], the first [[The Chronicler|chronicler]], who journeyed with the Kaitiaki so that the iwi may forever remember how they emerged from [[The Atarangi]]'s eternal night.
+It took many nations, empires, kingdoms, and republics combined, in addition to the sacrifice of an untold number of brave souls to hold off the Dreadwalkers with their hordes of kararehe-wehi. The Kaitiaki, in their glorious quest to vanquish The Atarangi, sought out the ancient [[Hipoki Overview]] of power to bolster their talents. The epic tale is best recounted by [[Raga Rero]], the first [[The Chronicler|chronicler]], who journeyed with the Kaitiaki so that the iwi may forever remember how they emerged from [[The Atarangi]]'s eternal night.
 
 With the knowledge and arcane might of many archmages and sorcerers, the Kaitiaki were able to construct a prison at the heart of all things to banish The Atarangi for the rest of all epochs. It took a great campaign of battles which lasted many weeks to weaken The Atarangi enough to depose it. The battles nearly claimed the chronicler's life, and claimed the lives of several Kaitiaki. In the end, however, the united armies of Ahuatunga were able to fend of the hordes and Dreadwalkers for long enough that they won the war, and vanquished The Atarangi once and for all.
 
