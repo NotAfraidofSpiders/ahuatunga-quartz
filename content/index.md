@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-27T16:11:17.144-05:00
-published: 2026-04-27T16:11:17.144-05:00
+modified: 2026-04-27T16:29:39.115-05:00
+published: 2026-04-27T16:29:39.115-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -29,7 +29,7 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > _Debugging in progress..._
 >
 > - Wikilink: [[Combat Rules]]
-> - Markdown Link:[Combat Rules](</2 - Mechanics/a. General Rules/Combat Rules/Combat Rules>)
+> - Markdown Link:[Combat Rules](<Combat Rules.md>)
 
 # The Ahuatunga Campaign Setting
 
