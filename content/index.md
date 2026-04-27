@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-27T16:29:39.115-05:00
-published: 2026-04-27T16:29:39.115-05:00
+modified: 2026-04-27T16:47:42.279-05:00
+published: 2026-04-27T16:47:42.279-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -21,15 +21,11 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 >
 > Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
 
-> [!bug] Folder Note Bug
-> I have identified a major bug which prevents hyperlinks to documents which are both folders and files from working from within the body of a page. This impacts any links to [[Combat Rules]], [[Spellcasting Rules]], and each of the [[Class Index|classes]]. The bug causes the link to point to a URL which does not exist, rather than the actual page which can be accessed normally through the file explorer or search bar.
+> [!Bug] Explorer Tab Doesn't Display Pages
+> In fixing a bug causing a large amount of important links not to generate properly I have inadvertently broken the explorer tab and search bar. I know for a fact that deleting and relaunching the whole wiki will fix this, but that is a tremendous hassle, so I'm investigating a few less nuclear options.
 >
-> Sorry for the inconvenience!
->
-> _Debugging in progress..._
->
-> - Wikilink: [[Combat Rules]]
-> - Markdown Link:[Combat Rules](<Combat Rules.md>)
+> In the meantime, please contact me if you cannot find a link you need from the homepage and hyperlinks!
+> _Cheers!_
 
 # The Ahuatunga Campaign Setting
 
