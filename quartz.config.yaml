@@ -126,9 +126,6 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  - source: github:quartz-community/folder-page
-    enabled: true
-    options: {}
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -144,6 +141,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/canvas-page
     enabled: true
+  - source: github:quartz-community/folder-page
+    enabled: true
+    options: {}
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/tag-page
