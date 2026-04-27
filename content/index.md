@@ -1,10 +1,10 @@
 ---
 publish: true
 permalink: /index.md
-title: Ahuatunga Wiki
+title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-27T16:50:19.434-05:00
-published: 2026-04-27T16:50:19.434-05:00
+modified: 2026-04-27T17:06:17.147-05:00
+published: 2026-04-27T17:06:17.147-05:00
 tags:
   - Player-Notes
   - web-utils
