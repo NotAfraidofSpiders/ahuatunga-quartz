@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Poisons.md
 created: 2025-12-22T11:23:00.210-06:00
-modified: 2026-04-22T20:46:21.904-05:00
-published: 2026-04-22T20:46:21.904-05:00
+modified: 2026-04-27T17:24:13.021-05:00
+published: 2026-04-27T17:24:13.021-05:00
 tags:
   - Rules
   - Item
@@ -19,7 +19,7 @@ Given their insidious and deadly nature, poisons are illegal in most societies b
 
 **Inhaled**: These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
-**Injury**: Injury poison can be applied to weapons, ammunition, [[Traps|trap components]], and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
+**Injury**: Injury poison can be applied to weapons, ammunition, [[Trap Rules|trap components]], and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
 ### Poisons Table
 

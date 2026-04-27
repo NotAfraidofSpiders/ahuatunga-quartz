@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Tools.md
 created: 2025-12-05T16:21:57.808-06:00
-modified: 2026-04-22T20:46:33.293-05:00
-published: 2026-04-22T20:46:33.293-05:00
+modified: 2026-04-27T17:24:13.047-05:00
+published: 2026-04-27T17:24:13.047-05:00
 tags:
   - Item
   - Rules
@@ -88,4 +88,4 @@ A poisoner’s kit includes the vials, chemicals, and other equipment necessary 
 
 ### Thieves’ Tools:
 
-This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to [[Traps#Detecting and Disabling a Trap|disarm traps]] or open locks.
+This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to [[Trap Rules#Detecting and Disabling a Trap|disarm traps]] or open locks.
