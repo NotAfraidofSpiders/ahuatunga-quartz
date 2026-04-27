@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 - Lore/History/A Brief History.md
 created: 2026-04-02T23:04:52.126-05:00
-modified: 2026-04-27T17:14:58.331-05:00
-published: 2026-04-27T17:14:58.331-05:00
+modified: 2026-04-27T17:25:32.355-05:00
+published: 2026-04-27T17:25:32.355-05:00
 tags:
   - Lore
   - Player-Notes
@@ -11,7 +11,7 @@ tags:
 
 ## Pre-History
 
-In the time before time, it is said that the known world could not be crossed in years of travel, and many nations and people occupied lands which can hardly be described. The story goes that [[The Atarangi]] - the god of death, decay, and destruction - grew jealous of the adoration which the iwi gave to the creator god Ahuatunga- for which The Island is named.  Legends tell of a grand plot, spanning centuries, hatched by The Atarangi to win the hearts and minds of the iwi, and decimate Ahuatunga. In the wake of that plot, with Ahuatunga slumbering from the Atarangi's eternal night the penitent iwi were led through visions of their sleeping god to the ancestral birthplace of all iwi, which they named after their benevolent god: [[1 - Island of Ahuatunga|The Island Ahuatunga]].
+In the time before time, it is said that the known world could not be crossed in years of travel, and many nations and people occupied lands which can hardly be described. The story goes that [[The Atarangi]] - the god of death, decay, and destruction - grew jealous of the adoration which the iwi gave to the creator god Ahuatunga- for which The Island is named.  Legends tell of a grand plot, spanning centuries, hatched by The Atarangi to win the hearts and minds of the iwi, and decimate Ahuatunga. In the wake of that plot, with Ahuatunga slumbering from the Atarangi's eternal night the penitent iwi were led through visions of their sleeping god to the ancestral birthplace of all iwi, which they named after their benevolent god: [[Island of Ahuatunga|The Island Ahuatunga]].
 
 ### The Shadow War
 
@@ -27,7 +27,7 @@ With the knowledge and arcane might of many archmages and sorcerers, the Kaitiak
 
 ### The Journey to The Island
 
-The pilgrimage of the penitent iwi to [[1 - Island of Ahuatunga|the island]] was a long and dangerous voyage. Many iwi perished on the journey. The dark, deep, empty seas sank the minds of many veterans, who returned to the elements in the depths. So far from their [[Primeval Spirits]], the children born at sea became the first [[Takoto Kau]]: iwi cursed to grow old without ever acquiring an [[The Six Elements#Elemental Affinity|elemental affinity]]. Some who remember the journey claim to have seen titanic monsters in the depths, but it is unknown if there are truly creatures out beyond the shallows around the island.
+The pilgrimage of the penitent iwi to [[Island of Ahuatunga|the island]] was a long and dangerous voyage. Many iwi perished on the journey. The dark, deep, empty seas sank the minds of many veterans, who returned to the elements in the depths. So far from their [[Primeval Spirits]], the children born at sea became the first [[Takoto Kau]]: iwi cursed to grow old without ever acquiring an [[The Six Elements#Elemental Affinity|elemental affinity]]. Some who remember the journey claim to have seen titanic monsters in the depths, but it is unknown if there are truly creatures out beyond the shallows around the island.
 
 ## The Era of Rebuilding
 
