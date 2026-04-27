@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Hauiwi.md
 created: 2025-09-21T19:25:18.762-05:00
 modified: 2026-04-27T14:04:30.243-05:00
 published: 2026-04-27T14:04:30.243-05:00
