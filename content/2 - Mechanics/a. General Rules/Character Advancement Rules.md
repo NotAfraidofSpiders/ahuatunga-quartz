@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Character Advancement Rules.md
 created: 2025-12-22T10:36:56.107-06:00
 modified: 2026-04-22T20:45:14.173-05:00
 published: 2026-04-22T20:45:14.173-05:00

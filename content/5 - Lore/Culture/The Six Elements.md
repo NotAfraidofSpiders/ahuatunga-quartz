@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /5 - Lore/Culture/The Six Elements.md
 created: 2026-03-05T21:55:32.861-06:00
 modified: 2026-04-22T20:47:19.836-05:00
 published: 2026-04-22T20:47:19.836-05:00

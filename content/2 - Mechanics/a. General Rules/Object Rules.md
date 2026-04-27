@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Object Rules.md
 created: 2025-12-24T15:11:47.426-06:00
 modified: 2026-04-22T20:45:49.390-05:00
 published: 2026-04-22T20:45:49.390-05:00

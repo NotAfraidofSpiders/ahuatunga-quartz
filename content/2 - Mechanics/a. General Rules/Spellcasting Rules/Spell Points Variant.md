@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Spellcasting Rules/Spell Points Variant.md
 created: 2026-04-08T09:14:33.686-05:00
 modified: 2026-04-22T20:46:27.611-05:00
 published: 2026-04-22T20:46:27.611-05:00

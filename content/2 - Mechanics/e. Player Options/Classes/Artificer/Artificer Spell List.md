@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Artificer/Artificer Spell List.md
 created: 2025-12-02T18:44:27.488-06:00
 modified: 2026-04-22T20:44:38.815-05:00
 published: 2026-04-22T20:44:38.815-05:00

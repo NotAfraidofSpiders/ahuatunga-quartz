@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /5 - Lore/History/A Brief History.md
 created: 2026-04-02T23:04:52.126-05:00
 modified: 2026-04-22T20:47:12.014-05:00
 published: 2026-04-22T20:47:12.014-05:00

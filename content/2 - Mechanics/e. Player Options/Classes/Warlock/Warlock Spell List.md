@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Warlock/Warlock Spell List.md
 created: 2025-12-02T18:53:03.707-06:00
 modified: 2026-04-22T20:46:36.061-05:00
 published: 2026-04-22T20:46:36.061-05:00

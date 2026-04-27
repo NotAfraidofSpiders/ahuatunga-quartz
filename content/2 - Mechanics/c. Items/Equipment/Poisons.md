@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/c. Items/Equipment/Poisons.md
 created: 2025-12-22T11:23:00.210-06:00
 modified: 2026-04-22T20:46:21.904-05:00
 published: 2026-04-22T20:46:21.904-05:00

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1 - Island of Ahuatunga/1 - Island of Ahuatunga.md
 aliases:
   - the island
   - Ahuatunga (Island)

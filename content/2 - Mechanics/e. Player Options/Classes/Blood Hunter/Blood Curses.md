@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Blood Hunter/Blood Curses.md
 created: 2025-10-14T12:17:26.240-05:00
 modified: 2026-04-22T20:45:10.646-05:00
 published: 2026-04-22T20:45:10.646-05:00

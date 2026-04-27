@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Bard/Bard.md
 created: 2025-09-21T19:25:18.917-05:00
 modified: 2026-04-22T20:45:08.295-05:00
 published: 2026-04-22T20:45:08.295-05:00

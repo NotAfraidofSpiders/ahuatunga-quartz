@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Spellcasting Rules/Spells.md
 created: 2025-09-21T19:24:55.683-05:00
 modified: 2026-04-27T14:46:47.036-05:00
 published: 2026-04-27T14:46:47.036-05:00

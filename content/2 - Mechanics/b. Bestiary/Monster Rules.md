@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/b. Bestiary/Monster Rules.md
 created: 2025-12-25T21:26:39.234-06:00
 modified: 2026-04-22T20:45:46.765-05:00
 published: 2026-04-22T20:45:46.765-05:00

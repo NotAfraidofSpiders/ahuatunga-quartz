@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Fighter/Psi Warrior.md
 created: 2025-10-14T12:05:44.226-05:00
 modified: 2026-04-22T20:48:04.148-05:00
 published: 2026-04-22T20:48:04.148-05:00

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Resting Rules.md
 created: 2025-12-22T10:18:36.684-06:00
 modified: 2026-04-22T20:46:23.941-05:00
 published: 2026-04-22T20:46:23.941-05:00

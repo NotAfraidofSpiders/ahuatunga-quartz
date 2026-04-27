@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/d. Dangers/Afflictions/Madness.md
 created: 2025-12-25T19:42:59.360-06:00
 modified: 2026-04-22T20:45:43.603-05:00
 published: 2026-04-22T20:45:43.603-05:00

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Whenuiwi.md
 created: 2025-09-21T19:25:18.897-05:00
 modified: 2026-04-27T14:41:35.557-05:00
 published: 2026-04-27T14:41:35.557-05:00

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Class Index.md
 created: 2026-04-24T12:37:59.598-05:00
 modified: 2026-04-24T13:20:22.094-05:00
 published: 2026-04-24T13:20:22.094-05:00

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Warlock/Eldritch Invocations.md
 created: 2025-12-25T17:03:59.078-06:00
 modified: 2026-04-22T20:47:57.329-05:00
 published: 2026-04-22T20:47:57.329-05:00

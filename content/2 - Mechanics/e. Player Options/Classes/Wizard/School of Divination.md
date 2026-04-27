@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Classes/Wizard/School of Divination.md
 created: 2025-10-14T12:12:56.345-05:00
 modified: 2026-04-22T20:48:05.562-05:00
 published: 2026-04-22T20:48:05.562-05:00

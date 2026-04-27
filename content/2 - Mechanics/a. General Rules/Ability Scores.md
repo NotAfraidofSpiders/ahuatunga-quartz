@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Ability Scores.md
 created: 2025-12-05T19:05:38.701-06:00
 modified: 2026-04-22T20:40:52.094-05:00
 published: 2026-04-22T20:40:52.094-05:00

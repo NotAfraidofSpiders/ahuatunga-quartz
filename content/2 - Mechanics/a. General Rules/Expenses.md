@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Expenses.md
 created: 2025-12-25T17:20:07.455-06:00
 modified: 2026-04-22T20:45:29.806-05:00
 published: 2026-04-22T20:45:29.806-05:00

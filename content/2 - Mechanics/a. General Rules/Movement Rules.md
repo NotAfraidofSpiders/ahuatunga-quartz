@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Movement Rules.md
 created: 2025-12-15T15:31:07.945-06:00
 modified: 2026-04-22T20:45:48.375-05:00
 published: 2026-04-22T20:45:48.375-05:00

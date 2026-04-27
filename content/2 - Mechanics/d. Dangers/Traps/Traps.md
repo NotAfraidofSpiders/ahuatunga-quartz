@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/d. Dangers/Traps/Traps.md
 created: 2025-12-22T11:17:54.226-06:00
 modified: 2026-04-22T20:46:34.241-05:00
 published: 2026-04-22T20:46:34.241-05:00

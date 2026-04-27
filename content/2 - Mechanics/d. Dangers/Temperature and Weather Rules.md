@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/d. Dangers/Temperature and Weather Rules.md
 created: 2025-09-21T19:24:55.705-05:00
 modified: 2026-04-22T20:46:31.523-05:00
 published: 2026-04-22T20:46:31.523-05:00

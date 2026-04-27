@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi Lineage/Takoto Kau.md
 created: 2025-09-21T19:25:18.838-05:00
 modified: 2026-04-22T20:48:08.448-05:00
 published: 2026-04-22T20:48:08.448-05:00

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /2 - Mechanics/a. General Rules/Combat Rules/Homebrew Rules/Death Revisions.md
 created: 2025-09-21T19:25:17.963-05:00
 modified: 2026-04-22T20:45:23.183-05:00
 published: 2026-04-22T20:45:23.183-05:00
