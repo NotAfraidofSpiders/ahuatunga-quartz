@@ -1,9 +1,10 @@
 ---
 publish: true
+permalink: /index.md
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-25T17:27:27.507-05:00
-published: 2026-04-25T17:27:27.507-05:00
+modified: 2026-04-27T15:49:07.415-05:00
+published: 2026-04-27T15:49:07.415-05:00
 tags:
   - Player-Notes
   - web-utils
