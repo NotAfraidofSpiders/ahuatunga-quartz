@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Ahuatunga Wiki
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-27T16:47:42.279-05:00
-published: 2026-04-27T16:47:42.279-05:00
+modified: 2026-04-27T16:50:19.434-05:00
+published: 2026-04-27T16:50:19.434-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -20,12 +20,6 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > Please report any broken links, images, stat blocks, etc. to me so that I can fix them.
 >
 > Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
-
-> [!Bug] Explorer Tab Doesn't Display Pages
-> In fixing a bug causing a large amount of important links not to generate properly I have inadvertently broken the explorer tab and search bar. I know for a fact that deleting and relaunching the whole wiki will fix this, but that is a tremendous hassle, so I'm investigating a few less nuclear options.
->
-> In the meantime, please contact me if you cannot find a link you need from the homepage and hyperlinks!
-> _Cheers!_
 
 # The Ahuatunga Campaign Setting
 
