@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Spellcasting/Spells.md
 created: 2025-09-21T19:24:55.683-05:00
-modified: 2026-04-27T14:46:47.036-05:00
-published: 2026-04-27T14:46:47.036-05:00
+modified: 2026-04-27T17:03:11.106-05:00
+published: 2026-04-27T17:03:11.106-05:00
 tags:
   - Rules
   - StatBlock
@@ -23,6 +23,7 @@ _Conjuration Cantrip_
 | Range        | 60 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
 
 ---
@@ -51,6 +52,7 @@ _Evocation Cantrip_
 | Range        | Self (5-foot radius)                     |
 | Components   | S, M (a melee weapon worth at least 1sp) |
 | Duration     | 1 round                                  |
+
 You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.
 
 ---
@@ -67,6 +69,7 @@ _Necromancy Cantrip_
 | Range        | 120 feet |
 | Components   | V, S     |
 | Duration     | 1 round  |
+
 You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
 
 ---
@@ -83,6 +86,7 @@ _Transmutation Cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | S                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous or 1 hour              |
+
 You choose non-magical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
 
 - You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
@@ -119,6 +123,7 @@ _Evocation Cantrip_
 | Range        | 120 feet                                                 |
 | Components   | V, S, M (a bit of phosphorus or wychwood, or a glowworm) |
 | Duration     | Concentration                                            |
+
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.
 
 As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.
@@ -133,6 +138,7 @@ _Necromancy Cantrip_  **Source: [Critical Role](https://twitter.com/matthewmerce
 | Range         | Touch    |
 | Components    | V, S     |
 | Duration      | 1 minute |
+
 You reach out and touch the corpse of a creature. Over the next minute, the corpse begins to rapidly decompose, sprouting fungus and moss as it begins to degrade into compost and mulch. An odd-colored flower or two may also spring from the corpse in this time. Applicable requirements for resurrection are unaffected by this decomposition.
 
 ### Druidcraft
@@ -145,6 +151,7 @@ _Transmutation Cantrip_
 | Range        | 30 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 Whispering to the spirits of nature, you create one of the following effects within range:
 
 - You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
@@ -162,6 +169,7 @@ _Evocation cantrip_
 | Range        | 120 feet      |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
 
 ---
@@ -178,6 +186,7 @@ _Enchantment Cantrip_
 | Range        | Self     |
 | Components   | S        |
 | Duration     | 8 hours  |
+
 You pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.
 
 If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as [[Spells#Detect Thoughts|Detect Thoughts]] or [[Spells#Modify Memory|Modify Memory]], you can transform the thoughts or memories you read, rather than your own, into a thought strand.
@@ -194,6 +203,7 @@ _Evocation Cantrip_
 | Range        | 120 feet      |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
 ---
@@ -210,6 +220,7 @@ _Enchantment cantrip_
 | Range        | Self                                                                      |
 | Components   | S, M (a small amount of makeup applied to the face as this spell is cast) |
 | Duration     | Concentration, up to one minute                                           |
+
 For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it.
 
 ### Frostbite
@@ -222,6 +233,7 @@ _Evocation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has [[Ability Scores#Advantage and Disadvantage|disadvantage]] on the next weapon attack roll it makes before the end of its next turn.
 
 ---
@@ -238,6 +250,7 @@ _Evocation Cantrip_
 | Range        | Self (5-foot radius)                      |
 | Components   | S, M (a melee weapon worth at least 1 sp) |
 | Duration     | Instantaneous                             |
+
 You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects, and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier.
 
 ---
@@ -254,6 +267,7 @@ _Divination Cantrip_
 | Range        | Touch                         |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
 ### Gust
@@ -266,6 +280,7 @@ _Transmutation Cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You seize the air and compel it to create one of the following effects at a point you can see within range:
 
 - One [[Combat Rules#Size Category Table|Medium or smaller]] creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
@@ -282,6 +297,7 @@ _Evocation Cantrip_ **Source: Unearthed Arcana 36 - Starter Spells**
 | Range        | 5 feet        |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You raise your hand, and burning radiance erupts from it. Each creature of your choice that you can see within 5 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage.
 
 ---
@@ -315,6 +331,7 @@ _Evocation Cantrip_
 | Range        | Touch                                   |
 | Components   | V, M (a firefly or phosphorescent moss) |
 | Duration     | 1 hour                                  |
+
 You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
@@ -329,6 +346,7 @@ _Evocation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | Self (15-foot radius)                |
 | [[Spellcasting Rules#Components\|Components]]     | V                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within 15 feet of you. The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
 ---
@@ -345,6 +363,7 @@ _Conjuration cantrip_
 | Range        | 30 feet  |
 | Components   | V, S     |
 | Dura         | 1 minute |
+
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
@@ -361,6 +380,7 @@ _Transmutation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                          |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                           |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 minute                                       |
+
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a [[Weapons#Sling|sling]]. If thrown, it has a range of 60 feet. If someone else attacks with the pebble, that attacker adds your spellcasting ability modifier, not the attacker’s, to the attack roll. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Hit or miss, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends early on any pebbles still affected by it.
@@ -375,6 +395,7 @@ _Transmutation cantrip_
 | Range        | Touch                    |
 | Components   | V, S, M (two lodestones) |
 | Duration     | Instantaneous            |
+
 This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
 
 This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
@@ -389,6 +410,7 @@ _Transmutation cantrip_
 | Range        | 120 feet                               |
 | Components   | V, S, M (a short piece of copper wire) |
 | Duration     | 1 round                                |
+
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
@@ -403,6 +425,7 @@ _Enchantment cantrip_
 | Range        | 60 feet  |
 | Components   | V        |
 | Duration     | 1 round  |
+
 You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must succeed on an Intelligence saving throw or take 1d6 psychic damage and subtract 1d4 from the next saving throw it makes before the end of your next turn.
 
 ---
@@ -419,6 +442,7 @@ _Illusion cantrip_
 | Range        | 30 feet  |
 | Components   | S, M     |
 | Duration     | 1 minute |
+
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
 
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
@@ -437,6 +461,7 @@ _Transmutation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 30 Feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | S                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous or 1 hour              |
+
 You choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
 
 - If you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn’t have enough force to cause damage.
@@ -455,6 +480,7 @@ _Transmutation cantrip (technomagic)_ **Source: Unearthed Arcana 7 - Modern Magi
 | Range        | 60 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 This cantrip allows you to activate or deactivate any electronic device within range, as long as the device has a clearly defined on or off function that can be easily accessed from the outside of the device. Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by On/Off.
 
 ### Poison Spray
@@ -467,6 +493,7 @@ _Conjuration cantrip_
 | Range        | 10 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
 ---
@@ -483,6 +510,7 @@ _Transmutation cantrip_
 | Range        | 10 feet      |
 | Components   | V, S         |
 | Duration     | Up to 1 hour |
+
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
@@ -504,6 +532,7 @@ _Transmutation cantrip_
 | Range        | Self          |
 | Components   | S             |
 | Duration     | Instantaneous |
+
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 ---
@@ -520,6 +549,7 @@ _Conjuration cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | Self                                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | 10 minutes                           |
+
 A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment. The flame sheds [[Environment Rules#Bright Light|bright light]] in a 10-foot radius and [[Environment Rules#Dim Light|dim light]] for an additional 10 feet. The spell ends if you dismiss it as an [[Combat Rules#Your Turn|action]] or if you cast it again.
 
 You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
@@ -538,6 +568,7 @@ _Evocation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its [[Movement Rules#Speed|speed]] is reduced by 10 feet until the start of your next turn.
 
 ---
@@ -554,6 +585,7 @@ _Abjuration cantrip_
 | Range        | Touch                           |
 | Components   | V, S, M (a miniature cloak)     |
 | Duration     | Concentration, up to one minute |
+
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
 ### Sacred Flame
@@ -566,6 +598,7 @@ _Evocation cantrip_
 | Range        | 60 Feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
 
 ---
@@ -582,6 +615,7 @@ _Necromancy cantrip_
 | Range        | 30 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take 1d4 necrotic damage and fall prone.
 
 ---
@@ -598,6 +632,7 @@ _Transmutation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | S                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous or up to one hour      |
+
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
 
 - You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
@@ -616,6 +651,7 @@ _Transmutation cantrip_
 | Casting Time | 1 bonus action                                                   |
 | Range        | Touch                                                            |
 | Components   | V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff) |
+
 The wood of a club or quarterstaff you are holding is imbued with nature’s power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon.
 
 ### Shocking Grasp
@@ -628,6 +664,7 @@ _Evocation cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take [[Combat Rules#Reactions|reactions]] until the start of its next turn.
 
 ---
@@ -644,6 +681,7 @@ _Necromancy Cantrip_
 | Range        | Touch         |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
 ### Sword Burst
@@ -656,6 +694,7 @@ _Conjuration Cantrip_
 | Range        | Self (5-foot radius) |
 | Components   | V                    |
 | Duration     | Instantaneous        |
+
 You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take 1d6 force damage.
 
 ---
@@ -672,6 +711,7 @@ _Transmutation Cantrip_
 | Range        | 30 feet        |
 | Components   | V              |
 | Duration     | Up to 1 minute |
+
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 
 - Your voice booms up to three times as loud as normal for 1 minute.
@@ -692,6 +732,7 @@ _Transmutation Cantrip_
 | [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is [[Combat Rules#Size Category Table|Large or smaller]], you pull the creature up to 10 feet closer to you.
 
 ---
@@ -708,6 +749,7 @@ _Evocation Cantrip_
 | Range        | Self (5-foot radius) |
 | Components   | S                    |
 | Duration     | Instantaneous        |
+
 You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
 ---
@@ -724,6 +766,7 @@ _Necromancy Cantrip_
 | Range        | 60 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
 
 ---
@@ -740,6 +783,7 @@ _Divination Cantrip_ **Source: Homebrew**
 | Range        | 30 feet                      |
 | Components   | S                            |
 | Duration     | Concentration, up to 1 round |
+
 You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. For the duration, you may add 1d6 to attack rolls you make against the target.
 
 ---
@@ -756,6 +800,7 @@ _Enchantment Cantrip_
 | Range        | 60 feet       |
 | Components   | V             |
 | Duration     | Instantaneous |
+
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
 ---
@@ -772,6 +817,7 @@ _Abjuration Cantrip_
 | Range        | Touch    |
 | Components   | V, S     |
 | Duration     | 1 round  |
+
 You touch one creature, imbuing it with vitality. If the target has at least 1 hit point, it gains a number of temporary hit points equal to 1d4 + your spellcasting ability modifier. The temporary hit points are lost when the spell ends.
 
 ---
@@ -788,6 +834,7 @@ _Evocation Cantrip_
 | Range        | 5 feet        |
 | Components   | V, M          |
 | Duration     | Instantaneous |
+
 You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
 
 ---
@@ -806,6 +853,7 @@ _1st-Level Abjuration_
 | Range        | Self                                                                                   |
 | Components   | S                                                                                      |
 | Duration     | 1 round                                                                                |
+
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
 ---
@@ -822,6 +870,7 @@ _1st-Level Abjuration (ritual)_
 | Range        | 30 feet  |
 | Components   | V, S, M  |
 | Duration     | 8 hours  |
+
 You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is mental or audible.
 
 A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.
@@ -836,6 +885,7 @@ _1st-Level enchantment_
 | Range        | 30 feet  |
 | Components   | V, S, M  |
 | Duration     | 24 hours |
+
 This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
 
 ---
@@ -852,6 +902,7 @@ _1st-Level Transmutation_ **Source: Unearthed Arcana 60 - The Artificer Returns*
 | Range        | Self                        |
 | Components   | V, S                        |
 | Duration     | Concentration, up to 1 hour |
+
 You channel arcane energy into one simple or martial weapon you’re holding, and choose one damage type: acid, cold, fire, lightning, poison, or thunder. Until the spell ends, you deal an extra 1d6 damage of the chosen type to any target you hit with the weapon. If the weapon isn’t magical, it becomes a magic weapon for the spell’s duration.
 
 As a bonus action, you can change the damage type, choosing from the options above.
@@ -870,6 +921,7 @@ _1st-Level Abjuration_
 | [[Spellcasting Rules#Range\|Range]]               | Self                                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hour                               |
+
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 [[Combat Rules#Temporary Hit Points|temporary hit points]] for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
 ---
@@ -886,6 +938,7 @@ _1st-Level Conjuration_
 | Range        | Self (10-foot radius) |
 | Components   | V, S                  |
 | Duration     | Instantaneous         |
+
 You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 ---
@@ -902,6 +955,7 @@ _1st-Level Enchantment_
 | Range        | 30 feet                       |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
 
 ---
@@ -918,6 +972,7 @@ _1st-Level Divination_
 | Range        | Touch                           |
 | Components   | V, S, M                         |
 | Duration     | Concentration, up to 10 minutes |
+
 You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
 
 ### Bless
@@ -930,6 +985,7 @@ _1st-Level Enchantment_
 | Range        | 30 feet                       |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
 
 ---
@@ -946,6 +1002,7 @@ _1st-Level Evocation_
 | [[Spellcasting Rules#Range\|Range]]               | Self (15-foot [[Spellcasting Rules#Cone\|cone]]) |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                    |
+
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
@@ -964,6 +1021,7 @@ _1st-Level Transmutation_
 | Range        | 60 feet       |
 | Components   | S             |
 | Duration     | Instantaneous |
+
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
 
 ---
@@ -980,6 +1038,7 @@ _1st-Level necromancy_
 | Range        | 60 feet                       |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
@@ -996,6 +1055,7 @@ _1st-Level Abjuration_
 | Range        | Touch                                                              |
 | Components   | V, S, M (25 gp worth of powdered silver, which the spell consumes) |
 | Duration     | Instantaneous (see below)                                          |
+
 You perform one of several religious ceremonies. When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.
 
 **_Atonement._** You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a successful check, you restore the target to its original alignment.
@@ -1021,6 +1081,7 @@ _1st-Level Evocation_
 | Components   | V, S          |
 | Duration     | Instantaneous |
 |              |               |
+
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type, as shown below.
 
 | d8 (`dice:1d8`) | Damage Type |
@@ -1033,6 +1094,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 | 6               | Poison      |
 | 7               | Psychic     |
 | 8               | Thunder     |
+
 If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
 
 A creature can be targeted only once by each casting of this spell.
@@ -1051,6 +1113,7 @@ _1st-Level Enchantment_
 | Range        | 30 feet  |
 | Components   | V, S     |
 | Duration     | 1 hour   |
+
 You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
 ---
@@ -1067,6 +1130,7 @@ _1st-Level Evocation_
 | Range        | 90 Feet                                  |
 | Components   | V, S, M (a diamond worth at least 50 gp) |
 | Duration     | Instantaneous                            |
+
 You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.
 
 ---
@@ -1083,6 +1147,7 @@ _1st-Level Illusion_
 | Range        | Self (15-foot cone) |
 | Components   | V, S, M             |
 | Duration     | 1 round             |
+
 A dazzling array of flashing, colored light springs from your hand. Roll 6d10, the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
 
 Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for the creature to be affected.
@@ -1101,6 +1166,7 @@ _1st-Level Enchantment_
 | Range        | 60 feet  |
 | Components   | V        |
 | Duration     | 1 round  |
+
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.
 
 **_Approach._** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
@@ -1127,6 +1193,7 @@ _1st-Level Enchantment_
 | Range        | 30 feet                       |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
@@ -1141,6 +1208,7 @@ _1st-Level Divination (ritual)_
 | Range        | Self     |
 | Components   | V, S, M  |
 | Duration     | 1 hour   |
+
 For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.
 
 This spell doesn’t decode secret messages in a text or glyph, such as an arcane sigil, that isn’t part of a written language.
@@ -1155,6 +1223,7 @@ _1st-Level Transmutation_
 | [[Spellcasting Rules#Range\|Range]]               | 30 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You either create or destroy water.
 
 **_Create Water._** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.
@@ -1175,6 +1244,7 @@ _1st-Level Evocation_
 | Range        | Touch         |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ---
@@ -1191,6 +1261,7 @@ _1st-Level Divination_
 | Range        | Self                            |
 | Components   | V, S                            |
 | Duration     | Concentration, up to 10 minutes |
+
 For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
@@ -1205,6 +1276,7 @@ _1st-Level Divination (ritual)_
 | Range        | Self                            |
 | Components   | V, S                            |
 | Duration     | Concentration, up to 10 minutes |
+
 For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
 The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
@@ -1219,6 +1291,7 @@ _1st-Level Divination_
 | Range        | Self                            |
 | Components   | V, S, M                         |
 | Duration     | Concentration, up to 10 minutes |
+
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
 
 The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
@@ -1233,6 +1306,7 @@ _1st-Level Illusion_
 | Range        | Self     |
 | Components   | V, S     |
 | Duration     | 1 hour   |
+
 You make yourself – including your clothing, armor, weapons, and other belongings on your person – look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
@@ -1247,6 +1321,7 @@ _1st-Level Enchantment_
 | Range        | 60 feet       |
 | Components   | V             |
 | Duration     | Instantaneous |
+
 You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
 
 ---
@@ -1263,6 +1338,7 @@ _1st-Level Illusion_ **Source: Acquisitions Inc.**
 | Range        | Touch    |
 | Components   | V        |
 | Duration     | 8 hours  |
+
 You cast this spell on an object no more than 1 foot on a side, doubling the object's perceived value by adding illusionary flourish or reducing its perceived value by half with the help of illusionary dents and scratches. Anyone examining the object must roll an Investigation check against your spell DC.
 
 ---
@@ -1279,6 +1355,7 @@ _1st-Level Evocation_
 | Range        | Self                          |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit.
 
 ### Earth Tremor
@@ -1291,6 +1368,7 @@ _1st-Level Evocation_
 | [[Spellcasting Rules#Range\|Range]]               | Self (10-foot radius)                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes [[Movement Rules#Difficult Terrain|difficult terrain]] until cleared.
 
 ---
@@ -1307,6 +1385,7 @@ _1st-Level Conjuration_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
 
 While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns. A creature restrained by the vines or one that can touch the creature can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
@@ -1325,6 +1404,7 @@ _1st-Level conjuration_
 | Range        | 90 feet                       |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
 
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
@@ -1341,6 +1421,7 @@ _1st-Level Transmutation_
 | Range        | Self           |
 | Components   | V, S           |
 | Duration     | Concentration  |
+
 This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
 
 ### Faerie Fire
@@ -1353,6 +1434,7 @@ _1st-Level Evocation_
 | Range        | 60 feet                       |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice).
 
 Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.
@@ -1369,6 +1451,7 @@ _1st-Level necromancy_
 | Range        | Self     |
 | Components   | V, S, M  |
 | Duration     | 1 hour   |
+
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
 ---
@@ -1385,6 +1468,7 @@ _1st-Level Transmutation_
 | Range        | 60 feet                                                                       |
 | Components   | V, M                                                                          |
 | Duration     | 1 minute                                                                      |
+
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
 ### Find Familiar
@@ -1397,6 +1481,7 @@ _1st-Level Conjuration_
 | Range        | 10 feet                                                                                                |
 | Components   | V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) |
 | Duration     | Instantaneous                                                                                          |
+
 You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.
 
 Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own [[Combat Rules#Initiative|initiative]] and acts on its own turn. A familiar can’t attack, but it can take other actions as normal.
@@ -1419,6 +1504,7 @@ _1st-Level conjuration_
 | [[Spellcasting Rules#Range\|Range]]               | 120 feet                                                          |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hour |
+
 You create a 20-foot-radius [[Spellcasting Rules#Sphere|sphere]] of fog centered on a point within range. The sphere spreads around corners, and its area is [[Environment Rules#Heavily Obscured|heavily obscured]]. It lasts for the duration or until a [[Temperature and Weather Rules#Wind|wind of moderate or greater speed]] (at least 10 miles per hour) disperses it.
 
 ---
@@ -1435,6 +1521,7 @@ _1st-Level Evocation_
 | Range        | Self (15-foot cone) |
 | Components   | V, S                |
 | Duration     | Instantaneous       |
+
 Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in that area must make a Constitution saving throw, taking 2d8 cold damage on a failed save, or half as much damage on a successful one.
 
 The cold freezes nonmagical liquids in the area that aren't being worn or carried.
@@ -1453,6 +1540,7 @@ _1st-Level Divination_ **Source: Explorer's Guide to Wildemount**
 | [[Spellcasting Rules#Range\|Range]]               | Touch    |
 | [[Spellcasting Rules#Components\|Components]]     | V, S     |
 | [[Spellcasting Rules#Duration\|Duration]]         | 8 hours  |
+
 You touch a willing creature. For the duration, the target can add 1d8 to its [[Combat Rules#Initiative|initiative]] rolls.
 
 ### Goodberry
@@ -1465,6 +1553,7 @@ _1st-Level Transmutation_
 | Range        | Touch         |
 | Components   | V, S, M       |
 | Duration     | Instantaneous |
+
 Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
@@ -1479,6 +1568,7 @@ _1st-Level Conjuration_
 | Range        | 60 feet  |
 | Components   | V, S, M  |
 | Duration     | 1 minute |
+
 Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.
@@ -1493,6 +1583,7 @@ _1st-Level Evocation_
 | Range        | 120 feet |
 | Components   | V, S     |
 | Duration     | 1 round  |
+
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
 ---
@@ -1509,6 +1600,7 @@ _1st-Level Divination (ritual)_ **Source: Unearthed Arcana 36 - Starter Spells**
 | Range        | 5 feet                       |
 | Components   | V, S                         |
 | Duration     | Concentration, up to 8 hours |
+
 You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
 
 When the hand appears, you name one major landmark, such as a city, mountain, castle, or battlefield on the same plane of existence as you. Someone in history must have visited the site and mapped it. If the landmark appears on no map in existence, the spell fails. Otherwise, whenever you move toward the hand, it moves away from you at the same speed you moved, and it moves in the direction of the landmark, always remaining 5 feet away from you.
@@ -1525,6 +1617,7 @@ _1st-Level Conjuration_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 **_At Higher Levels._** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
@@ -1539,6 +1632,7 @@ _1st-Level Conjuration_ **Source: Unearthed Arcana 36 - Starter Spells**
 | [[Spellcasting Rules#Range\|Range]]               | Self     |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M  |
 | [[Spellcasting Rules#Duration\|Duration]]         | 24 hours |
+
 You create a healing elixir in a simple vial that appears in your hand. The elixir retains its potency for the duration or until it’s consumed, at which point the vial vanishes.
 
 As an action, a creature can drink the elixir or administer it to another creature. The drinker regains 2d4 + 2 hit points.
@@ -1553,6 +1647,7 @@ _1st-Level Evocation_
 | Range        | 60 feet        |
 | Components   | V              |
 | Duration     | Instantaneous  |
+
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ---
@@ -1569,6 +1664,7 @@ _1st-Level evocation_
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                                                                                                                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                                                                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                                                                                           |
+
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
 ---
@@ -1585,6 +1681,7 @@ _1st-Level Enchantment_
 | Range        | Touch                         |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
 
 ---
@@ -1601,6 +1698,7 @@ _1st-Level Enchantment_
 | Range        | 90 feet                     |
 | Components   | V, S, M                     |
 | Duration     | Concentration, up to 1 hour |
+
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
 
 If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
@@ -1621,6 +1719,7 @@ _1st-Level Divination_
 | Range        | 90 feet                     |
 | Components   | V                           |
 | Duration     | Concentration, up to 1 hour |
+
 You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it.
 
 If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
@@ -1639,6 +1738,7 @@ _1st-Level Evocation_
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | S, M                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.
 
 ---
@@ -1655,6 +1755,7 @@ _1st-Level Enchantment_ **Source: Unearthed Arcana 66 - Fighter, Rogue, and Wiza
 | Range        | 60 feet                       |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 You unleash a torrent of conflicting desires in the mind of one creature you can see within range, impairing its ability to make decisions. The target must succeed on a Wisdom saving throw or be incapacitated. At the end of each of its turns, it takes 1d12 psychic damage, and it can then make another Wisdom saving throw. On a success, the spell ends on the target.
 
 ### Identify
@@ -1667,6 +1768,7 @@ _1st-Level Divination_
 | Range        | Touch                                   |
 | Components   | V, S, M (a pearl worth at least 100 gp) |
 | Duration     | Instantaneous                           |
+
 You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
 
 If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.
@@ -1681,6 +1783,7 @@ _1st-Level Illusion (ritual)_
 | Range        | Touch                                                                  |
 | Components   | S, M (a lead-based ink worth at least 10 gp, which the spell consumes) |
 | Duration     | 10 days                                                                |
+
 You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.
 
 To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.
@@ -1697,6 +1800,7 @@ _1st-Level Necromancy_
 | Range        | Touch         |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
 
 ---
@@ -1713,6 +1817,7 @@ _1st-Level Transmutation_
 | [[Combat Rules#Ranged Attacks\|ranged attack]]    | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 minute                             |
+
 You touch a creature. The creature's [[Movement Rules#Jumping|jump distance]] is tripled until the spell ends.
 
 ### Longstrider
@@ -1725,6 +1830,7 @@ _1st-Level Transmutation_
 | Range        | Touch    |
 | Components   | V, S, M  |
 | Duration     | 1 hour   |
+
 You touch a creature. The target’s speed increases by 10 feet until the spell ends.
 
 ---
@@ -1741,6 +1847,7 @@ _1st-Level Abjuration_
 | Range        | Touch    |
 | Components   | V, S, M  |
 | Duration     | 8 hours  |
+
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
 
 ### Magic Missile
@@ -1753,6 +1860,7 @@ _1st-Level Evocation_
 | Range        | 120 feet      |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
 ---
@@ -1769,6 +1877,7 @@ _1st-Level Transmutation_ **Source: Explorer's Guide to Wildemount**
 | Range        | 60 feet  |
 | Components   | V, S     |
 | Duration     | 1 round  |
+
 The gravity in a 10-foot-radius sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a Constitution saving throw. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
 
 Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
@@ -1787,6 +1896,7 @@ _1st-Level Abjuration_
 | Range        | Touch                                                                      |
 | Components   | V, S, M (holy water or powdered silver and iron, which the spell consumes) |
 | Duration     | Concentration, up to 10 minutes                                            |
+
 Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
 
 The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
@@ -1801,6 +1911,7 @@ _1st-Level Enchantment_ **Source: Unearthed Arcana 36 - Starter Spells**
 | Range        | 120 feet      |
 | Components   | V             |
 | Duration     | Instantaneous |
+
 Your gesture forces one humanoid you can see within range to make a Constitution saving throw. On a failed save, the target must move up to its speed in a direction you choose. In addition, you can cause the target to drop whatever it is holding. This spell has no effect on a humanoid that is immune to being charmed.
 
 ### Purify Food and Drink
@@ -1813,6 +1924,7 @@ _1st-Level Transmutation (ritual)_
 | Range        | 10 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
 ### Ray of Sickness
@@ -1825,6 +1937,7 @@ _1st-Level Necromancy_
 | Range        | 60 feet       |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
 ---
@@ -1841,6 +1954,7 @@ _1st-Level Transmutation_ **Source: Unearthed Arcana 7 - Modern Magic**
 | Range        | 120 feet   |
 | Components   | V, S       |
 | Duration     | 10 minutes |
+
 You can use any electronic device within range as if it were in your hands. This is not a telekinesis effect. Rather, this spell allows you to simulate a device's mechanical functions electronically. You are able to access only functions that a person using the device manually would be able to access. You can use remote access with only one device at a time.
 
 ### Sanctuary
@@ -1853,6 +1967,7 @@ _1st-Level Abjuration_
 | Range        | 30 feet        |
 | Components   | V, S, M        |
 | Duration     | 1 minute       |
+
 You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.
 
 If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this spell ends.
@@ -1867,6 +1982,7 @@ _1st-Level evocation_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames.
 
 At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
@@ -1885,6 +2001,7 @@ _1st-Level Divination_ **Source: Unearthed Arcana 36 - Starter Spells**
 | Range        | Self                          |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 You attune your senses to pick up the emotions of others for the duration. When you cast the spell, and as your action on each turn until the spell ends, you can focus your senses on one humanoid you can see within 30 feet of you. You instantly learn the target’s prevailing emotion, whether it’s love, anger, pain, fear, calm, or something else. If the target isn’t actually humanoid or it is immune to being charmed, you sense that it is calm.
 
 ### Shield
@@ -1897,6 +2014,7 @@ _1st-Level Abjuration_
 | Range        | Self                                                                                                                      |
 | Components   | V, S                                                                                                                      |
 | Duration     | 1 round                                                                                                                   |
+
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _[[Spells#Magic Missile|Magic Missile]]_.
 
 ### Shield of Faith
@@ -1909,6 +2027,7 @@ _1st-Level Abjuration_
 | Range        | 60 feet                         |
 | Components   | V, S, M                         |
 | Duration     | Concentration, up to 10 minutes |
+
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 ### Silent Image
@@ -1921,6 +2040,7 @@ _1st-Level Illusion_
 | Range        | 60 feet                         |
 | Components   | V, S, M                         |
 | Duration     | Concentration, up to 10 minutes |
+
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
 
 You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
@@ -1937,6 +2057,7 @@ _1st-Level Enchantment_ **Source: Strixaven: A Curriculum of Chaos**
 | Range        | 60 feet                                                                                                                                          |
 | Components   | V                                                                                                                                                |
 | Duration     | Instantaneous                                                                                                                                    |
+
 You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.
 
 You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
@@ -1951,6 +2072,7 @@ _1st-Level Enchantment_
 | Range        | 90 feet  |
 | Components   | V, S, M  |
 | Duration     | 1 minute |
+
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
 
 Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected. Undead and creatures immune to being charmed aren’t affected by this spell.
@@ -1969,6 +2091,7 @@ _1st-Level Abjuration_
 | Range        | Touch                                            |
 | Components   | S, M (25 feet of rope, which the spell consumes) |
 | Duration     | 8 hours                                          |
+
 As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap.
 
 This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned.
@@ -1989,6 +2112,7 @@ _1st-Level Divination_
 | Range        | Self       |
 | Components   | V, S       |
 | Duration     | 10 minutes |
+
 You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM’s discretion.
 
 ### Sudden Awakening (UA)
@@ -2001,6 +2125,7 @@ _1st-Level Enchantment_ **Source: Unearthed Arcana 36 - Starter Spells**
 | Range        | 10 feet        |
 | Components   | V              |
 | Duration     | Instantaneous  |
+
 Each sleeping creature you choose within range awakens, and then each prone creature within range can stand up without expending any movement.
 
 ### Tasha's Caustic Brew
@@ -2013,6 +2138,7 @@ _1st-Level Evocation_
 | Range        | Self (30-foot line)           |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at the start of each of its turns.
 
 ---
@@ -2029,6 +2155,7 @@ _1st-Level Enchantment_
 | Range        | 30 feet                       |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.
 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
@@ -2043,6 +2170,7 @@ _1st-Level Conjuration_
 | Range        | 30 feet  |
 | Components   | V, S, M  |
 | Duration     | 1 hour   |
+
 This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
 The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes, and the like, but it can’t cross an elevation change of 10 feet or more. For example, the disk can’t move across a 10-foot-deep pit, nor could it leave such a pit if it were created at the bottom.
@@ -2059,6 +2187,7 @@ _1st-Level Evocation_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
 ### Thunderwave
@@ -2071,6 +2200,7 @@ _1st-level evocation_
 | Range        | Self (15-foot cube) |
 | Components   | V, S                |
 | Duration     | Instantaneous       |
+
 A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.
@@ -2089,6 +2219,7 @@ _1st-Level Illusion_ **Source: Unearthed Arcana 36 - Starter Spells**
 | Range        | Self (30-foot radius)           |
 | Components   | V                               |
 | Duration     | Concentration, up to 10 minutes |
+
 Music of a style you choose fills the air around you in a 30-foot radius. The music spreads around corners and can be heard from up to 100 feet away. The music moves with you, centered on you for the duration.
 
 Until the spell ends, you make Charisma (Performance) checks with advantage. In addition, you can use a bonus action on each of your turns to beguile one creature you choose within 30 feet of you that can see you and hear the music. The creature must make a Charisma saving throw. If you or your companions are attacking it, the creature automatically succeeds on the saving throw. On a failure, the creature becomes friendly to you for as long as it can hear the music and for 1 hour thereafter. You make Charisma (Deception) checks and Charisma (Persuasion) checks against creatures made friendly by this spell with advantage.
@@ -2103,6 +2234,7 @@ _1st-Level Conjuration (ritual)_
 | Range        | 60 feet  |
 | Components   | V, S, M  |
 | Duration     | 1 hour   |
+
 This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can’t attack. If it drops to 0 hit points, the spell ends.
 
 Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
@@ -2119,6 +2251,7 @@ _1st-Level Transmutation (ritual)_ **Source: Unearthed Arcana 36 - Starter Spell
 | Range        | 120 feet      |
 | Components   | V, S          |
 | Duration     | Instantaneous |
+
 You call out to the spirits of nature to aid you. When you cast this spell, choose one of the following effects:
 
 - If there are any tracks on the ground within range, you know where they are, and you make Wisdom (Survival) checks to follow these tracks with advantage for 1 hour or until you cast this spell again.
@@ -2138,6 +2271,7 @@ _1st-Level Evocation_
 | [[Spellcasting Rules#Range\|Range]]               | 30 feet                                                             |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 minute |
+
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you.
 
 ---
@@ -2154,6 +2288,7 @@ _1st-Level Evocation_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 The next time you hit with a melee weapon attack during this spell’s duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
 
 ### Zephyr Strike
@@ -2166,6 +2301,7 @@ _1st-Level Transmutation_
 | Range         | Self                          |
 | Components    | V                             |
 | Duration      | Concentration, up to 1 minute |
+
 You move like the wind. For the duration, your movement doesn’t provoke opportunity attacks.
 
 Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
@@ -2182,6 +2318,7 @@ _2nd-Level Evocation_
 | [[Spellcasting Rules#Range\|Range]]               | Self (30-ft [[Spellcasting Rules#Line\|line]]) |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                        |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                  |
+
 A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
 
 ---
@@ -2198,6 +2335,7 @@ _2nd-Level Abjuration_
 | Range        | 30 feet  |
 | Components   | V, S, M  |
 | Duration     | 8 hours  |
+
 Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, a target’s hit points increase by an additional 5 for each slot level above 2nd.
@@ -2212,6 +2350,7 @@ _2nd-Level Conjuration_ **Source: Spelljammer: Adventures in Space - Astral Adve
 | Range        | 60 feet  |
 | Components   | S        |
 | Duration     | 24 hours |
+
 You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).
 
 ---
@@ -2228,6 +2367,7 @@ _2nd-Level Transmutation_
 | Range        | Self                        |
 | Components   | V, S                        |
 | Duration     | Concentration, up to 1 hour |
+
 You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 
 **_Aquatic Adaptation._** You adapt your body to an aquatic environment, sprouting gills, and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.
@@ -2246,6 +2386,7 @@ _2nd-Level Enchantment (ritual)_
 | Range        | 30 feet  |
 | Components   | V, S, M  |
 | Duration     | 24 hours |
+
 By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as “a man or woman dressed in the uniform of the town guard” or “a red-haired dwarf wearing a pointed hat.” You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 hours for a flying messenger, or 25 miles for other animals.
 
 When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn’t reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
@@ -2264,6 +2405,7 @@ _2nd-Level Abjuration_
 | Range        | Touch                                                              |
 | Components   | V, S, M (gold dust worth at least 25 gp, which the spell consumes) |
 | Duration     | Until Dispelled                                                    |
+
 You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration.
 
 You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting _Knock_ on the object suppresses _Arcane Lock_ for 10 minutes.
@@ -2280,6 +2422,7 @@ _2nd-Level Divination (ritual)_
 | Range        | Self                                                                             |
 | Components   | V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp) |
 | Duration     | Instantaneous                                                                    |
+
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
 
 - Weal, for good results
@@ -2302,6 +2445,7 @@ _2nd-Level Transmutation_
 | Range        | Touch                       |
 | Components   | V, S, M                     |
 | Duration     | Concentration, up to 1 hour |
+
 You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
 
 ### Beast Sense
@@ -2314,6 +2458,7 @@ _2nd-Level Divination (ritual)_
 | Range        | Touch                       |
 | Components   | S                           |
 | Duration     | Concentration, up to 1 hour |
+
 You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.
 
 ### Blindness/Deafness
@@ -2326,6 +2471,7 @@ _2nd-Level Necromancy_
 | Range        | 30 feet  |
 | Components   | V        |
 | Duration     | 1 minute |
+
 You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
 ---
@@ -2342,6 +2488,7 @@ _2nd-Level Illusion_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
 ### Borrowed Knowledge
@@ -2354,6 +2501,7 @@ _2nd-Level Divination_
 | Range        | Self                                  |
 | Components   | V, S, M (a book worth at least 25 gp) |
 | Duration     | 1 hour                                |
+
 You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell's duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.
 
 ### Branding Smite
@@ -2366,6 +2514,7 @@ _2nd-Level Evocation_
 | Range        | Self                          |
 | Components   | V                             |
 | Duration     | Concentration, up to 1 minute |
+
 The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it is invisible, and the target sheds dim light in a 5-foot radius and can’t become invisible until the spell ends.
 
 ---
@@ -2382,6 +2531,7 @@ _2nd-Level Enchantment_
 | Range        | 60 feet                       |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects. You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
@@ -2396,6 +2546,7 @@ _2nd-Level Conjuration_
 | Range        | 60 feet                       |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.
 
 ---
@@ -2412,6 +2563,7 @@ _2nd-Level Evocation_
 | Range        | Touch                                                     |
 | Components   | V, S, M (ruby dust worth 50 gp, which the spell comsumes) |
 | Duration     | Until Dispelled                                           |
+
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
 ### Cordon of Arrows
@@ -2424,6 +2576,7 @@ _2nd-Level Transmutation_
 | Range        | 5 feet   |
 | Components   | V, S, M  |
 | Duration     | 8 hours  |
+
 You plant four pieces of nonmagical ammunition – arrows or crossbow bolts – in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
 
 When you cast this spell, you can designate any creatures you choose, and the spell ignores them.
@@ -2440,6 +2593,7 @@ _2nd-Level Enchantment_
 | Range        | 120 feet                      |
 | Components   | V, S                          |
 | Duration     | Concentration, up to 1 minute |
+
 One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
 
 The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
@@ -2456,6 +2610,7 @@ _2nd-Level Evocation_
 | Range        | 60 feet                         |
 | Components   | V, M                            |
 | Duration     | Concentration, up to 10 minutes |
+
 Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
 
 If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
@@ -2472,6 +2627,7 @@ _2nd-Level Transmutation_
 | Range        | Touch    |
 | Components   | V, S, M  |
 | Duration     | 8 hours  |
+
 You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
 
 ### Detect Thoughts
@@ -2484,6 +2640,7 @@ _2nd-Level Divination_
 | Range        | Self                          |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn’t speak any language, the creature is unaffected.
 
 You initially learn the surface thoughts of the creature - what is most on its mind in that moment. As an action, you can either shift your attention to another creature’s thoughts or attempt to probe deeper into the same creature’s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature’s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
@@ -2504,6 +2661,7 @@ _2nd-Level Transmutation_
 | Range        | Touch                         |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.
 
 ---
@@ -2520,6 +2678,7 @@ _2nd-Level Conjuration_
 | Range        | 60 feet                       |
 | Components   | V, S, M                       |
 | Duration     | Concentration, up to 1 minute |
+
 Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell’s duration.
 
 Any creature that ends its turn within 5 feet of the dust devil must make a Strength saving throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn’t pushed.
@@ -2538,6 +2697,7 @@ As a bonus action, you can move the dust devil up to 30 feet in any direction. I
 | [[Spellcasting Rules#Range\|Range]]               | 300 ft                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V                                                                |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a [[Ability Scores#Saving Throws|Strength saving throw]] or its [[Monster Rules#Fly|flying speed]] (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
 #### DM ruling:
@@ -2580,6 +2740,7 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 | [[Spellcasting Rules#Range\|Range]]               | 30 ft                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
 
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
@@ -2596,6 +2757,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 minute                             |
+
 You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
 ### Find Steed
@@ -2623,6 +2785,7 @@ While your steed is within 1 mile of you, you can communicate with each other te
 | [[Spellcasting Rules#Range\|Range]]               | 120 ft                               |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You sense the presence of any trap within range that is within line of sight.
 
 A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the alarm spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
@@ -2637,6 +2800,7 @@ This spell merely reveals that a trap is present. You don’t learn the location
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                               |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                            |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 mins |
+
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
 
 You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage. The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
@@ -2653,6 +2817,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 4th level
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                                                          |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere’s damage, and the sphere stops moving this turn.
@@ -2671,6 +2836,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                            |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 You temporarily summon three familiars – spirits that take animal forms of your choice. Each familiar uses the same rules and options for a familiar conjured by the [[Spells#Find Familiar|Find Familiar]] spell. All the familiars conjured by this spell must be the same type of creature (celestials, fey, or fiends; your choice). If you already have a familiar conjured by the Find Familiar spell or similar means, then one fewer familiars are conjured by this spell.
 
 Familiars summoned by this spell can telepathically communicate with you and share their visual or auditory senses while they are within 1 mile of you.
@@ -2689,6 +2855,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                                   |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M (a white pearl worth at least 100 gp, which the spell consumes) |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hour                                                                  |
+
 You impart latent luck to yourself or one willing creature you can see within range. When the chosen creature makes an attack roll, an ability check, or a saving throw before the spell ends, it can dismiss this spell on itself to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this spell on itself to roll a d20 and choose which of the d20s to use, the one it rolled or the one the attacker rolled.
 
 If the original d20 roll has advantage or disadvantage, the creature rolls the additional d20 after advantage or disadvantage has been applied to the original roll.
@@ -2705,6 +2872,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | 10 days                              |
+
 You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become undead.
 
 The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as raise dead.
@@ -2717,6 +2885,7 @@ The spell also effectively extends the time limit on raising the target from the
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                                                      |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M (2gp, which is consumed as tax for using the spell)                               |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                                                             |
+
 When you cast this spell, you skillfully reshape the memories of listeners in your immediate area, so that each creature of your choice within 5 feet of you forgets everything you said within the last 6 seconds. Those creatures then remember that you actually said the words you speak as the verbal component of the spell.
 
 ### Gust of Wind
@@ -2727,6 +2896,7 @@ When you cast this spell, you skillfully reshape the memories of listeners in yo
 | [[Spellcasting Rules#Range\|Range]]               | Self (60-foot [[Spellcasting Rules#Line\|line]])                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell’s duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.
 
 Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
@@ -2743,6 +2913,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).
 
 Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can’t heal constructs or undead.
@@ -2761,6 +2932,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                                                          |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
@@ -2777,6 +2949,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                                                          |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 ---
@@ -2791,6 +2964,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                                             |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M (gold dust worth at least 25gp, which the spell consumes) |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hr                                                              |
+
 You touch an object that weighs no more than 10 pounds and cause it to become magically fixed in place. You and the creatures you designate when you cast this spell can move the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute.
 
 If the object is fixed in the air, it can hold up to 4,000 pounds of weight. More weight causes the object to fall. Otherwise, a creature can use an action to make a Strength check against your spell save DC. On a success, the creature can move the object up to 10 feet.
@@ -2807,6 +2981,7 @@ _**At Higher Levels.**_ If you cast this spell using a spell slot of 4th or 5th 
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                         |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person. The spell ends for a target that attacks or casts a spell.
 
 ---
@@ -2821,6 +2996,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 60 feet                                                                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | S, M (a [[Combat Rules#Size Category Table\|tiny]] object and 2gp, which are consumed as tax for using the spell) |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 min                                                                                                             |
+
 When you cast the spell, you hurl the object that is part of the spell's material component to any spot within range. The object lights up as if under the effect of a [[Spells#Light|light cantrip]]. Each creature of your choice that you can see within 30 feet of the object must succeed on a Wisdom saving throw or be distracted for the duration. While distracted, a creature has disadvantage on Wisdom (Perception) checks and initiative rolls.
 
 ### Kinetic Jaunt
@@ -2831,6 +3007,7 @@ When you cast the spell, you hurl the object that is part of the spell's materia
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                             |
 | [[Spellcasting Rules#Components\|Components]]     | S                                                                |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 You magically empower your movement with dancelike steps, giving yourself the following benefits for the duration:
 
 - Your walking speed increases by 10 feet.
@@ -2847,6 +3024,7 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
@@ -2863,6 +3041,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
 ### Levitate
@@ -2873,6 +3052,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                              |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                            |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 mins |
+
 One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 
 The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell’s range.
@@ -2887,6 +3067,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 | [[Spellcasting Rules#Range\|Range]]               | Self                                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
 ### Locate Object
@@ -2897,6 +3078,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                                  |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                               |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 minutes |
+
 Describe or name an object that is familiar to you. You sense the direction to the object’s location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
 The spell can locate a specific object known to you, as long as you have seen it up close – within 30 feet – at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
@@ -2911,6 +3093,7 @@ This spell can’t locate an object if any thickness of lead, even a thin sheet,
 | [[Spellcasting Rules#Range\|Range]]               | 30 feet                                                                                         |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes) |
 | [[Spellcasting Rules#Duration\|Duration]]         | Until dispelled                                                                                 |
+
 You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn’t being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
 When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that words appear to come from the object’s mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeats its message whenever the trigger occurs.
@@ -2925,6 +3108,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                            |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
 ---
@@ -2939,6 +3123,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 4th level
 | [[Spellcasting Rules#Range\|Range]]               | 30 ft                                                               |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 minute |
+
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
 
 As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
@@ -2955,6 +3140,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 | [[Spellcasting Rules#Range\|Range]]               |     |
 | [[Spellcasting Rules#Components\|Components]]     |     |
 | [[Spellcasting Rules#Duration\|Duration]]         |     |
+
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 
 ---
@@ -2969,6 +3155,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | S                                                               |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 You reach into the mind of one creature you can see within range. The target must make a Wisdom saving throw, taking 3d8 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can’t become hidden from you, and if it’s invisible, it gains no benefit from that condition against you.
 
 ---
@@ -2983,6 +3170,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Self                                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 minute                             |
+
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it’s impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
 
 Each time a creature targets you with an attack during the spell’s duration, roll a d20 to determine whether the attack instead targets one of your duplicates.
@@ -3001,6 +3189,7 @@ A creature is unaffected by this spell if it can’t see, if it relies on senses
 | [[Spellcasting Rules#Range\|Range]]               | Self                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V                                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                  |
+
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
 ### Moonbeam
@@ -3011,6 +3200,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 | [[Spellcasting Rules#Range\|Range]]               | 120 ft                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 A silvery beam of pale light shines down in a 5-foot radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
 When a creature enters the spell’s area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.
@@ -3031,6 +3221,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | S, M                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 You fill a 20-foot cube you can see within range with fey and draconic magic. Roll on the Mischievous Surge table to determine the magical effect produced, and roll again at the start of each of your turns until the spell ends. You can move the cube up to 10 feet before you roll.
 
 | \*\*d4 `dice:1d4` \*\* | **Effect**                                                                                                                                                                                                         |
@@ -3048,6 +3239,7 @@ You fill a 20-foot cube you can see within range with fey and draconic magic. Ro
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | 24 hrs                               |
+
 You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn’t being carried or worn by another creature.
 
 When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.
@@ -3064,6 +3256,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                         |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
 ### Phantasmal Force
@@ -3074,6 +3267,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.
 
 The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
@@ -3092,6 +3286,7 @@ An affected target is so convinced of the phantasm’s reality that it can even 
 | [[Spellcasting Rules#Range\|Range]]               | 30 ft         |
 | [[Spellcasting Rules#Components\|Components]]     | V             |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous |
+
 Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ---
@@ -3106,6 +3301,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hr                                 |
+
 You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 
 For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
@@ -3118,6 +3314,7 @@ For the duration, the target has advantage on saving throws against being poison
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 Choose an area of flame that you can see and that can fit within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke.
 
 **Fireworks.** The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become blinded until the end of your next turn.
@@ -3132,6 +3329,7 @@ Choose an area of flame that you can see and that can fit within a 5-foot cube w
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
 
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
@@ -3144,6 +3342,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 | [[Spellcasting Rules#Range\|Range]]               | Self (30-ft [[Spellcasting Rules#Cone\|cone]]) |
 | [[Spellcasting Rules#Components\|Components]]     | S, M                                           |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                  |
+
 A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its [[Movement Rules#Speed|speed]] reduced to 0. On a successful save, a creature takes half as much damage and isn’t hindered by ice.
 
 ---
@@ -3158,6 +3357,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hr                                 |
+
 You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.
 
 The extradimensional space can be reached by climbing to the top of the rope. The space can hold as many as eight Medium or smaller creatures. The rope can be pulled into the space, making the rope disappear from view outside the space.
@@ -3174,6 +3374,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 | [[Spellcasting Rules#Range\|Range]]               | 120 ft                               |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
 ---
@@ -3188,6 +3389,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Self                                 |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hr                                 |
+
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
 ### Shadow Blade
@@ -3198,6 +3400,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                                |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 minute |
+
 You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.
 
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
@@ -3214,6 +3417,7 @@ _**At Higher Levels.**_ When you cast this spell using a 3rd- or 4th-level spell
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
 
 A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
@@ -3230,6 +3434,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 120 ft                                                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                                  |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 minutes |
+
 For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
 ### Skywrite
@@ -3240,6 +3445,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 | [[Spellcasting Rules#Range\|Range]]               | Sight                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 day |
+
 You cause up to ten words to form in a part of the sky you can see. The words appear to be made of cloud and remain in place for the spell’s duration. The words dissipate when the spell ends. A strong wind can disperse the clouds and end the spell early.
 
 ### Snilloc's Snowball Swarm
@@ -3250,6 +3456,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 | [[Spellcasting Rules#Range\|Range]]               | 90 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
 
 ---
@@ -3264,6 +3471,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                         |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
 ### Spike Growth
@@ -3274,6 +3482,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 | [[Spellcasting Rules#Range\|Range]]               | 150 ft                                                             |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                            |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 mins |
+
 The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
 
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
@@ -3286,6 +3495,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                          |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                           |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 min                                          |
+
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.
 
 When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.
@@ -3306,6 +3516,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Self (15-ft [[Spellcasting Rules#Cone\|cone]]) |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                        |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                                  |
+
 You spray a 15-foot cone of spectral cards. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 2d10 force damage and has the blinded condition until the end of its next turn. On a successful save, a creature takes half as much damage only.
 
 ---
@@ -3320,6 +3531,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 30 ft                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, M                                                             |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 8 hrs |
+
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
 
 The target must make a Wisdom saving throw. On a failed save, it purses the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
@@ -3336,6 +3548,7 @@ If you or any of your companions damage the target, the spell ends.
 | [[Spellcasting Rules#Range\|Range]]               | 90 ft                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                         |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Bestial Spirit stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
@@ -3354,6 +3567,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | 90 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V                                    |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 round                              |
+
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can’t take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell’s other effects.
 
 ---
@@ -3368,6 +3582,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | 8 hrs                                |
+
 You weave a clouding veil over the mind of one creature you touch. For the duration, the target’s mind can’t be read or detected, creatures can’t telepathically communicate with the target unless the target allows it, and the target has advantage on saving throws against any effect that would determine whether it is telling the truth.
 
 ### Vortex Warp
@@ -3378,6 +3593,7 @@ You weave a clouding veil over the mind of one creature you touch. For the durat
 | [[Spellcasting Rules#Range\|Range]]               | 90 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze.
 
 ---
@@ -3392,6 +3608,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Touch                                                                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M (a pair of platinum rings worth at least 50gp each, which you and the target must wear for the duration) |
 | [[Spellcasting Rules#Duration\|Duration]]         | 1 hr                                                                                                             |
+
 This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.
 
 While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
@@ -3406,6 +3623,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                               |
 | [[Spellcasting Rules#Components\|Components]]     | V                                                                  |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 10 mins |
+
 A [[Environment Rules|strong wind]] (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.
 
 The wind has the following effects:
@@ -3424,6 +3642,7 @@ The wind has the following effects:
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                             |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                          |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 min |
+
 For the duration, you sense the presence of portals, even inactive ones, within 30 feet of yourself.
 
 If you detect a portal in this way, you can use your action to study it. Make a DC 15 ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can't study that portal again using this spell until you cast it again.
@@ -3442,6 +3661,7 @@ _**At Higher Levels.**_
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                                           |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                                                         |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 
 If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
@@ -3460,6 +3680,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S, M                              |
 | [[Spellcasting Rules#Duration\|Duration]]         | Instantaneous                        |
+
 You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
 
 In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your spellcasting ability modifier.
@@ -3476,6 +3697,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level
 | [[Spellcasting Rules#Range\|Range]]               | Self                                                            |
 | [[Spellcasting Rules#Components\|Components]]     | S                                                               |
 | [[Spellcasting Rules#Duration\|Duration]]         | [[Spellcasting Rules#Concentration\|concentration]], up to 1 hr |
+
 You flick your wrist, causing one object in your hand to vanish. The object, which only you can be holding and can weigh no more than 5 pounds, is transported to an extradimensional space, where it remains for the duration.
 
 Until the spell ends, you can use your action to summon the object to your free hand, and you can use your action to return the object to the extradimensional space. An object still in the pocket plane when the spell ends appears in your space, at your feet.
@@ -3488,6 +3710,7 @@ Until the spell ends, you can use your action to summon the object to your free 
 | [[Spellcasting Rules#Range\|Range]]               | 60 ft                                |
 | [[Spellcasting Rules#Components\|Components]]     | V, S                                 |
 | [[Spellcasting Rules#Duration\|Duration]]         | 10 mins                              |
+
 You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell’s area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can’t speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in its answers as long as it remains within the boundaries of the truth.
