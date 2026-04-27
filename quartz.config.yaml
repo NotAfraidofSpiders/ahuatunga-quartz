@@ -264,6 +264,14 @@ plugins:
     enabled: true
     options:
       theme: its-theme.ttrpg-pathfinder-remastered
+  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
+    enabled: true
+    order: 50
+    options:
+      blockLanguage: zoommap
+      inlineBlockHeaderId: ZOOMMAP-DATA
+      maxInlineDataBytes: 0
+      defaultIconKey: pin-red
 layout:
   groups:
     toolbar:
