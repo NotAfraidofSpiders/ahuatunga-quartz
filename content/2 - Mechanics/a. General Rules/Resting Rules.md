@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Resting Rules.md
 created: 2025-12-22T10:18:36.684-06:00
-modified: 2026-04-22T20:46:23.941-05:00
-published: 2026-04-22T20:46:23.941-05:00
+modified: 2026-04-28T20:47:13.219-05:00
+published: 2026-04-28T20:47:13.219-05:00
 tags:
   - Rules
 ---
@@ -11,10 +11,6 @@ tags:
 Heroic though they might be, adventurers can’t spend every hour of the day in the thick of exploration, social interaction, and [[Combat Rules|combat]] They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for [[Spellcasting Rules|spellcasting]], and brace themselves for further adventure.
 
 Adventurers can take [[Resting Rules#Short Rest|short rests]] in the midst of an adventuring day and a [[Resting Rules#Long Rest|long rest]] to end the day.
-
-# Homebrew Resting Rules
-
-![[Sanctuary Resting]]
 
 # Short Rest
 
@@ -29,6 +25,20 @@ A long rest is a period of extended downtime, at least 8 hours long, during whic
 At the end of a long rest, a character regains all lost [[Combat Rules#Hit Points|hit points]]. The character also regains spent [[Character Advancement Rules#Hit Points and Hit Dice|Hit Dice]], up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 
 A character can’t benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+
+# Homebrew Resting Rules
+
+## Sanctuary Resting Rules
+
+![[Sanctuary Resting]]
+
+## Interrupted Rests
+
+If a creature enters [[Combat Rules|combat]] at any time while trying to rest while trying to rest, it is interrupted and the time spent resting before the interruption is wasted.
+
+If a creature takes damage equal to one-quarter of its current hit points (rounded down) at any time while trying to rest, it is interrupted and the time spent resting before the interruption is wasted.
+
+If a creature becomes [[Conditions#Poisoned|poisoned]], [[Conditions#Paralyzed|paralyzed]], [[Conditions#Exhaustion|exhausted]], or is [[Combat Rules#Dropping to 0 Hit Points|reduced to 0 hit points]] at any time while trying to rest, it is interrupted and the time spent resting before the interruption is wasted.
 
 # Between Adventures
 
@@ -50,7 +60,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ### Crafting
 
-You can craft nonmagical [[Object Rules|objects]], including [[Equipment|adventuring equipment]] and works of art. You must be [[Ability Scores#Proficiency Bonus|proficient]] with [[Tools|tools]] related to the object you are trying to create (typically [[Tools#Artisan’s Tools|artisan's tools]]). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [smith’s tools](https://roll20.net/compendium/dnd5e/Rules:Tools?expansion=34047#content) needs a forge in order to craft a sword or suit of armor.
+You can craft nonmagical [[Object Rules|objects]], including [[Adventuring Gear|adventuring gear]] and works of art. You must be [[Ability Scores#Proficiency Bonus|proficient]] with [[Tools|tools]] related to the object you are trying to create (typically [[Tools#Artisan’s Tools|artisan's tools]]). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [smith’s tools](https://roll20.net/compendium/dnd5e/Rules:Tools?expansion=34047#content) needs a forge in order to craft a sword or suit of armor.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5- gp increments until you reach the market value of the item. For example, a suit of [[Armor#Plate|plate armor]] (market value 1,500 gp) takes 300 days to craft by yourself.
 
