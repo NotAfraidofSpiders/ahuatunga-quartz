@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-04-27T17:25:32.356-05:00
-published: 2026-04-27T17:25:32.356-05:00
+modified: 2026-05-03T00:08:50.361-05:00
+published: 2026-05-03T00:08:50.361-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -33,13 +33,13 @@ The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Drago
 > - [[Combat Rules]]
 >   - [[Weapon Rules]]
 >   - [[Armor Rules]]
->   - [[Oversized Weapons]]
 >   - [[Crunchy Crits]]
 >   - [[Martial Revisions]]
 >   - [[Movement Rules]]
 > - [[Death Revisions]]
 > - [[Spellcasting Rules]]
 >   - [[Spells]]
+>   - [[Spell Points Variant]]
 > - [[Resting Rules]]
 > - [[Environment Rules]]
 
