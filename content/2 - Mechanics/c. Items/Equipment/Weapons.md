@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Weapons.md
 created: 2025-12-05T16:21:46.943-06:00
-modified: 2026-04-22T20:46:38.730-05:00
-published: 2026-04-22T20:46:38.730-05:00
+modified: 2026-05-03T02:21:54.612-05:00
+published: 2026-05-03T02:21:54.612-05:00
 tags:
   - Item
   - Rules
@@ -361,7 +361,7 @@ _melee weapon (martial)_
   **Item Rarity:**
 - none
   **Properties:**
-- Versatile
+- [[Weapon Rules#Versatile|Versatile]]
   **Weight:**
 - 3 lb.
 

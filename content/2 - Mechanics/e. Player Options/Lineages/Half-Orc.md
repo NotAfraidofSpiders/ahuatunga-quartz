@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Half-Orc.md
 created: 2026-05-02T23:24:12.510-05:00
-modified: 2026-05-02T23:33:34.931-05:00
-published: 2026-05-02T23:33:34.931-05:00
+modified: 2026-05-03T04:14:56.300-05:00
+published: 2026-05-03T04:14:56.300-05:00
 tags:
   - PlayerOption
   - lineage
@@ -35,8 +35,8 @@ You gain [[Ability Scores#Proficiency Bonus|proficiency]] in the [[Ability Score
 
 ### Relentless Endurance.
 
-When you are [[Combat Rules#Dropping to 0 Hit Points|reduced to 0 hit points]] but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a [[Resting Rules#Long Rest|long rest]].
+When you are [[Combat Rules#Dropping to 0 Hit Points|reduced to 0 hit points]] but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a [[Resting Rules#Long Rest|long rest]]. ^bea979
 
 ### Savage Attacks.
 
-When you score a [[Combat Rules#Critical Hits|critical hit]] with a [[Combat Rules#Melee Attacks|melee weapon attack]], you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+When you score a [[Combat Rules#Critical Hits|critical hit]] with a [[Combat Rules#Melee Attacks|melee weapon attack]], you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit. ^dff587

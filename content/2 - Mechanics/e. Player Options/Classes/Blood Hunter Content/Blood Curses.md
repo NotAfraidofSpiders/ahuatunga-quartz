@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Blood Hunter Content/Blood Curses.md
 created: 2025-10-14T12:17:26.240-05:00
-modified: 2026-04-22T20:45:10.646-05:00
-published: 2026-04-22T20:45:10.646-05:00
+modified: 2026-05-03T04:02:16.696-05:00
+published: 2026-05-03T04:02:16.696-05:00
 tags:
   - PlayerOption
   - Class
@@ -18,9 +18,9 @@ As a [[Combat Rules#Bonus Actions|bonus action]], you harry the body or mind of 
 
 ### Blood Curse of Binding
 
-As a [[Combat Rules#Bonus Actions|bonus action]], you attempt to bind a [[Combat Rules#Size Category Table|Large or smaller]] creature you can see within 30 feet of you, which must make a Strength [[Ability Scores#Saving Throws|saving throw]]. On a failure, the cursed creature’s [[Movement Rules#Speed|speed]] is reduced to 0 and it can’t use [[Combat Rules#Reactions|reaction]] until the end of your next turn.
+As a [[Combat Rules#Bonus Actions|bonus action]], you attempt to bind a [[Combat Rules#Size Category Table|Large or smaller]] creature you can see within 30 feet of you, which must make a Strength [[Ability Scores#Saving Throws|saving throw]]. On a failure, the cursed creature’s [[Movement Rules#Speed|speed]] is reduced to 0 and it can’t use [[Combat Rules#Reactions|reaction]] until the end of your next turn. ^5d08e2
 
-**_Amplify._** This curse lasts for 1 minute and can affect any creature regardless of size. The cursed creature can repeat the saving throw at the end of each of its turns, ending the curse on itself on a success.
+**_Amplify._** This curse lasts for 1 minute and can affect any creature regardless of size. The cursed creature can repeat the saving throw at the end of each of its turns, ending the curse on itself on a success. ^671298
 
 ### Blood Curse of Bloated Agony
 
