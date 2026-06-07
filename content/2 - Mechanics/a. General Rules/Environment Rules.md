@@ -2,15 +2,27 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Environment Rules.md
 created: 2025-09-21T19:24:55.624-05:00
-modified: 2026-04-22T20:45:27.289-05:00
-published: 2026-04-22T20:45:27.289-05:00
+modified: 2026-06-07T00:41:49.577-05:00
+published: 2026-06-07T00:41:49.577-05:00
 tags:
   - Rules
 ---
 
 # Falling
 
-At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[Conditions#Prone|prone]], unless it avoids taking damage from the fall.
+At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[Conditions#Prone|prone]], unless it would somehow avoid taking damage from the fall.
+
+## Rate of Falling
+
+When you fall from a great height, you instantly descend up to 500 feet. If you're still falling on your next turn, you descend up to 500 feet at the end of that turn. This process continues until the fall ends, either because you hit the ground or the fall is otherwise halted
+
+## Flying Creatures and Falling
+
+A flying creature in flight falls if it is knocked [[Conditions#Prone|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the _[[Spells#Fly|Fly]]_ spell.
+
+A flying creature may have a better chance of surviving a fall than a non-flying creature does. In that case, subtract the creature's current [[Monster Rules#Fly|flying speed]] from the distance it fell before calculated fall damage. This is particularly helpful in the case of a flying creature being knocked prone but is still conscious and has a current flying speed greater than 0 feet. This is meant to represent the creature flapping its wings furiously or taking similar action to slow velocity of its fall.
+
+If you use the rule for falling in the [[Environment Rules#Rate of Falling|previous section]], a flying creature descends 500 feet on its turn, just as other creatures do. But if that creature starts any of its later turns falling and is prone, it can halt the fall on its turn by spending half its flying speed to counter the prone condition (as if it were standing up midair).
 
 # Suffocating
 

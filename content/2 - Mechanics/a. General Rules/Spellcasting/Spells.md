@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Spellcasting/Spells.md
 created: 2025-09-21T19:24:55.683-05:00
-modified: 2026-04-27T17:03:11.106-05:00
-published: 2026-04-27T17:03:11.106-05:00
+modified: 2026-05-24T11:22:08.959-05:00
+published: 2026-05-24T11:22:08.959-05:00
 tags:
   - Rules
   - StatBlock
@@ -847,12 +847,12 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 
 _1st-Level Abjuration_
 
-| Casting Info |                                                                                        |
-| ------------ | -------------------------------------------------------------------------------------- |
-| Casting Time | 1 reaction, which you take when you take acid, cold fire, lightning, or thunder damage |
-| Range        | Self                                                                                   |
-| Components   | S                                                                                      |
-| Duration     | 1 round                                                                                |
+| Casting Info |                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------- |
+| Casting Time | 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage |
+| Range        | Self                                                                                    |
+| Components   | S                                                                                       |
+| Duration     | 1 round                                                                                 |
 
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
