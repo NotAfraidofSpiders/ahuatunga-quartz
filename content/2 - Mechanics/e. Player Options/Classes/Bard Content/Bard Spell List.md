@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Bard Content/Bard Spell List.md
 created: 2025-12-02T18:45:58.931-06:00
-modified: 2026-04-22T20:45:09.535-05:00
-published: 2026-04-22T20:45:09.535-05:00
+modified: 2026-07-01T20:03:33.666-05:00
+published: 2026-07-01T20:03:33.666-05:00
 tags:
   - PlayerOption
   - Rules
@@ -58,7 +58,7 @@ tags:
 | [[Spells#Silent Image\|Silent Image]]                         | _Illusion_      | 1 Action                                     | 60 feet               | Concentration, up to 10 minutes | V, S, M    |
 | [[Spells#Silvery Barbs\|Silvery Barbs]]                       | _Enchantment_   | 1 Reaction                                   | 60 feet               | Instantaneous                   | V          |
 | [[Spells#Sleep\|Sleep]]                                       | _Enchantment_   | 1 Action                                     | 90 feet               | 1 minute                        | V, S, M    |
-| [[Spells#Speak with Animals]]                                 | _Divination_    | 1 Action [[Spellcasting Rules#Rituals\|(R)]] | Self                  | 10 minutes                      | V, S       |
+| [[Spells#Speak with Animals\|Speak with Animals]]             | _Divination_    | 1 Action [[Spellcasting Rules#Rituals\|(R)]] | Self                  | 10 minutes                      | V, S       |
 | [[Spells#Sudden Awakening (UA)\|Sudden Awakening (UA)]]       | _Enchantment_   | 1 Bonus Action                               | 10 feet               | Instantaneous                   | V          |
 | [[Spells#Tasha's Hideous Laughter\|Tasha's Hideous Laughter]] | _Enchantment_   | 1 Action                                     | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
 | [[Spells#Thunderwave\|Thunderwave]]                           | _Evocation_     | 1 Action                                     | Self (15-foot cube)   | Instantaneous                   | V, S       |
