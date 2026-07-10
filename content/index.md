@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-10T15:11:59.037-05:00
-published: 2026-07-10T15:11:59.037-05:00
+modified: 2026-07-10T16:15:36.728-05:00
+published: 2026-07-10T16:15:36.728-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -28,6 +28,8 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 
 # Player Info
 
+## Session Summaries
+
 ## Commonly Referenced Rules
 
 > [!info] Core Mechanics
@@ -45,6 +47,7 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 >   - [[Spell Points Variant]]
 > - [[Resting Rules]]
 > - [[Environment Rules]]
+> - [[Dungeoneering Rules]]
 
 > [!faq] Player Character Rules
 >
@@ -62,7 +65,9 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 >   - [[Monk]]
 >     - [[Way of Shadow]]
 >   - [[Wizard]]
+>     - [[School of Lore Mastery]]
 >   - [[Sorcerer]]
+>     - [[Wild Magic Origin]]
 > - [[Feats]]
 
 ## Common Knowledge
