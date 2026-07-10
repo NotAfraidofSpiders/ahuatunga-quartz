@@ -3,12 +3,16 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-05-03T00:16:07.252-05:00
-published: 2026-05-03T00:16:07.252-05:00
+modified: 2026-07-10T15:11:59.037-05:00
+published: 2026-07-10T15:11:59.037-05:00
 tags:
   - Player-Notes
   - web-utils
 ---
+
+# The Ahuatunga Campaign Setting
+
+The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Dragons rules, with a few homebrew modifications. The setting itself is a single island with six elemental regions that have distinct geography, weather, creatures, and cultures. Links to commonly referenced rules and pages can be found below.
 
 # About the Wiki
 
@@ -20,10 +24,9 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > Please report any broken links, images, stat blocks, etc. to me so that I can fix them.
 >
 > Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
+> character
 
-# The Ahuatunga Campaign Setting
-
-The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Dragons rules, with a few homebrew modifications. The setting itself is a single island with six elemental regions that have distinct geography, weather, creatures, and cultures. Links to commonly referenced rules and pages can be found below.
+# Player Info
 
 ## Commonly Referenced Rules
 
@@ -43,11 +46,23 @@ The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Drago
 > - [[Resting Rules]]
 > - [[Environment Rules]]
 
-> [!faq] Player Options
+> [!faq] Player Character Rules
 >
 > - [[Iwi Lineage]]
+>   - [[Whenuiwi]]
+>   - [[Tioiwi]]
+>   - [[Hauiwi]]
+>   - [[Waiiwi]]
 > - [[Class Index|Classes]]
-> - [[Backgrounds]]
+>   - [[Bard]]
+>     - [[College of Creation]]
+>   - [[Blood Hunter]]
+>   - [[Fighter]]
+>     - [[Psi Warrior]]
+>   - [[Monk]]
+>     - [[Way of Shadow]]
+>   - [[Wizard]]
+>   - [[Sorcerer]]
 > - [[Feats]]
 
 ## Common Knowledge
