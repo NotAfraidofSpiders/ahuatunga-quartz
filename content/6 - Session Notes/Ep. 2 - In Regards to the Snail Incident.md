@@ -2,8 +2,8 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 2 - In Regards to the Snail Incident.md
 created: 2026-07-10T17:55:17.025-05:00
-modified: 2026-07-11T12:12:47.234-05:00
-published: 2026-07-11T12:12:47.234-05:00
+modified: 2026-07-11T14:06:19.658-05:00
+published: 2026-07-11T14:06:19.658-05:00
 tags:
   - Player-Notes
 ---
@@ -29,6 +29,8 @@ As the dust settled and everyone checked their wounds, Wade turned to Villaja an
 ## Notes
 
 ### Loot Acquired
+
+[[2 - In Regards to the Snail Incident#Loot Acquired|<For DM use only>]]
 
 - 20 sp
   - Uspia took 20 sp

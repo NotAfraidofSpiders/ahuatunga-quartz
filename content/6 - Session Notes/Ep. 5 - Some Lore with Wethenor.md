@@ -2,8 +2,8 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 5 - Some Lore with Wethenor.md
 created: 2026-07-10T17:57:37.035-05:00
-modified: 2026-07-10T19:48:14.259-05:00
-published: 2026-07-10T19:48:14.259-05:00
+modified: 2026-07-11T14:22:53.940-05:00
+published: 2026-07-11T14:22:53.940-05:00
 tags:
   - Player-Notes
 ---
@@ -13,6 +13,8 @@ tags:
 [[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[ | Next Ep. >>]]
 
 ## Summary
+
+\[Summary WIP please message me if you'd like a recap]
 
 ## Notes
 
