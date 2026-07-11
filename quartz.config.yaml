@@ -240,7 +240,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties:
@@ -266,7 +266,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme.ttrpg-dnd
+      theme: its-theme.ttrpg-pathfinder-remastered
   - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
     enabled: true
     order: 50
