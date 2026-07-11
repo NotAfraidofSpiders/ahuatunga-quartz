@@ -243,10 +243,7 @@ plugins:
     enabled: true
     options:
       includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
+      includedProperties: "[]"
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
