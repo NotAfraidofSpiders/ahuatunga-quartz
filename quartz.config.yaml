@@ -35,8 +35,8 @@ configuration:
         lightgray: "#393639"
         gray: "#646464"
         darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
+        dark: "#2f8b62"
+        secondary: "#447aa6"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
@@ -267,15 +267,6 @@ plugins:
       inlineBlockHeaderId: ZOOMMAP-DATA
       maxInlineDataBytes: 0
       defaultIconKey: pin-red
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-      ref: main
-    enabled: true
-    order: 50
-    options:
-      theme: its-theme.ttrpg-dnd
 layout:
   groups:
     toolbar:
