@@ -265,7 +265,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme.ttrpg-pathfinder-remastered
+      theme: its-theme.ttrpg-dnd
   - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
     enabled: true
     order: 50
