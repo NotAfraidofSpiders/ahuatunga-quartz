@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-10T16:15:36.728-05:00
-published: 2026-07-10T16:15:36.728-05:00
+modified: 2026-07-10T20:09:14.737-05:00
+published: 2026-07-10T20:09:14.737-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -28,11 +28,19 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 
 # Player Info
 
-## Session Summaries
+## Session Notes
+
+> [!tip] Recent Episodes
+>
+> - [[Ep. 1 - The Adventure Begins]]
+> - [[Ep. 2 - In Regards to the Snail Incident]]
+> - [[Ep. 3 - The Curious Case of the Bone Hole]]
+> - [[Ep. 4 - Discovering the Bone Zone]]
+> - [[Ep. 5 - Some Lore with Wethenor]]
 
 ## Commonly Referenced Rules
 
-> [!info] Core Mechanics
+> [!tldr] Core Mechanics
 >
 > - [[Ability Scores]]
 > - [[Combat Rules]]
@@ -49,7 +57,7 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > - [[Environment Rules]]
 > - [[Dungeoneering Rules]]
 
-> [!faq] Player Character Rules
+> [!todo] Player Character Rules
 >
 > - [[Iwi Lineage]]
 >   - [[Whenuiwi]]
@@ -72,7 +80,7 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 
 ## Common Knowledge
 
-> [!abstract] Basic Lore
+> [!info] Basic Lore
 >
 > - [[A Brief History]]
 > - [[The Six Elements]]
