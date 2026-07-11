@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-11T11:29:27.560-05:00
-published: 2026-07-11T11:29:27.560-05:00
+modified: 2026-07-11T12:20:48.475-05:00
+published: 2026-07-11T12:20:48.475-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -22,7 +22,6 @@ This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey 
 > Please report any broken links, images, stat blocks, etc. to me so that I can fix them.
 >
 > Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
-> character
 
 # Player Info
 
