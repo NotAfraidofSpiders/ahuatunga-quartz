@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-10T20:09:14.737-05:00
-published: 2026-07-10T20:09:14.737-05:00
+modified: 2026-07-11T11:29:27.560-05:00
+published: 2026-07-11T11:29:27.560-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -14,9 +14,7 @@ tags:
 
 The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Dragons rules, with a few homebrew modifications. The setting itself is a single island with six elemental regions that have distinct geography, weather, creatures, and cultures. Links to commonly referenced rules and pages can be found below.
 
-# About the Wiki
-
-Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey Campaign will take place in. Players will find access to the D\&D 5e rules as well as the homebrew additions and alterations used in the game. You'll also find information on lore, locations, characters, items, and equipment.
+This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey Campaign will take place in. Players will find access to the D\&D 5e rules as well as the homebrew additions and alterations used in the game. You'll also find information on lore, locations, characters, items, and equipment.
 
 > [!warning] Here There be Dragons!
 > I host this website myself by using a program called Quartz to automatically format and upload pages from my campaign notes to a Github repository I maintain. As a result, there is a real possibility that parts of the site will be broken, especially newer pages, features, or plugins.
@@ -28,8 +26,6 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 
 # Player Info
 
-## Session Notes
-
 > [!tip] Recent Episodes
 >
 > - [[Ep. 1 - The Adventure Begins]]
@@ -38,26 +34,21 @@ Welcome to Ahuatunga! This wiki serves as a guide to the campaign setting that t
 > - [[Ep. 4 - Discovering the Bone Zone]]
 > - [[Ep. 5 - Some Lore with Wethenor]]
 
-## Commonly Referenced Rules
+## Commonly Used Rules
 
-> [!tldr] Core Mechanics
+For your convenience, below are links to some of the most commonly referenced rules during play. If you would like a more comprehensive list of rules, please see the [[Rules Index]]
+
+> [!example] Core Game Mechanics
 >
 > - [[Ability Scores]]
 > - [[Combat Rules]]
->   - [[Weapon Rules]]
->   - [[Armor Rules]]
->   - [[Crunchy Crits]]
->   - [[Martial Revisions]]
 > - [[Movement Rules]]
-> - [[Death Revisions]]
 > - [[Spellcasting Rules]]
->   - [[Spells]]
->   - [[Spell Points Variant]]
 > - [[Resting Rules]]
 > - [[Environment Rules]]
 > - [[Dungeoneering Rules]]
 
-> [!todo] Player Character Rules
+> [!todo] Player Character Options
 >
 > - [[Iwi Lineage]]
 >   - [[Whenuiwi]]

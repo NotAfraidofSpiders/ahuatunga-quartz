@@ -2,12 +2,11 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Overview.md
 created: 2025-09-21T19:25:18.705-05:00
-modified: 2026-04-27T17:15:21.038-05:00
-published: 2026-04-27T17:15:21.038-05:00
+modified: 2026-07-11T11:32:20.707-05:00
+published: 2026-07-11T11:32:20.707-05:00
 tags:
   - Hipoki
   - Homebrew
-  - Player-Notes
   - Lore
   - Rules
 ---

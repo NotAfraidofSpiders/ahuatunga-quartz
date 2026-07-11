@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Combat Rules.md
 created: 2025-12-05T19:23:32.811-06:00
-modified: 2026-04-27T16:15:28.159-05:00
-published: 2026-04-27T16:15:28.159-05:00
+modified: 2026-07-11T11:16:50.832-05:00
+published: 2026-07-11T11:16:50.832-05:00
 tags:
   - Rules
 ---
@@ -363,6 +363,8 @@ If a [[Spellcasting Rules#Targets|spell]] or other effect deals damage to **more
 When you score a critical hit, you get to roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
 
 For example, if you score a critical hit with a dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant [[Combat Rules#Modifiers to the Roll|ability modifier]]. If the attack involves other damage dice, such as from the [[Rogue#Sneak Attack|rogue's Sneak Attack]] feature, you roll those dice twice as well.
+
+##### Homebrew Rule:
 
 ![[Crunchy Crits]]
 
