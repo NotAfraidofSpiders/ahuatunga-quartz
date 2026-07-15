@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Rules Index.md
 created: 2026-07-11T11:12:40.192-05:00
-modified: 2026-07-11T11:40:34.915-05:00
-published: 2026-07-11T11:40:34.915-05:00
+modified: 2026-07-15T11:25:16.541-05:00
+published: 2026-07-15T11:25:16.541-05:00
 tags:
   - web-utils
 ---
@@ -17,7 +17,6 @@ tags:
   - [[Sanctuary Resting]]
 - [[Wealth Rules]]
   - [[Expenses]]
-- [[Object Rules]]
 
 # Engaging with the Environment
 
@@ -25,6 +24,7 @@ tags:
   - [[Mounts and Vehicles]]
 - [[Environment Rules]]
 - [[Dungeoneering Rules]]
+- [[Object Rules]]
 
 # Item and Equipment Rules
 
@@ -37,8 +37,8 @@ tags:
 - [[Poisons]]
 - [[Trinkets]]
 - [[Trade Goods]]
-- [[Hipoki Overview]]
 - [[Magic Item Rules]]
+  - [[Hipoki Overview]]
 
 # Combat Rules
 

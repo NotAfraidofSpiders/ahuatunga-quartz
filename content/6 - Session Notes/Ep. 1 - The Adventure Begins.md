@@ -2,13 +2,11 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 1 - The Adventure Begins.md
 created: 2026-07-10T16:16:08.664-05:00
-modified: 2026-07-10T19:46:32.044-05:00
-published: 2026-07-10T19:46:32.044-05:00
+modified: 2026-07-15T11:20:01.009-05:00
+published: 2026-07-15T11:20:01.009-05:00
 tags:
   - Player-Notes
 ---
-
-# The Adventure Begins
 
 [[Ep. 2 - In Regards to the Snail Incident|Next Ep. >>]]
 
@@ -45,3 +43,7 @@ After securing the chamber, the party realized that ahead of them, carved in the
 #### New Locations
 
 - The Accursed Cloister
+
+---
+
+[[Ep. 2 - In Regards to the Snail Incident|Next Ep. >>]]

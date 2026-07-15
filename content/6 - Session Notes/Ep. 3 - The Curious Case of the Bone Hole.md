@@ -2,13 +2,11 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 3 - The Curious Case of the Bone Hole.md
 created: 2026-07-10T17:55:58.502-05:00
-modified: 2026-07-14T13:03:57.557-05:00
-published: 2026-07-14T13:03:57.557-05:00
+modified: 2026-07-15T11:19:53.666-05:00
+published: 2026-07-15T11:19:53.666-05:00
 tags:
   - Player-Notes
 ---
-
-# The Curious Case of the Bone Hole
 
 [[Ep. 2 - In Regards to the Snail Incident|<<Prev. Ep.]] | [[Ep. 4 - Discovering the Bone Zone| Next Ep. >>]]
 
@@ -50,3 +48,7 @@ Thankfully, Wade managed to catch the ledge of the bone hole, and Uspia used mag
 #### Returning Locations
 
 - The Accursed Cloister
+
+---
+
+[[Ep. 2 - In Regards to the Snail Incident|<<Prev. Ep.]] | [[Ep. 4 - Discovering the Bone Zone| Next Ep. >>]]

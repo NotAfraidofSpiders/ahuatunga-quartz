@@ -2,13 +2,11 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 5 - Some Lore with Wethenor.md
 created: 2026-07-10T17:57:37.035-05:00
-modified: 2026-07-14T15:12:23.177-05:00
-published: 2026-07-14T15:12:23.177-05:00
+modified: 2026-07-15T11:22:37.574-05:00
+published: 2026-07-15T11:22:37.574-05:00
 tags:
   - Player-Notes
 ---
-
-# Some Lore with Wethenor
 
 [[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[ | Next Ep. >>]]
 
@@ -51,3 +49,7 @@ The library was more barren than any of the party had hoped. Sadly for our heroe
 #### Returning Locations
 
 - The Accursed Cloister
+
+---
+
+[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[ | Next Ep. >>]]

@@ -2,13 +2,11 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 4 - Discovering the Bone Zone.md
 created: 2026-07-10T17:57:18.870-05:00
-modified: 2026-07-10T19:46:14.678-05:00
-published: 2026-07-10T19:46:14.678-05:00
+modified: 2026-07-15T11:19:46.356-05:00
+published: 2026-07-15T11:19:46.356-05:00
 tags:
   - Player-Notes
 ---
-
-# Discovering the Bone Zone
 
 [[Ep. 3 - The Curious Case of the Bone Hole|<<Prev. Ep.]] | [[Ep. 5 - Some Lore with Wethenor| Next Ep. >>]]
 
@@ -50,3 +48,7 @@ As Wethenor approached, Cygnus deafened himself using rags then grabbed Uspia an
 #### Returning Locations
 
 - The Accursed Cloister
+
+---
+
+[[Ep. 3 - The Curious Case of the Bone Hole|<<Prev. Ep.]] | [[Ep. 5 - Some Lore with Wethenor| Next Ep. >>]]
