@@ -2,13 +2,13 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 5 - Some Lore with Wethenor.md
 created: 2026-07-10T17:57:37.035-05:00
-modified: 2026-07-15T15:05:56.719-05:00
-published: 2026-07-15T15:05:56.719-05:00
+modified: 2026-07-15T15:15:53.138-05:00
+published: 2026-07-15T15:15:53.138-05:00
 tags:
   - Player-Notes
 ---
 
-[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[ | Next Ep. >>]]
+[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[Ep. 6 - TBD| Next Ep. >>]]
 
 ## Summary
 
@@ -61,6 +61,7 @@ Uspia identified the mask as a [[Hipoki Dagup|Great Hipoki Dagup]], with the Anc
 #### Returning NPCs
 
 - Wethenor
+- Odu
 
 ### Locations
 
@@ -70,4 +71,4 @@ Uspia identified the mask as a [[Hipoki Dagup|Great Hipoki Dagup]], with the Anc
 
 ---
 
-[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[ | Next Ep. >>]]
+[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[Ep. 6 - TBD| Next Ep. >>]]
