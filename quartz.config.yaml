@@ -148,13 +148,11 @@ plugins:
       priority: 10
     options:
         localGraph:
-            enabled: false
             drag: true
             zoom: true
-            depth: 0
+            depth: -1
             scale: 1.1
         globalGraph:
-            enabled: true
             drag: true
             zoom: true
             depth: -1
