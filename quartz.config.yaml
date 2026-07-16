@@ -150,8 +150,8 @@ plugins:
         localGraph:
             drag: true
             zoom: true
-            depth: -1
-            scale: 1.5
+            depth: 5
+            scale: 3
             repelForce: 1.00
             centerForce: 0.56
             linkDistance: 30
