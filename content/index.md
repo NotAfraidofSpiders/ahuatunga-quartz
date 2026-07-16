@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-16T10:33:04.941-05:00
-published: 2026-07-16T10:33:04.941-05:00
+modified: 2026-07-16T11:13:49.659-05:00
+published: 2026-07-16T11:13:49.659-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -79,10 +79,3 @@ For your convenience, below are links to some of the most commonly referenced ru
 > - [[Calendar]]
 > - [[Island of Ahuatunga|The Island]]
 > - [[Hipoki Overview]]
-
-# New Plugin Test
-
-This [[Unlisted Page Test|page]] should only be accessible via this link. It shouldn't appear in the explorer or search results
-
-Below should be a transcluded block from the unlisted page.
-![[Unlisted Page Test]]
