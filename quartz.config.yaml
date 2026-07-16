@@ -151,11 +151,11 @@ plugins:
             drag: true
             zoom: true
             depth: 1
-            scale: 0.5
+            scale: 0.4
             repelForce: 1.00
             centerForce: 0.56
             linkDistance: 30
-            fontSize: 1.1
+            fontSize: 0.9
             opacityScale: 1
             removeTags: []
             showTags: false
