@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Calistoga
+      header: BJCree
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
