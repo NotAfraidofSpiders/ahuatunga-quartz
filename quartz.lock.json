@@ -173,7 +173,7 @@
       "source": "github:quartz-community/og-image",
       "resolved": "https://github.com/quartz-community/og-image.git",
       "commit": "31343c612d02c5fd22ff27a1e6035b2486be75f5",
-      "installedAt": "2026-07-01T19:10:54.454Z"
+      "installedAt": "2026-07-16T20:07:15.275Z"
     },
     "ox-hugo": {
       "source": "github:quartz-community/ox-hugo",
@@ -269,6 +269,12 @@
       "resolved": "https://github.com/quartz-community/tag-page.git",
       "commit": "eabf3eec55c0bab7f49e69957341f34d2ae3c5a1",
       "installedAt": "2026-07-01T19:10:54.454Z"
+    },
+    "tui": {
+      "source": "github:quartz-community/tui",
+      "resolved": "https://github.com/quartz-community/tui.git",
+      "commit": "d1d51a626ef84a6f4d0933cce2b834a9db92282b",
+      "installedAt": "2026-07-16T20:08:04.613Z"
     },
     "unlisted-pages": {
       "source": "github:quartz-community/unlisted-pages",

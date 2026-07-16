@@ -147,20 +147,20 @@ plugins:
       position: right
       priority: 10
     options:
-        localGraph:
-            drag: true
-            zoom: true
-            depth: 1
-            scale: 0.4
-            repelForce: 1.00
-            centerForce: 0.56
-            linkDistance: 30
-            fontSize: 0.6
-            opacityScale: 1
-            removeTags: []
-            showTags: false
-            focusOnHover: true
-            enableRadial: true
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 0.4
+        repelForce: 1
+        centerForce: 0.56
+        linkDistance: 30
+        fontSize: 0.2
+        opacityScale: 1
+        removeTags: []
+        showTags: false
+        focusOnHover: true
+        enableRadial: true
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -304,28 +304,38 @@ plugins:
       position: body
       priority: 100
       display: all
-layout:
-  groups:
-    toolbar:
-      priority: 35
-      direction: row
-      gap: 0.5rem
-  byPageType:
-    "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
-    content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}
+  - source: github:quartz-community/og-image
+    enabled: true
+    options:
+      colorScheme: lightMode
+      width: 1200
+      height: 630
+      excludeRoot: false
+      defaultTitle: Untitled
+      defaultDescription: No description provided
+    order: 50
+    layout:
+      groups:
+        toolbar:
+          priority: 35
+          direction: row
+          gap: 0.5rem
+      byPageType:
+        "404":
+          positions:
+            beforeBody: []
+            left: []
+            right: []
+      content: {}
+      folder:
+        exclude:
+          - reader-mode
+        positions:
+          right: []
+      tag:
+        exclude:
+          - reader-mode
+        positions:
+          right: []
+      canvas: {}
+      bases: {}
