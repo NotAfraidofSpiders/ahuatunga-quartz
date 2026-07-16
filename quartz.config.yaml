@@ -106,7 +106,8 @@ plugins:
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true
+    options: {}
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -145,9 +146,7 @@ plugins:
     layout:
       position: right
       priority: 10
-    options:
-      globalGraph: "true"
-      localGraph: "false"
+    options: {}
   - source: github:quartz-community/search
     enabled: true
     layout:
