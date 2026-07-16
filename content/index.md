@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-15T23:19:15.683-05:00
-published: 2026-07-15T23:19:15.683-05:00
+modified: 2026-07-16T10:33:04.941-05:00
+published: 2026-07-16T10:33:04.941-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -70,12 +70,19 @@ For your convenience, below are links to some of the most commonly referenced ru
 >     - [[Wild Magic Origin]]
 > - [[Feats]]
 
-## Common Knowledge
+## Basic Lore
 
-> [!info] Basic Lore
+> [!info] Setting Common Knowledge
 >
 > - [[A Brief History]]
 > - [[The Six Elements]]
 > - [[Calendar]]
 > - [[Island of Ahuatunga|The Island]]
 > - [[Hipoki Overview]]
+
+# New Plugin Test
+
+This [[Unlisted Page Test|page]] should only be accessible via this link. It shouldn't appear in the explorer or search results
+
+Below should be a transcluded block from the unlisted page.
+![[Unlisted Page Test]]
