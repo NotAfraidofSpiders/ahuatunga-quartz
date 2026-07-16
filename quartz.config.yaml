@@ -155,7 +155,7 @@ plugins:
             repelForce: 1.00
             centerForce: 0.56
             linkDistance: 30
-            fontSize: 0.9
+            fontSize: 0.6
             opacityScale: 1
             removeTags: []
             showTags: false
