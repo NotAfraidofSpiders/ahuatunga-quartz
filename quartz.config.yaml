@@ -293,7 +293,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 50
+      priority: 10
       display: all
   - source: github:quartz-community/unlisted-pages
     enabled: true
