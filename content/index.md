@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-15T15:12:55.011-05:00
-published: 2026-07-15T15:12:55.011-05:00
+modified: 2026-07-15T23:19:15.683-05:00
+published: 2026-07-15T23:19:15.683-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -16,16 +16,18 @@ The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Drago
 
 This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey Campaign will take place in. Players will find access to the D\&D 5e rules as well as the homebrew additions and alterations used in the game. You'll also find information on lore, locations, characters, items, and equipment.
 
-> [!warning] Here There be Dragons!
-> I host this website myself by using a program called Quartz to automatically format and upload pages from my campaign notes to a Github repository I maintain. As a result, there is a real possibility that parts of the site will be broken, especially newer pages, features, or plugins.
+> [!success] Thanks for the feedback!
+> Thanks to all of your feedback, the wiki is now in its most usable state yet!
 >
-> Please report any broken links, images, stat blocks, etc. to me so that I can fix them.
+> If you need a quick refresher or just want to check what goodies you have found so far, check out the session notes! The five most recent sessions will always be linked on the homepage, but you can still find the old notes in the session notes folder.
 >
-> Unfortunately, because of the way I set up this wiki, there may still be some vestigial links to DM-note pages. These links will point to 404 pages, but will otherwise appear to be normal links. When you report them, I'll let you know and remove the link.
+> For your convenience, all major rules are linked on the new [[Rules Index]]. The rules are organized in groups which are likely to come up in similar situations for ease of navigation.
+>
+> You'll now also find each of your iwi lineages, classes, sub-classes, and feats linked right on the homepage! I know these are the rules you need to use most often, so hopefully this should make navigating to them easier.
 
 # Player Info
 
-> [!tip] Recent Episodes
+> [!tip] Recent Sessions
 >
 > - [[Ep. 1 - The Adventure Begins]]
 > - [[Ep. 2 - In Regards to the Snail Incident]]
@@ -47,7 +49,7 @@ For your convenience, below are links to some of the most commonly referenced ru
 > - [[Environment Rules]]
 > - [[Dungeoneering Rules]]
 
-> [!todo] Player Character Options
+> [!tldr] Player Character Options
 >
 > - [[Iwi Lineage]]
 >   - [[Whenuiwi]]
