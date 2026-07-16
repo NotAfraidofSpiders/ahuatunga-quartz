@@ -107,17 +107,6 @@ plugins:
     enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: false
-  - source: github:quartz-community/unlisted-pages
-    enabled: true
-    options: {}
-    order: 45
-  - source: github:quartz-community/encrypted-pages
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -167,15 +156,6 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
-  - source: github:quartz-community/table-of-contents
-    enabled: true
-    order: 50
-    options:
-      showByDefault: "true"
-      minEntries: 1
-      collapseByDefault: "false"
-      layout: modern
-      maxDepth: 3
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
