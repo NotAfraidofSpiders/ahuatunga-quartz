@@ -171,7 +171,11 @@ plugins:
     enabled: true
     order: 50
     options:
+      showByDefault: "true"
+      minEntries: 1
+      collapseByDefault: "false"
       layout: modern
+      maxDepth: 3
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
