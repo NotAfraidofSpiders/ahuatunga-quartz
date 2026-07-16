@@ -150,12 +150,12 @@ plugins:
         localGraph:
             drag: true
             zoom: true
-            depth: 2
-            scale: 3
+            depth: 1
+            scale: 0.9
             repelForce: 1.00
             centerForce: 0.56
             linkDistance: 30
-            fontSize: 0.6
+            fontSize: 2
             opacityScale: 1
             removeTags: []
             showTags: false
