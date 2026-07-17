@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 - Lore/Culture/The Six Elements.md
 created: 2026-03-05T21:55:32.861-06:00
-modified: 2026-07-16T18:11:59.548-05:00
-published: 2026-07-16T18:11:59.548-05:00
+modified: 2026-07-16T18:35:23.829-05:00
+published: 2026-07-16T18:35:23.829-05:00
 tags:
   - Culture
   - Lore
@@ -14,7 +14,19 @@ It is well established that there are six primordial elements, from which all th
 
 # Primeval Spirits
 
-The Primeval Spirits are the embodiment of the elements. While it is true that elementals take many shapes and forms as the elements will, the primeval spirits act as the will of the elements themselves.
+The Primeval Spirits are the embodiment of the elements. While it is true that elementals take many shapes and forms as the elements will, the primeval spirits act as the will of the elements themselves. There are six primeval spirits, one for each element.
+
+## Ikir, Indomitable Drake
+
+## Uxar, Wistful Dragonfly
+
+## Akida, Harborshelled Turtle
+
+## Melum, Starbound Goat
+
+## Ketar, Unbound Thunderbird
+
+## Terak, Unstoppable Depthworm
 
 # Elemental Affinity
 
