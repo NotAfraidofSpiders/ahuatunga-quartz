@@ -339,3 +339,7 @@ plugins:
           right: []
       canvas: {}
       bases: {}
+  - source: github:quartz-community/tui
+    enabled: true
+    options: {}
+    order: 50
