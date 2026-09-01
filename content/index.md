@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-16T11:13:49.659-05:00
-published: 2026-07-16T11:13:49.659-05:00
+modified: 2026-09-01T09:15:39.117-05:00
+published: 2026-09-01T09:15:39.117-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -16,14 +16,19 @@ The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Drago
 
 This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey Campaign will take place in. Players will find access to the D\&D 5e rules as well as the homebrew additions and alterations used in the game. You'll also find information on lore, locations, characters, items, and equipment.
 
-> [!success] Thanks for the feedback!
-> Thanks to all of your feedback, the wiki is now in its most usable state yet!
+> [!question] Testing Hidden and Password Protected Pages
+> I'm playing around with a few plugins that may enable me to add unlisted (you must copy and paste or click directly on a link) and password protected pages to the wiki. These plugins have been on my radar since the begining and would ultimately make it possible for me to give you each personal pages for notes on mechanics and lore that are character specific and/or secret. While there is little need for these right now, it would allow me to build tailored reference pages for your characters so that you can quickly access any relevant rules at a glance, as well as lock lore pages behind visiting in-world locations such as temples, monastaries, and libraries.
 >
-> If you need a quick refresher or just want to check what goodies you have found so far, check out the session notes! The five most recent sessions will always be linked on the homepage, but you can still find the old notes in the session notes folder.
+> I'm going to place some links below to some test pages. I've had bad luck with the plugins working as intended before, so if you're feeling curious I would appreciate you testing them out and reporting back to me.
+
+> [!danger] Test Links
+> **Unlisted Page:** [[Unlisted Page Test]]
 >
-> For your convenience, all major rules are linked on the new [[Rules Index]]. The rules are organized in groups which are likely to come up in similar situations for ease of navigation.
+> - This page should be invisible on the wiki except for the link above
 >
-> You'll now also find each of your iwi lineages, classes, sub-classes, and feats linked right on the homepage! I know these are the rules you need to use most often, so hopefully this should make navigating to them easier.
+> **Encrypted Page:** [[Encrypted Page Test]]
+>
+> - This page should also be invisible, but it will require a password to access too
 
 # Player Info
 

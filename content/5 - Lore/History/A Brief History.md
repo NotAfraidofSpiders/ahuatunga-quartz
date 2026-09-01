@@ -2,8 +2,8 @@
 publish: true
 permalink: /5 - Lore/History/A Brief History.md
 created: 2026-04-02T23:04:52.126-05:00
-modified: 2026-04-27T17:25:32.355-05:00
-published: 2026-04-27T17:25:32.355-05:00
+modified: 2026-07-16T17:21:28.307-05:00
+published: 2026-07-16T17:21:28.307-05:00
 tags:
   - Lore
   - Player-Notes
@@ -28,6 +28,10 @@ With the knowledge and arcane might of many archmages and sorcerers, the Kaitiak
 ### The Journey to The Island
 
 The pilgrimage of the penitent iwi to [[Island of Ahuatunga|the island]] was a long and dangerous voyage. Many iwi perished on the journey. The dark, deep, empty seas sank the minds of many veterans, who returned to the elements in the depths. So far from their [[Primeval Spirits]], the children born at sea became the first [[Takoto Kau]]: iwi cursed to grow old without ever acquiring an [[The Six Elements#Elemental Affinity|elemental affinity]]. Some who remember the journey claim to have seen titanic monsters in the depths, but it is unknown if there are truly creatures out beyond the shallows around the island.
+
+> [!warning] Under Construction
+> I am still working on adapting these portions of my notes for your viewing.
+> If you have any questions don't hesitate to reach out and ask!
 
 ## The Era of Rebuilding
 
