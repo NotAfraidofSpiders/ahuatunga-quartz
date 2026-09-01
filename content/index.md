@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-07-16T11:13:49.659-05:00
-published: 2026-07-16T11:13:49.659-05:00
+modified: 2026-08-31T23:30:02.590-05:00
+published: 2026-08-31T23:30:02.590-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -15,15 +15,6 @@ tags:
 The Ahuatunga campaign setting is run using the Fifth Edition Dungeons and Dragons rules, with a few homebrew modifications. The setting itself is a single island with six elemental regions that have distinct geography, weather, creatures, and cultures. Links to commonly referenced rules and pages can be found below.
 
 This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey Campaign will take place in. Players will find access to the D\&D 5e rules as well as the homebrew additions and alterations used in the game. You'll also find information on lore, locations, characters, items, and equipment.
-
-> [!success] Thanks for the feedback!
-> Thanks to all of your feedback, the wiki is now in its most usable state yet!
->
-> If you need a quick refresher or just want to check what goodies you have found so far, check out the session notes! The five most recent sessions will always be linked on the homepage, but you can still find the old notes in the session notes folder.
->
-> For your convenience, all major rules are linked on the new [[Rules Index]]. The rules are organized in groups which are likely to come up in similar situations for ease of navigation.
->
-> You'll now also find each of your iwi lineages, classes, sub-classes, and feats linked right on the homepage! I know these are the rules you need to use most often, so hopefully this should make navigating to them easier.
 
 # Player Info
 
