@@ -291,7 +291,7 @@ plugins:
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
-    order: 100
+    order: 800
   - source: github:quartz-community/encrypted-pages
     enabled: true
     options:
