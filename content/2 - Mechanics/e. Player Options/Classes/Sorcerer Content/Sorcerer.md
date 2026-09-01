@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Sorcerer Content/Sorcerer.md
 created: 2025-09-21T19:25:19.471-05:00
-modified: 2026-08-31T23:13:46.771-05:00
-published: 2026-08-31T23:13:46.771-05:00
+modified: 2026-09-01T18:20:48.206-05:00
+published: 2026-09-01T18:20:48.206-05:00
 tags:
   - PlayerOption
   - Class
@@ -108,7 +108,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 
 | Origin                                                                                                             | Source                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| [[Abberant Mind Origin\|Aberrant Mind]]                                                                            | Tasha's Cauldron of Everything                                                                                               |
+| [[Aberrant Mind Origin\|Aberrant Mind]]                                                                            | Tasha's Cauldron of Everything                                                                                               |
 | [Clockwork Soul](https://dnd5e.wikidot.com/sorcerer:clockwork-soul)                                                | Tasha's Cauldron of Everything                                                                                               |
 | [Draconic Bloodline](https://dnd5e.wikidot.com/sorcerer:draconic-bloodline)                                        | Player's Handbook                                                                                                            |
 | [Divine Soul](https://dnd5e.wikidot.com/sorcerer:divine-soul)                                                      | Xanathar's Guide to Everything                                                                                               |
