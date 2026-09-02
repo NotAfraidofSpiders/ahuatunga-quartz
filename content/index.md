@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Homepage
 created: 2026-04-24T11:51:03.260-05:00
-modified: 2026-09-02T09:41:06.438-05:00
-published: 2026-09-02T09:41:06.438-05:00
+modified: 2026-09-02T10:02:49.391-05:00
+published: 2026-09-02T10:02:49.391-05:00
 tags:
   - Player-Notes
   - web-utils
@@ -23,7 +23,7 @@ This wiki serves as a guide to the campaign setting that the Ahuatungan Odyssey 
 > - [[Ep. 3 - The Curious Case of the Bone Hole]]
 > - [[Ep. 4 - Discovering the Bone Zone]]
 > - [[Ep. 5 - Some Lore with Wethenor]]
-> - [[Ep. 6 - "That's Enought Space"]]
+> - [[Ep. 6 - Enought Space]]
 > - [[Ep. 7 - Wethenor or Not to Fight]]
 
 ## Commonly Used Rules
