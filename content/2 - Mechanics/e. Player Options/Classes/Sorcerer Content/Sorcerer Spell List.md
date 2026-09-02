@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Sorcerer Content/Sorcerer Spell List.md
 created: 2025-12-02T18:52:03.395-06:00
-modified: 2026-09-01T18:51:02.963-05:00
-published: 2026-09-01T18:51:02.963-05:00
+modified: 2026-09-02T08:38:55.668-05:00
+published: 2026-09-02T08:38:55.668-05:00
 tags:
   - PlayerOption
   - Spell-list
@@ -11,7 +11,7 @@ tags:
 
 # Sorcerer Spells
 
-## Cantrips
+## Sorcerer Cantrips
 
 | Spell Name                                      | School            | Casting Time | Range                 | Duration                      | Components |
 | ----------------------------------------------- | ----------------- | ------------ | --------------------- | ----------------------------- | ---------- |
@@ -46,7 +46,7 @@ tags:
 | [[Spells#Thunderclap\|Thunderclap]]             | _Evocation_       | 1 Action     | Self (5-foot radius)  | Instantaneous                 | S          |
 | [[Spells#True Strike\|True Strike]]             | _Divination_      | 1 Action     | 30 feet               | Concentration up to 1 round   | S          |
 
-## 1st Level Spells
+## 1st Level Sorcerer Spells
 
 | Spell Name                                              | School            | Casting Time   | Range                 | Duration                        | Components |
 | ------------------------------------------------------- | ----------------- | -------------- | --------------------- | ------------------------------- | ---------- |
@@ -83,66 +83,59 @@ tags:
 | [[Spells#Thunderwave\|Thunderwave]]                     | _Evocation_       | 1 Action       | Self (15-foot cube)   | Instantaneous                   | V, S       |
 | [[Spells#Witch Bolt\|Witch Bolt]]                       | _Evocation_       | 1 Action       | 30 feet               | Concentration, up to 1 minute   | V, S, M    |
 
-## 2nd Level Spells
+## 2nd Level Sorcerer Spells
 
-| Spell Name                                                                                | School            | Casting Time   | Range               | Duration                        | Components |
-| ----------------------------------------------------------------------------------------- | ----------------- | -------------- | ------------------- | ------------------------------- | ---------- |
-| [Aganazzar's Scorcher](https://dnd5e.wikidot.com/spell:aganazzars-scorcher)               | _Evocation_       | 1 Action       | 30 Feet             | Instantaneous                   | V, S, M    |
-| [Air Bubble](https://dnd5e.wikidot.com/spell:air-bubble)                                  | _Conjuration_     | 1 Action       | 60 Feet             | 24 hours                        | S          |
-| [Alter Self](https://dnd5e.wikidot.com/spell:alter-self)                                  | _Transmutation_   | 1 Action       | Self                | Concentration, up to 1 hour     | V, S       |
-| [Arcane Hacking (UA)](https://dnd5e.wikidot.com/spell:arcane-hacking)                     | _Transmutation T_ | 1 Action       | Self                | Concentration, up to 1 hour     | V, S, M    |
-| [Blindness/Deafness](https://dnd5e.wikidot.com/spell:blindness-deafness)                  | _Necromancy_      | 1 Action       | 30 Feet             | 1 minute                        | V          |
-| [Blur](https://dnd5e.wikidot.com/spell:blur)                                              | _Illusion_        | 1 Action       | Self                | Concentration, up to 1 minute   | V          |
-| [Cloud of Daggers](https://dnd5e.wikidot.com/spell:cloud-of-daggers)                      | _Conjuration_     | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Crown of Madness](https://dnd5e.wikidot.com/spell:crown-of-madness)                      | _Enchantment_     | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S       |
-| [Darkness](https://dnd5e.wikidot.com/spell:darkness)                                      | _Evocation_       | 1 Action       | 60 feet             | Concentration, up to 10 minutes | V, M       |
-| [Darkvision](https://dnd5e.wikidot.com/spell:darkvision)                                  | _Transmutation_   | 1 Action       | Touch               | 8 hours                         | V, S, M    |
-| [Detect Thoughts](https://dnd5e.wikidot.com/spell:detect-thoughts)                        | _Divination_      | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
-| [Digital Phantom (UA)](https://dnd5e.wikidot.com/spell:digital-phantom)                   | _Abjuration T_    | 1 Action       | Self                | Concentration, up to 1 hour     | V, S, M    |
-| [Dragon's Breath](https://dnd5e.wikidot.com/spell:dragons-breath)                         | _Transmutation_   | 1 Bonus Action | Touch               | Concentration, up to 1 minute   | V, S, M    |
-| [Dust Devil](https://dnd5e.wikidot.com/spell:dust-devil)                                  | _Conjuration_     | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Earthbind](https://dnd5e.wikidot.com/spell:earthbind)                                    | _Transmutation_   | 1 Action       | 300 feet            | Concentration, up to 1 minute   | V          |
-| [Enhance Ability](https://dnd5e.wikidot.com/spell:enhance-ability)                        | _Transmutation_   | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [Enlarge/Reduce](https://dnd5e.wikidot.com/spell:enlarge-reduce)                          | _Transmutation_   | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Find Vehicle (UA)](https://dnd5e.wikidot.com/spell:find-vehicle)                         | _Conjuration T_   | 10 Minutes     | 30 feet             | 8 hours                         | V, S       |
-| [Flame Blade](https://dnd5e.wikidot.com/spell:flame-blade)                                | _Evocation_       | 1 Bonus Action | Self                | Concentration, up to 10 minutes | V, S, M    |
-| [Flaming Sphere](https://dnd5e.wikidot.com/spell:flaming-sphere)                          | _Conjuration_     | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Gust of Wind](https://dnd5e.wikidot.com/spell:gust-of-wind)                              | _Evocation_       | 1 Action       | Self (60-foot line) | Concentration, up to 1 minute   | V, S, M    |
-| [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)                                | _Enchantment_     | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Icingdeath's Frost (UA)](https://dnd5e.wikidot.com/spell:icingdeath-s-frost)             | _Evocation_       | 1 Action       | Self (15-foot cone) | Instantaneous                   | S, M       |
-| [Invisibility](https://dnd5e.wikidot.com/spell:invisibility)                              | _Illusion_        | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [Kinetic Jaunt](https://dnd5e.wikidot.com/spell:kinetic-jaunt)                            | _Transmutation_   | 1 Bonus Action | Self                | Concentration, up to 1 minute   | S          |
-| [Knock](https://dnd5e.wikidot.com/spell:knock)                                            | _Transmutation_   | 1 Action       | 60 feet             | Instantaneous                   | V          |
-| [Levitate](https://dnd5e.wikidot.com/spell:levitate)                                      | _Transmutation_   | 1 Action       | 60 feet             | Concentration, up to 10 minutes | V, S, M    |
-| [Magic Weapon](https://dnd5e.wikidot.com/spell:magic-weapon)                              | _Transmutation_   | 1 Bonus Action | Touch               | Concentration, up to 1 hour     | V, S       |
-| [Maximillian's Earthen Grasp](https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp) | _Transmutation_   | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Mental Barrier (UA)](https://dnd5e.wikidot.com/spell:mental-barrier)                     | _Abjuration_      | 1 Reaction     | Self                | 1 round                         | V          |
-| [Mind Spike](https://dnd5e.wikidot.com/spell:mind-spike)                                  | _Divination_      | 1 Action       | 60 feet             | Concentration, up to 1 hour     | S          |
-| [Mind Thrust (UA)](https://dnd5e.wikidot.com/spell:mind-thrust)                           | _Enchantment_     | 1 Bonus Action | 60 feet             | 1 round                         | V, S       |
-| [Mirror Image](https://dnd5e.wikidot.com/spell:mirror-image)                              | _Illusion_        | 1 Action       | Self                | 1 minute                        | V, S       |
-| [Misty Step](https://dnd5e.wikidot.com/spell:misty-step)                                  | _Conjuration_     | 1 Bonus Action | Self                | Instantaneous                   | V          |
-| [Nathair's Mischief](https://dnd5e.wikidot.com/spell:nathairs-mischief)                   | _Illusion_        | 1 Action       | 60ft                | Concentration, up to 1 minute   | S, M       |
-| [Nathair's Mischief (UA)](https://dnd5e.wikidot.com/spell:nathairs-mischief-ua)           | _Illusion_        | 1 Action       | 60 feet             | Concentration, up to 1 minute   | S, M       |
-| [Phantasmal Force](https://dnd5e.wikidot.com/spell:phantasmal-force)                      | _Illusion_        | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
-| [Pyrotechnics](https://dnd5e.wikidot.com/spell:pyrotechnics)                              | _Transmutation_   | 1 Action       | 60 feet             | Instantaneous                   | V, S       |
-| [Rime's Binding Ice](https://dnd5e.wikidot.com/spell:rimes-binding-ice)                   | _Evocation_       | 1 Action       | Self (30-foot cone) | Instantaneous                   | S, M       |
-| [Scorching Ray](https://dnd5e.wikidot.com/spell:scorching-ray)                            | _Evocation_       | 1 Action       | 120 feet            | Instantaneous                   | V, S       |
-| [See Invisibility](https://dnd5e.wikidot.com/spell:see-invisibility)                      | _Divination_      | 1 Action       | Self                | 1 hour                          | V, S, M    |
-| [Shadow Blade](https://dnd5e.wikidot.com/spell:shadow-blade)                              | _Illusion_        | 1 Bonus Action | Self                | Concentration, up to 1 minute   | V, S       |
-| [Shatter](https://dnd5e.wikidot.com/spell:shatter)                                        | _Evocation_       | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
-| [Snilloc's Snowball Swarm](https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm)       | _Evocation_       | 1 Action       | 90 feet             | Instantaneous                   | V, S, M    |
-| [Spider Climb](https://dnd5e.wikidot.com/spell:spider-climb)                              | _Transmutation_   | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
-| [Spray Of Cards](https://dnd5e.wikidot.com/spell:spray-of-cards)                          | _Conjuration_     | 1 Action       | Self (15-foot cone) | Instantaneous                   | V, S, M    |
-| [Suggestion](https://dnd5e.wikidot.com/spell:suggestion)                                  | _Enchantment_     | 1 Action       | 30 feet             | Concentration, up to 8 hours    | V, M       |
-| [Tasha's Mind Whip](https://dnd5e.wikidot.com/spell:tashas-mind-whip)                     | _Enchantment_     | 1 Action       | 90 feet             | 1 round                         | V          |
-| [Thought Shield (UA)](https://dnd5e.wikidot.com/spell:thought-shield)                     | _Abjuration_      | 1 Action       | Touch               | 8 hours                         | V, S       |
-| [Vortex Warp](https://dnd5e.wikidot.com/spell:vortex-warp)                                | _Conjuration_     | 1 Action       | 90 feet             | Instantaneous                   | V, S       |
-| [Warding Wind](https://dnd5e.wikidot.com/spell:warding-wind)                              | _Evocation_       | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
-| [Warp Sense](https://dnd5e.wikidot.com/spell:warp-sense)                                  | _Divination_      | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
-| [Web](https://dnd5e.wikidot.com/spell:web)                                                | _Conjuration_     | 1 Action       | 60 feet             | Concentration, up to 1 hour     | V, S, M    |
-| [Wither and Bloom](https://dnd5e.wikidot.com/spell:wither-and-bloom)                      | _Necromancy_      | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
+| Spell Name                                                          | School          | Casting Time   | Range               | Duration                        | Components |
+| ------------------------------------------------------------------- | --------------- | -------------- | ------------------- | ------------------------------- | ---------- |
+| [[Spells#Aganazzar's Scorcher\|Aganazzar's Scorcher]]               | _Evocation_     | 1 Action       | 30 Feet             | Instantaneous                   | V, S, M    |
+| [[Spells#Air Bubble\|Air Bubble]]                                   | _Conjuration_   | 1 Action       | 60 Feet             | 24 hours                        | S          |
+| [[Spells#Alter Self\|Alter Self]]                                   | _Transmutation_ | 1 Action       | Self                | Concentration, up to 1 hour     | V, S       |
+| [[Spells#Blindness/Deafness\|Blindness/Deafness]]                   | _Necromancy_    | 1 Action       | 30 Feet             | 1 minute                        | V          |
+| [[Spells#Blur\|Blur]]                                               | _Illusion_      | 1 Action       | Self                | Concentration, up to 1 minute   | V          |
+| [[Spells#Cloud of Daggers\|Cloud of Daggers]]                       | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Crown of Madness\|Crown of Madness]]                       | _Enchantment_   | 1 Action       | 120 feet            | Concentration, up to 1 minute   | V, S       |
+| [[Spells#Darkness\|Darkness]]                                       | _Evocation_     | 1 Action       | 60 feet             | Concentration, up to 10 minutes | V, M       |
+| [[Spells#Darkvision\|Darkvision]]                                   | _Transmutation_ | 1 Action       | Touch               | 8 hours                         | V, S, M    |
+| [[Spells#Detect Thoughts\|Detect Thoughts]]                         | _Divination_    | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Dragon's Breath\|Dragon's Breath]]                         | _Transmutation_ | 1 Bonus Action | Touch               | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Dust Devil\|Dust Devil]]                                   | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Earthbind\|Earthbind]]                                     | _Transmutation_ | 1 Action       | 300 feet            | Concentration, up to 1 minute   | V          |
+| [[Spells#Enhance Ability\|Enhance Ability]]                         | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Spells#Enlarge/Reduce\|Enlarge/Reduce]]                           | _Transmutation_ | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Flame Blade\|Flame Blade]]                                 | _Evocation_     | 1 Bonus Action | Self                | Concentration, up to 10 minutes | V, S, M    |
+| [[Spells#Flaming Sphere\|Flaming Sphere]]                           | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Gust of Wind\|Gust of Wind]]                               | _Evocation_     | 1 Action       | Self (60-foot line) | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Hold Person\|Hold Person]]                                 | _Enchantment_   | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Invisibility\|Invisibility]]                               | _Illusion_      | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Spells#Kinetic Jaunt\|Kinetic Jaunt]]                             | _Transmutation_ | 1 Bonus Action | Self                | Concentration, up to 1 minute   | S          |
+| [[Spells#Knock\|Knock]]                                             | _Transmutation_ | 1 Action       | 60 feet             | Instantaneous                   | V          |
+| [[Spells#Levitate\|Levitate]]                                       | _Transmutation_ | 1 Action       | 60 feet             | Concentration, up to 10 minutes | V, S, M    |
+| [[Spells#Magic Weapon\|Magic Weapon]]                               | _Transmutation_ | 1 Bonus Action | Touch               | Concentration, up to 1 hour     | V, S       |
+| [[Spells#Makshi'ilan's Earthen Grasp\|Makzhi'ilan's Earthen Grasp]] | _Transmutation_ | 1 Action       | 30 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Mind Spike\|Mind Spike]]                                   | _Divination_    | 1 Action       | 60 feet             | Concentration, up to 1 hour     | S          |
+| [[Spells#Mirror Image\|Mirror Image]]                               | _Illusion_      | 1 Action       | Self                | 1 minute                        | V, S       |
+| [[Spells#Misty Step\|Misty Step]]                                   | _Conjuration_   | 1 Bonus Action | Self                | Instantaneous                   | V          |
+| [[Spells#Nathair's Mischief\|Nathair's Mischief]]                   | _Illusion_      | 1 Action       | 60ft                | Concentration, up to 1 minute   | S, M       |
+| [[Spells#Phantasmal Force\|Phantasmal Force]]                       | _Illusion_      | 1 Action       | 60 feet             | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Pyrotechnics\|Pyrotechnics]]                               | _Transmutation_ | 1 Action       | 60 feet             | Instantaneous                   | V, S       |
+| [[Spells#Rime's Binding Ice\|Rime's Binding Ice]]                   | _Evocation_     | 1 Action       | Self (30-foot cone) | Instantaneous                   | S, M       |
+| [[Spells#Scorching Ray\|Scorching Ray]]                             | _Evocation_     | 1 Action       | 120 feet            | Instantaneous                   | V, S       |
+| [[Spells#See Invisibility\|See Invisibility]]                       | _Divination_    | 1 Action       | Self                | 1 hour                          | V, S, M    |
+| [[Spells#Shadow Blade\|Shadow Blade]]                               | _Illusion_      | 1 Bonus Action | Self                | Concentration, up to 1 minute   | V, S       |
+| [[Spells#Shatter\|Shatter]]                                         | _Evocation_     | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
+| [[Spells#Snilloc's Snowball Swarm\|Snilloc's Snowball Swarm]]       | _Evocation_     | 1 Action       | 90 feet             | Instantaneous                   | V, S, M    |
+| [[Spells#Spider Climb\|Spider Climb]]                               | _Transmutation_ | 1 Action       | Touch               | Concentration, up to 1 hour     | V, S, M    |
+| [[Spells#Spray of Cards\|Spray of Cards]]                           | _Conjuration_   | 1 Action       | Self (15-foot cone) | Instantaneous                   | V, S, M    |
+| [[Spells#Suggestion\|Suggestion]]                                   | _Enchantment_   | 1 Action       | 30 feet             | Concentration, up to 8 hours    | V, M       |
+| [[Spells#Tasha's Mind Whip\|Tasha's Mind Whip]]                     | _Enchantment_   | 1 Action       | 90 feet             | 1 round                         | V          |
+| [[Spells#Thought Shield\|Thought Shield]]                           | _Abjuration_    | 1 Action       | Touch               | 8 hours                         | V, S       |
+| [[Spells#Vortex Warp\|Vortex Warp]]                                 | _Conjuration_   | 1 Action       | 90 feet             | Instantaneous                   | V, S       |
+| [[Spells#Warding Wind\|Warding Wind]]                               | _Evocation_     | 1 Action       | Self                | Concentration, up to 10 minutes | V          |
+| [[Spells#Warp Sense\|Warp Sense]]                                   | _Divination_    | 1 Action       | Self                | Concentration, up to 1 minute   | V, S, M    |
+| [[Spells#Web\|Web]]                                                 | _Conjuration_   | 1 Action       | 60 feet             | Concentration, up to 1 hour     | V, S, M    |
+| [[Spells#Wither and Bloom\|Wither and Bloom]]                       | _Necromancy_    | 1 Action       | 60 feet             | Instantaneous                   | V, S, M    |
 
-## 3rd Level Spells
+## 3rd Level Sorcerer Spells
 
 | Spell Name                                                                                    | School          | Casting Time   | Range                | Duration                        | Components |
 | --------------------------------------------------------------------------------------------- | --------------- | -------------- | -------------------- | ------------------------------- | ---------- |
@@ -189,7 +182,7 @@ tags:
 | [Water Breathing](https://dnd5e.wikidot.com/spell:water-breathing)                            | _Transmutation_ | 1 Action _R_   | 30 feet              | 24 hours                        | V, S, M    |
 | [Water Walk](https://dnd5e.wikidot.com/spell:water-walk)                                      | _Transmutation_ | 1 Action _R_   | 30 feet              | 1 hour                          | V, S, M    |
 
-## 4th Level Spells
+## 4th Level Sorcerer Spells
 
 | Spell Name                                                                                    | School            | Casting Time | Range    | Duration                        | Components |
 | --------------------------------------------------------------------------------------------- | ----------------- | ------------ | -------- | ------------------------------- | ---------- |
@@ -221,7 +214,7 @@ tags:
 | [Wall of Fire](https://dnd5e.wikidot.com/spell:wall-of-fire)                                  | _Evocation_       | 1 Action     | 120 feet | Concentration, up to 1 minute   | V, S, M    |
 | [Watery Sphere](https://dnd5e.wikidot.com/spell:watery-sphere)                                | _Conjuration_     | 1 Action     | 90 feet  | Concentration, up to 1 minute   | V, S, M    |
 
-## 5th Level Spells
+## 5th Level Sorcerer Spells
 
 | Spell Name                                                                               | School            | Casting Time   | Range               | Duration                        | Components |
 | ---------------------------------------------------------------------------------------- | ----------------- | -------------- | ------------------- | ------------------------------- | ---------- |
@@ -250,7 +243,7 @@ tags:
 | [Wall of Light](https://dnd5e.wikidot.com/spell:wall-of-light)                           | _Evocation_       | 1 Action       | 120 feet            | Concentration, up to 10 minutes | V, S, M    |
 | [Wall of Stone](https://dnd5e.wikidot.com/spell:wall-of-stone)                           | _Evocation_       | 1 Action       | 120 feet            | Concentration, up to 10 minutes | V, S, M    |
 
-## 6th Level Spells
+## 6th Level Sorcerer Spells
 
 | Spell Name                                                                                   | School          | Casting Time   | Range                 | Duration                        | Components |
 | -------------------------------------------------------------------------------------------- | --------------- | -------------- | --------------------- | ------------------------------- | ---------- |
@@ -278,7 +271,7 @@ tags:
 | [Tasha's Otherworldly Guise](https://dnd5e.wikidot.com/spell:tashas-otherworldly-guise)      | _Transmutation_ | 1 Bonus Action | Self                  | Concentration, up to 1 minute   | V, S, M    |
 | [True Seeing](https://dnd5e.wikidot.com/spell:true-seeing)                                   | _Divination_    | 1 Action       | Touch                 | 1 hour                          | V, S, M    |
 
-## 7th Level Spells
+## 7th Level Sorcerer Spells
 
 | Spell Name                                                                                 | School          | Casting Time   | Range               | Duration                      | Components |
 | ------------------------------------------------------------------------------------------ | --------------- | -------------- | ------------------- | ----------------------------- | ---------- |
@@ -297,7 +290,7 @@ tags:
 | [Reverse Gravity](https://dnd5e.wikidot.com/spell:reverse-gravity)                         | _Transmutation_ | 1 Action       | 100 feet            | Concentration, up to 1 minute | V, S, M    |
 | [Teleport](https://dnd5e.wikidot.com/spell:teleport)                                       | _Conjuration_   | 1 Action       | 10 feet             | Instantaneous                 | V          |
 
-## 8th Level Spells
+## 8th Level Sorcerer Spells
 
 | Spell Name                                                                                | School        | Casting Time | Range    | Duration                      | Components |
 | ----------------------------------------------------------------------------------------- | ------------- | ------------ | -------- | ----------------------------- | ---------- |
@@ -309,7 +302,7 @@ tags:
 | [Power Word: Stun](https://dnd5e.wikidot.com/spell:power-word-stun)                       | _Enchantment_ | 1 Action     | 60 feet  | Instantaneous                 | V, S       |
 | [Sunburst](https://dnd5e.wikidot.com/spell:sunburst)                                      | _Evocation_   | 1 Action     | 150 feet | Instantaneous                 | V, S, M    |
 
-## 9th Level Spells
+## 9th Level Sorcerer Spells
 
 |Spell Name|School|Casting Time|Range|Duration|Components|
 |---|---|---|---|---|---|

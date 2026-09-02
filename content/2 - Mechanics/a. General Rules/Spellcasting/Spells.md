@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Spellcasting/Spells.md
 created: 2025-09-21T19:24:55.683-05:00
-modified: 2026-05-24T11:22:08.959-05:00
-published: 2026-05-24T11:22:08.959-05:00
+modified: 2026-09-02T08:27:59.110-05:00
+published: 2026-09-02T08:27:59.110-05:00
 tags:
   - Rules
   - StatBlock
@@ -2732,7 +2732,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 _**At Higher Levels.**_
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-### Enlarge/Reduced
+### Enlarge/Reduce
 
 | Casting Info                                      |                                                                  |
 | ------------------------------------------------- | ---------------------------------------------------------------- |
