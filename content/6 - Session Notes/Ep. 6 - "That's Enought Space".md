@@ -2,13 +2,13 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 6 - "That's Enought Space".md
 created: 2026-07-15T15:13:58.373-05:00
-modified: 2026-09-02T09:29:25.858-05:00
-published: 2026-09-02T09:29:25.858-05:00
+modified: 2026-09-02T09:41:06.441-05:00
+published: 2026-09-02T09:41:06.441-05:00
 tags:
   - Player-Notes
 ---
 
-[[Ep. 5 - Some Lore with Wethenor|<<Prev. Ep.]] | [[Ep. 7 - Bottom to Top| Next Ep. >>]]
+[[Ep. 5 - Some Lore with Wethenor|<<Prev. Ep.]] | [[Ep. 7 - Wethenor or Not to Fight| Next Ep. >>]]
 
 ## Summary
 
@@ -18,7 +18,7 @@ Villaja attempted to retrieve the skull from a safe distance by calling upon the
 
 The party leapt into action, with wade escaping into the library, and the rest of the party trapped in the holding chambers. The amalgamation split in two as the resulting amalgamations confronted wade and the rest of the party respectively. As his team faught valiantly to escape, Wade fled into the dungeon, cursing the amalgamation pursuing him and binding it in place with a swarm of long, thin parasitic worms. It was a quick and tense skirmish, but eventually the amalgamations were put to rest once more, finally revealing a sealed trapdoor beneath where the bone pile once lay.
 
-The party couldn't find a way to open the trapdoor, but Crag burrowed through with the [[Ep. 4 - Discovering the Bone Zone#Loot Acquired|pick he found]] in the dungeon above. The door led into a smooth stone chute, sloping into an unseen chamber below. The party quarreled as they prepared to descend, fiercely debating the order in which to approach the unknown dangers below. Eventually Crag decided to go first, followed by Villaja. Cygnus, Uspia, and Wade remained above and continued to argue for some time, until Cygnus attempted to pick Wade up and drop him down the hole.
+The party couldn't find a way to open the trapdoor, but Crag burrowed through with the [[Ep. 4 - Discovering the Bone Zone#Loot Acquired|pickaxe he found]] in the dungeon above. The door led into a smooth stone chute, sloping into an unseen chamber below. The party quarreled as they prepared to descend, fiercely debating the order in which to approach the unknown dangers below. Eventually Crag decided to go first, followed by Villaja. Cygnus, Uspia, and Wade remained above and continued to argue for some time, until Cygnus attempted to pick Wade up and drop him down the hole.
 
 Wade twisted away from Cygnus' grasp with startling speed, as Cygnus felt Wade's flesh squish and give way under his touch. Wade's idignant fury was instantaneous, as was his apprehension. The members of the party remaining above began their descent after declaring their intent to discuss the altercation further once they were safe to do so.
 
@@ -37,7 +37,7 @@ The party's assumptions were correct, and Crag immediately became paralyzed afte
 - Silver Ring w/ jade gemstone
 - Skull with emeralds embedded in each eye
 - Spell Scroll
-  - [[Ep. 7 - Bottom to Top#Summary|Later identified]] as a scroll of [[Spells#Speak with Dead|Speak with Dead]]
+  - [[Ep. 7 - Wethenor or Not to Fight#Summary|Later identified]] as a scroll of [[Spells#Speak with Dead|Speak with Dead]]
 
 ### Locations
 
@@ -47,4 +47,4 @@ The party's assumptions were correct, and Crag immediately became paralyzed afte
 
 ---
 
-[[Ep. 5 - Some Lore with Wethenor|<<Prev. Ep.]] | [[Ep. 7 - Bottom to Top| Next Ep. >>]]
+[[Ep. 5 - Some Lore with Wethenor|<<Prev. Ep.]] | [[Ep. 7 - Wethenor or Not to Fight| Next Ep. >>]]
