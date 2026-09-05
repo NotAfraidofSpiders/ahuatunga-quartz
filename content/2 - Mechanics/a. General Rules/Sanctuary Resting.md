@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Sanctuary Resting.md
 created: 2025-09-21T19:24:55.657-05:00
-modified: 2026-04-22T20:46:25.786-05:00
-published: 2026-04-22T20:46:25.786-05:00
+modified: 2026-09-02T13:31:44.860-05:00
+published: 2026-09-02T13:31:44.860-05:00
 tags:
   - Rules
   - Homebrew
@@ -18,7 +18,7 @@ If a creature takes a long rest in a location that doesn't meet the requirements
 For a location to qualify as a sanctuary it must meet the following requirements:
 
 - The location must be safe from and/or fortified against attack.
-- The location must be sheltered from any current adverse weather effects.
+- The location must be sheltered from any adverse weather effects for the duration of the rest.
   - Some examples include: [[Temperature and Weather Rules#Precipitation|precipitation]], [[Temperature and Weather Rules#Wind|high wind]], and [[Temperature and Weather Rules#Temperature Band Table|extreme temperatures]].
 
 Some examples of sanctuaries include: private residences, rented rooms, and road houses. With some time and effort, it may possible to make a temporary camp that meets the requirements to be considered a sanctuary with one or more successful [[Ability Scores#Wisdom Checks|Survival checks]].

@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/b. Bestiary/Monster Rules.md
 created: 2025-12-25T21:26:39.234-06:00
-modified: 2026-04-22T20:45:46.765-05:00
-published: 2026-04-22T20:45:46.765-05:00
+modified: 2026-09-02T14:00:38.327-05:00
+published: 2026-09-02T14:00:38.327-05:00
 tags:
   - Rules
 ---
@@ -95,24 +95,25 @@ A monster’s Constitution modifier also affects the number of hit points it has
 ## Speed
 
 A monster’s speed tells you how far it can move on its turn.\
-All creatures have a walking speed, simply called the monster’s speed. Creatures that have no form of ground-based locomotion have a walking speed of 0 feet.\
+All creatures have a walking speed, simply called the monster’s speed. Creatures that have no form of ground-based locomotion have a walking speed of 0 feet.
+
 Some creatures have one or more of the following additional movement modes.
 
 ### Burrow
 
-A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can’t burrow through solid rock unless it has a special trait that allows it to do so.
+A creature that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can’t burrow through solid rock unless it has a special trait that allows it to do so.
 
 ### Climb
 
-A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn’t need to spend extra movement to climb.
+A creature that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn’t need to spend extra movement to climb.
 
 ### Fly
 
-A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover**, which makes them hard to knock out of the air (as explained in the rules on [[Combat Rules#Flying Movement|flying]]). Such a monster stops hovering when it dies.
+A creature that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover**, which makes them hard to knock out of the air (as explained in the rules on [[Combat Rules#Flying Movement|flying]]). Such a monster stops hovering when it dies.
 
 ### Swim
 
-A monster that has a swimming speed doesn't need to spend extra movement to swim.
+A creature that has a swimming speed doesn't need to spend extra movement to swim.
 
 ## Ability Scores
 

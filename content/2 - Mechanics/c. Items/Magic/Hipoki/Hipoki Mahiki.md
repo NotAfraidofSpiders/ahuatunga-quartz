@@ -2,14 +2,14 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Mahiki.md
 created: 2025-09-21T19:25:18.380-05:00
-modified: 2026-05-02T16:02:44.900-05:00
-published: 2026-05-02T16:02:44.900-05:00
+modified: 2026-09-02T20:15:10.777-05:00
+published: 2026-09-02T20:15:10.777-05:00
 tags:
   - Hipoki
   - Item
 ---
 
-The mask of trickery, the [[Hipoki Overview]] Mahiki allows its wearer to cause all sorts of mischief and mayhem.
+The mask of trickery, the [[Hipoki Overview|Hipoki]] Mahiki allows its wearer to cause all sorts of mischief and mayhem.
 
 ## Passive:
 

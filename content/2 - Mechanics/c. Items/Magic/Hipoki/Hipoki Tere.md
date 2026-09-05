@@ -2,13 +2,13 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Tere.md
 created: 2025-09-21T19:25:18.621-05:00
-modified: 2026-05-02T16:03:30.804-05:00
-published: 2026-05-02T16:03:30.804-05:00
+modified: 2026-09-04T22:52:37.638-05:00
+published: 2026-09-04T22:52:37.638-05:00
 tags:
   - Hipoki
 ---
 
-The [[Hipoki Overview]] Tere allows its user to move incredibly quickly, in some cases turning its user into little more than a blur passing by.
+The [[Hipoki Overview|Hipokit]] Tere, otherwise known as the mask of speed, allows its user to move incredibly quickly, in some cases turning its user into little more than a blur passing by.
 
 ## Passive
 
