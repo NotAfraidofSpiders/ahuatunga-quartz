@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /5 - Lore/History/A Brief History.md
-created: 2026-04-02T23:04:52.126-05:00
-modified: 2026-07-16T17:21:28.307-05:00
-published: 2026-07-16T17:21:28.307-05:00
+created: 2026-04-03T04:04:52.126Z
+modified: 2026-07-16T22:21:28.307Z
+published: 2026-07-16T22:21:28.307Z
 tags:
   - Lore
   - Player-Notes

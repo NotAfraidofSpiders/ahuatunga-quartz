@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Conditions.md
-created: 2025-09-21T19:24:55.598-05:00
-modified: 2026-04-22T20:45:20.428-05:00
-published: 2026-04-22T20:45:20.428-05:00
+created: 2025-09-22T00:24:55.598Z
+modified: 2026-04-23T01:45:20.428Z
+published: 2026-04-23T01:45:20.428Z
 tags:
   - Rules
 ---

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi/Hauiwi.md
-created: 2025-09-21T19:25:18.762-05:00
-modified: 2026-04-27T14:04:30.243-05:00
-published: 2026-04-27T14:04:30.243-05:00
+created: 2025-09-22T00:25:18.762Z
+modified: 2026-04-27T19:04:30.243Z
+published: 2026-04-27T19:04:30.243Z
 tags:
   - PlayerOption
   - lineage

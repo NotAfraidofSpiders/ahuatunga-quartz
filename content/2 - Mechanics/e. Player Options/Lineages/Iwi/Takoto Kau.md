@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi/Takoto Kau.md
-created: 2025-09-21T19:25:18.838-05:00
-modified: 2026-04-22T20:48:08.448-05:00
-published: 2026-04-22T20:48:08.448-05:00
+created: 2025-09-22T00:25:18.838Z
+modified: 2026-04-23T01:48:08.448Z
+published: 2026-04-23T01:48:08.448Z
 tags:
   - PlayerOption
   - lineage

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 4 - Discovering the Bone Zone.md
-created: 2026-07-10T17:57:18.870-05:00
-modified: 2026-07-15T11:19:46.356-05:00
-published: 2026-07-15T11:19:46.356-05:00
+created: 2026-07-10T22:57:18.870Z
+modified: 2026-07-15T16:19:46.356Z
+published: 2026-07-15T16:19:46.356Z
 tags:
   - Player-Notes
 ---

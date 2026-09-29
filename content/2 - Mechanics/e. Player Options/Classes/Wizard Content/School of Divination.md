@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Wizard Content/School of Divination.md
-created: 2025-10-14T12:12:56.345-05:00
-modified: 2026-04-22T20:48:05.562-05:00
-published: 2026-04-22T20:48:05.562-05:00
+created: 2025-10-14T17:12:56.345Z
+modified: 2026-04-23T01:48:05.562Z
+published: 2026-04-23T01:48:05.562Z
 tags:
   - PlayerOption
   - Subclass

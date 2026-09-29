@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 3 - The Curious Case of the Bone Hole.md
-created: 2026-07-10T17:55:58.502-05:00
-modified: 2026-07-15T11:19:53.666-05:00
-published: 2026-07-15T11:19:53.666-05:00
+created: 2026-07-10T22:55:58.502Z
+modified: 2026-07-15T16:19:53.666Z
+published: 2026-07-15T16:19:53.666Z
 tags:
   - Player-Notes
 ---

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Komau.md
-created: 2025-09-21T19:25:18.337-05:00
-modified: 2026-05-02T16:02:38.383-05:00
-published: 2026-05-02T16:02:38.383-05:00
+created: 2025-09-22T00:25:18.337Z
+modified: 2026-05-02T21:02:38.383Z
+published: 2026-05-02T21:02:38.383Z
 tags:
   - Hipoki
   - Item

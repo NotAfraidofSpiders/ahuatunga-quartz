@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Mounts and Vehicles.md
-created: 2025-12-28T17:31:17.796-06:00
-modified: 2026-07-11T11:17:47.538-05:00
-published: 2026-07-11T11:17:47.538-05:00
+created: 2025-12-28T23:31:17.796Z
+modified: 2026-07-11T16:17:47.538Z
+published: 2026-07-11T16:17:47.538Z
 tags:
   - Item
 ---

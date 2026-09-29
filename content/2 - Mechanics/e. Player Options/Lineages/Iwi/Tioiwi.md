@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi/Tioiwi.md
-created: 2025-09-21T19:25:18.859-05:00
-modified: 2026-04-27T14:18:45.847-05:00
-published: 2026-04-27T14:18:45.847-05:00
+created: 2025-09-22T00:25:18.859Z
+modified: 2026-04-27T19:18:45.847Z
+published: 2026-04-27T19:18:45.847Z
 tags:
   - PlayerOption
   - lineage

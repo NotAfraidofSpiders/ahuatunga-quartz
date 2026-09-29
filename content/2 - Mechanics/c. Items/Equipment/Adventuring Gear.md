@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Adventuring Gear.md
-created: 2025-12-28T17:14:26.968-06:00
-modified: 2026-07-10T20:22:13.144-05:00
-published: 2026-07-10T20:22:13.144-05:00
+created: 2025-12-28T23:14:26.968Z
+modified: 2026-07-11T01:22:13.144Z
+published: 2026-07-11T01:22:13.144Z
 tags:
   - Item
 ---

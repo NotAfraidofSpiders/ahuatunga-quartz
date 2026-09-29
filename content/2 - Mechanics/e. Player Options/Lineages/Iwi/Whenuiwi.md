@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi/Whenuiwi.md
-created: 2025-09-21T19:25:18.897-05:00
-modified: 2026-04-27T14:41:35.557-05:00
-published: 2026-04-27T14:41:35.557-05:00
+created: 2025-09-22T00:25:18.897Z
+modified: 2026-04-27T19:41:35.557Z
+published: 2026-04-27T19:41:35.557Z
 tags:
   - PlayerOption
   - lineage

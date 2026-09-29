@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Magic Item Rules.md
-created: 2025-12-15T15:52:32.146-06:00
-modified: 2026-04-22T20:45:44.935-05:00
-published: 2026-04-22T20:45:44.935-05:00
+created: 2025-12-15T21:52:32.146Z
+modified: 2026-04-23T01:45:44.935Z
+published: 2026-04-23T01:45:44.935Z
 tags:
   - Rules
   - Item

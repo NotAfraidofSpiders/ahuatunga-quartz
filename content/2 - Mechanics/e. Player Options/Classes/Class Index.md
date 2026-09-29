@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Class Index.md
-created: 2026-04-24T12:37:59.598-05:00
-modified: 2026-05-03T00:21:49.309-05:00
-published: 2026-05-03T00:21:49.309-05:00
+created: 2026-04-24T17:37:59.598Z
+modified: 2026-05-03T05:21:49.309Z
+published: 2026-05-03T05:21:49.309Z
 tags:
   - web-utils
   - PlayerOption

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Bard Content/Bard.md
-created: 2025-09-21T19:25:18.917-05:00
-modified: 2026-04-22T20:45:08.295-05:00
-published: 2026-04-22T20:45:08.295-05:00
+created: 2025-09-22T00:25:18.917Z
+modified: 2026-04-23T01:45:08.295Z
+published: 2026-04-23T01:45:08.295Z
 tags:
   - PlayerOption
   - Class

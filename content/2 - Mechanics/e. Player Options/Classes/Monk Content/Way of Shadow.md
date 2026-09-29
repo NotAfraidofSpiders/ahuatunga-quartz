@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Monk Content/Way of Shadow.md
-created: 2025-09-21T19:25:19.275-05:00
-modified: 2026-04-22T20:48:12.499-05:00
-published: 2026-04-22T20:48:12.499-05:00
+created: 2025-09-22T00:25:19.275Z
+modified: 2026-04-23T01:48:12.499Z
+published: 2026-04-23T01:48:12.499Z
 tags:
   - PlayerOption
   - Subclass

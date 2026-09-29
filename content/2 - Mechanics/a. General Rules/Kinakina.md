@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Kinakina.md
-created: 2025-09-21T19:24:55.642-05:00
-modified: 2026-04-22T20:45:41.415-05:00
-published: 2026-04-22T20:45:41.415-05:00
+created: 2025-09-22T00:24:55.642Z
+modified: 2026-04-23T01:45:41.415Z
+published: 2026-04-23T01:45:41.415Z
 tags:
   - Rules
   - Homebrew

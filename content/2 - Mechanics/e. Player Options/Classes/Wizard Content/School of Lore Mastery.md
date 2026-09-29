@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Wizard Content/School of Lore Mastery.md
-created: 2025-09-21T19:25:19.524-05:00
-modified: 2026-04-22T20:48:07.062-05:00
-published: 2026-04-22T20:48:07.062-05:00
+created: 2025-09-22T00:25:19.524Z
+modified: 2026-04-23T01:48:07.062Z
+published: 2026-04-23T01:48:07.062Z
 tags:
   - Subclass
   - PlayerOption

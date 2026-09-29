@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Environment Rules.md
-created: 2025-09-21T19:24:55.624-05:00
-modified: 2026-06-07T00:41:49.577-05:00
-published: 2026-06-07T00:41:49.577-05:00
+created: 2025-09-22T00:24:55.624Z
+modified: 2026-06-07T05:41:49.577Z
+published: 2026-06-07T05:41:49.577Z
 tags:
   - Rules
 ---

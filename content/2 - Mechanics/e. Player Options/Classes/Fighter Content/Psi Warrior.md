@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Fighter Content/Psi Warrior.md
-created: 2025-10-14T12:05:44.226-05:00
-modified: 2026-04-22T20:48:04.148-05:00
-published: 2026-04-22T20:48:04.148-05:00
+created: 2025-10-14T17:05:44.226Z
+modified: 2026-04-23T01:48:04.148Z
+published: 2026-04-23T01:48:04.148Z
 tags:
   - Subclass
   - PlayerOption

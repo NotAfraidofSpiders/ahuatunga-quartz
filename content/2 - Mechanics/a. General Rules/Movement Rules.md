@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Movement Rules.md
-created: 2025-12-15T15:31:07.945-06:00
-modified: 2026-09-05T13:40:03.689-05:00
-published: 2026-09-05T13:40:03.689-05:00
+created: 2025-12-15T21:31:07.945Z
+modified: 2026-09-05T18:40:03.689Z
+published: 2026-09-05T18:40:03.689Z
 tags:
   - Rules
 ---

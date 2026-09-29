@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Armor Rules.md
-created: 2025-12-24T15:17:57.313-06:00
-modified: 2026-04-22T20:43:42.514-05:00
-published: 2026-04-22T20:43:42.514-05:00
+created: 2025-12-24T21:17:57.313Z
+modified: 2026-04-23T01:43:42.514Z
+published: 2026-04-23T01:43:42.514Z
 tags:
   - Rules
 ---

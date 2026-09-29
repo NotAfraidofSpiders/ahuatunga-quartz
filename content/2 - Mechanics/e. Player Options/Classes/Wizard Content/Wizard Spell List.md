@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Wizard Content/Wizard Spell List.md
-created: 2025-12-02T18:53:51.851-06:00
-modified: 2026-04-22T20:46:40.544-05:00
-published: 2026-04-22T20:46:40.544-05:00
+created: 2025-12-03T00:53:51.851Z
+modified: 2026-04-23T01:46:40.544Z
+published: 2026-04-23T01:46:40.544Z
 tags:
   - PlayerOption
   - Rules

@@ -5,9 +5,9 @@ aliases:
   - the island
   - Ahuatunga (Island)
   - Island of Ahuatunga
-created: 2025-09-21T19:24:37.150-05:00
-modified: 2026-04-22T20:47:09.930-05:00
-published: 2026-04-22T20:47:09.930-05:00
+created: 2025-09-22T00:24:37.150Z
+modified: 2026-04-23T01:47:09.930Z
+published: 2026-04-23T01:47:09.930Z
 tags:
   - Location
   - Player-Notes

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Spellcasting/Spellcasting Rules.md
-created: 2025-12-15T14:52:39.840-06:00
-modified: 2026-09-07T17:07:32.856-05:00
-published: 2026-09-07T17:07:32.856-05:00
+created: 2025-12-15T20:52:39.840Z
+modified: 2026-09-07T22:07:32.856Z
+published: 2026-09-07T22:07:32.856Z
 tags:
   - Rules
 ---

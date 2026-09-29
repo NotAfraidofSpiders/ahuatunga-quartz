@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Sorcerer Content/Sorcerer.md
-created: 2025-09-21T19:25:19.471-05:00
-modified: 2026-09-01T18:20:48.206-05:00
-published: 2026-09-01T18:20:48.206-05:00
+created: 2025-09-22T00:25:19.471Z
+modified: 2026-09-01T23:20:48.206Z
+published: 2026-09-01T23:20:48.206Z
 tags:
   - PlayerOption
   - Class

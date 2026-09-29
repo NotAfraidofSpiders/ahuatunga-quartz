@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Homebrew Rules/Death Revisions.md
-created: 2025-09-21T19:25:17.963-05:00
-modified: 2026-04-22T20:45:23.183-05:00
-published: 2026-04-22T20:45:23.183-05:00
+created: 2025-09-22T00:25:17.963Z
+modified: 2026-04-23T01:45:23.183Z
+published: 2026-04-23T01:45:23.183Z
 tags:
   - Rules
   - Homebrew

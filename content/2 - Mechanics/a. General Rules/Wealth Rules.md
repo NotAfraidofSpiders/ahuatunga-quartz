@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Wealth Rules.md
-created: 2025-12-28T17:07:08.357-06:00
-modified: 2026-04-22T20:46:37.029-05:00
-published: 2026-04-22T20:46:37.029-05:00
+created: 2025-12-28T23:07:08.357Z
+modified: 2026-04-23T01:46:37.029Z
+published: 2026-04-23T01:46:37.029Z
 tags:
   - Rules
   - Item

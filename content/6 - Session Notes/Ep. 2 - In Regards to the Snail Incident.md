@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 2 - In Regards to the Snail Incident.md
-created: 2026-07-10T17:55:17.025-05:00
-modified: 2026-07-15T11:19:57.191-05:00
-published: 2026-07-15T11:19:57.191-05:00
+created: 2026-07-10T22:55:17.025Z
+modified: 2026-07-15T16:19:57.191Z
+published: 2026-07-15T16:19:57.191Z
 tags:
   - Player-Notes
 ---

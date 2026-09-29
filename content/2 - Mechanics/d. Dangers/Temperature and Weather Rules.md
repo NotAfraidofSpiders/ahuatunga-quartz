@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/d. Dangers/Temperature and Weather Rules.md
-created: 2025-09-21T19:24:55.705-05:00
-modified: 2026-04-28T20:13:20.834-05:00
-published: 2026-04-28T20:13:20.834-05:00
+created: 2025-09-22T00:24:55.705Z
+modified: 2026-04-29T01:13:20.834Z
+published: 2026-04-29T01:13:20.834Z
 tags:
   - Rules
   - Homebrew

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Sorcerer Content/Aberrant Mind Origin.md
-created: 2026-08-31T22:35:41.017-05:00
-modified: 2026-09-01T18:20:59.924-05:00
-published: 2026-09-01T18:20:59.924-05:00
+created: 2026-09-01T03:35:41.017Z
+modified: 2026-09-01T23:20:59.924Z
+published: 2026-09-01T23:20:59.924Z
 tags:
   - Subclass
   - PlayerOption

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Weapon Rules.md
-created: 2025-12-05T16:22:48.711-06:00
-modified: 2026-05-03T00:11:06.722-05:00
-published: 2026-05-03T00:11:06.722-05:00
+created: 2025-12-05T22:22:48.711Z
+modified: 2026-05-03T05:11:06.722Z
+published: 2026-05-03T05:11:06.722Z
 tags:
   - Rules
 ---

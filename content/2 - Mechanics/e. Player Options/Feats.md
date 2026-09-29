@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Feats.md
-created: 2025-12-29T12:15:38.284-06:00
-modified: 2026-07-10T16:14:22.446-05:00
-published: 2026-07-10T16:14:22.446-05:00
+created: 2025-12-29T18:15:38.284Z
+modified: 2026-07-10T21:14:22.446Z
+published: 2026-07-10T21:14:22.446Z
 tags:
   - PlayerOption
   - Rules

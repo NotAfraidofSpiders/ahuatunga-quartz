@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 7 - Wethenor or Not to Fight.md
-created: 2026-09-02T08:40:01.200-05:00
-modified: 2026-09-07T09:38:29.573-05:00
-published: 2026-09-07T09:38:29.573-05:00
+created: 2026-09-02T13:40:01.200Z
+modified: 2026-09-07T14:38:29.573Z
+published: 2026-09-07T14:38:29.573Z
 tags:
   - Player-Notes
 ---

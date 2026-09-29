@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Homebrew Rules/Crunchy Crits.md
-created: 2025-09-21T19:25:17.950-05:00
-modified: 2026-05-02T15:54:11.997-05:00
-published: 2026-05-02T15:54:11.997-05:00
+created: 2025-09-22T00:25:17.950Z
+modified: 2026-05-02T20:54:11.997Z
+published: 2026-05-02T20:54:11.997Z
 tags:
   - Rules
   - Homebrew

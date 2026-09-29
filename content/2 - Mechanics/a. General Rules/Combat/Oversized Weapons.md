@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Oversized Weapons.md
-created: 2025-09-21T19:25:04.375-05:00
-modified: 2026-05-03T00:13:42.595-05:00
-published: 2026-05-03T00:13:42.595-05:00
+created: 2025-09-22T00:25:04.375Z
+modified: 2026-05-03T05:13:42.595Z
+published: 2026-05-03T05:13:42.595Z
 tags:
   - Rules
 ---

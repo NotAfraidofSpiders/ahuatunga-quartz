@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Rau.md
-created: 2025-09-21T19:25:18.502-05:00
-modified: 2026-05-02T16:03:00.549-05:00
-published: 2026-05-02T16:03:00.549-05:00
+created: 2025-09-22T00:25:18.502Z
+modified: 2026-05-02T21:03:00.549Z
+published: 2026-05-02T21:03:00.549Z
 tags:
   - Hipoki
   - Item

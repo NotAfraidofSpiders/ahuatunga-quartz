@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Ability Scores.md
-created: 2025-12-05T19:05:38.701-06:00
-modified: 2026-04-27T17:24:13.017-05:00
-published: 2026-04-27T17:24:13.017-05:00
+created: 2025-12-06T01:05:38.701Z
+modified: 2026-04-27T22:24:13.017Z
+published: 2026-04-27T22:24:13.017Z
 tags:
   - Rules
 ---

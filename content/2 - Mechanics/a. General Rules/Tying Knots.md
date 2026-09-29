@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Tying Knots.md
-created: 2026-09-07T10:26:24.229-05:00
-modified: 2026-09-07T10:32:09.726-05:00
-published: 2026-09-07T10:32:09.726-05:00
+created: 2026-09-07T15:26:24.229Z
+modified: 2026-09-07T15:32:09.726Z
+published: 2026-09-07T15:32:09.726Z
 tags:
   - Rules
 ---

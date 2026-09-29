@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Warlock Content/Warlock.md
-created: 2025-09-21T19:25:19.432-05:00
-modified: 2026-04-22T20:46:35.130-05:00
-published: 2026-04-22T20:46:35.130-05:00
+created: 2025-09-22T00:25:19.432Z
+modified: 2026-04-23T01:46:35.130Z
+published: 2026-04-23T01:46:35.130Z
 tags:
   - PlayerOption
   - Class

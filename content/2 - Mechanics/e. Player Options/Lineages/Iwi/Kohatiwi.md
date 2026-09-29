@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi/Kohatiwi.md
-created: 2025-09-21T19:25:18.813-05:00
-modified: 2026-04-27T14:14:52.361-05:00
-published: 2026-04-27T14:14:52.361-05:00
+created: 2025-09-22T00:25:18.813Z
+modified: 2026-04-27T19:14:52.361Z
+published: 2026-04-27T19:14:52.361Z
 tags:
   - PlayerOption
   - lineage

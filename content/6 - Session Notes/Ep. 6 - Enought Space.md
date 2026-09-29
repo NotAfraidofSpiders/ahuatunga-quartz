@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 6 - Enought Space.md
-created: 2026-07-15T15:13:58.373-05:00
-modified: 2026-09-02T10:02:57.163-05:00
-published: 2026-09-02T10:02:57.163-05:00
+created: 2026-07-15T20:13:58.373Z
+modified: 2026-09-02T15:02:57.163Z
+published: 2026-09-02T15:02:57.163Z
 tags:
   - Player-Notes
 ---

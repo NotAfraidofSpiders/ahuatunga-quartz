@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Character Advancement Rules.md
-created: 2025-12-22T10:36:56.107-06:00
-modified: 2026-04-22T20:45:14.173-05:00
-published: 2026-04-22T20:45:14.173-05:00
+created: 2025-12-22T16:36:56.107Z
+modified: 2026-04-23T01:45:14.173Z
+published: 2026-04-23T01:45:14.173Z
 tags:
   - Rules
 ---

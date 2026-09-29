@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Rules Index.md
-created: 2026-07-11T11:12:40.192-05:00
-modified: 2026-07-15T11:25:16.541-05:00
-published: 2026-07-15T11:25:16.541-05:00
+created: 2026-07-11T16:12:40.192Z
+modified: 2026-07-15T16:25:16.541Z
+published: 2026-07-15T16:25:16.541Z
 tags:
   - web-utils
 ---

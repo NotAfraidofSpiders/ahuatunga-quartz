@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/b. Bestiary/Monster Rules.md
-created: 2025-12-25T21:26:39.234-06:00
-modified: 2026-09-02T14:00:38.327-05:00
-published: 2026-09-02T14:00:38.327-05:00
+created: 2025-12-26T03:26:39.234Z
+modified: 2026-09-02T19:00:38.327Z
+published: 2026-09-02T19:00:38.327Z
 tags:
   - Rules
 ---

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /5 - Lore/Culture/The Six Elements.md
-created: 2026-03-05T21:55:32.861-06:00
-modified: 2026-07-16T18:35:23.829-05:00
-published: 2026-07-16T18:35:23.829-05:00
+created: 2026-03-06T03:55:32.861Z
+modified: 2026-07-16T23:35:23.829Z
+published: 2026-07-16T23:35:23.829Z
 tags:
   - Culture
   - Lore

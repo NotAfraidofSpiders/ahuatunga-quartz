@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Homebrew Rules/Martial Revisions.md
-created: 2025-09-21T19:25:17.990-05:00
-modified: 2026-04-22T20:45:45.909-05:00
-published: 2026-04-22T20:45:45.909-05:00
+created: 2025-09-22T00:25:17.990Z
+modified: 2026-04-23T01:45:45.909Z
+published: 2026-04-23T01:45:45.909Z
 tags:
   - Rules
   - Homebrew

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Artificer Content/Artificer.md
-created: 2025-09-21T19:25:18.995-05:00
-modified: 2026-04-22T20:43:49.971-05:00
-published: 2026-04-22T20:43:49.971-05:00
+created: 2025-09-22T00:25:18.995Z
+modified: 2026-04-23T01:43:49.971Z
+published: 2026-04-23T01:43:49.971Z
 tags:
   - Class
   - PlayerOption

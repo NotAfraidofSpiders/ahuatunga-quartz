@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Paladin Content/Paladin Spell List.md
-created: 2025-12-02T18:51:03.603-06:00
-modified: 2026-04-22T20:46:20.844-05:00
-published: 2026-04-22T20:46:20.844-05:00
+created: 2025-12-03T00:51:03.603Z
+modified: 2026-04-23T01:46:20.844Z
+published: 2026-04-23T01:46:20.844Z
 tags:
   - PlayerOption
   - Rules

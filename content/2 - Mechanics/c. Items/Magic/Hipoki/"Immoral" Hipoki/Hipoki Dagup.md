@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/"Immoral" Hipoki/Hipoki Dagup.md
-created: 2025-09-21T19:25:20.732-05:00
-modified: 2026-07-10T14:51:50.741-05:00
-published: 2026-07-10T14:51:50.741-05:00
+created: 2025-09-22T00:25:20.732Z
+modified: 2026-07-10T19:51:50.741Z
+published: 2026-07-10T19:51:50.741Z
 tags:
   - Hipoki
   - Item

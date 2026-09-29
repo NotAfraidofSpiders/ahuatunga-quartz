@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 1 - The Adventure Begins.md
-created: 2026-07-10T16:16:08.664-05:00
-modified: 2026-07-15T11:20:01.009-05:00
-published: 2026-07-15T11:20:01.009-05:00
+created: 2026-07-10T21:16:08.664Z
+modified: 2026-07-15T16:20:01.009Z
+published: 2026-07-15T16:20:01.009Z
 tags:
   - Player-Notes
 ---

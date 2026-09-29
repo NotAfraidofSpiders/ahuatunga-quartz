@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Combat Rules.md
-created: 2025-12-05T19:23:32.811-06:00
-modified: 2026-07-11T11:16:50.832-05:00
-published: 2026-07-11T11:16:50.832-05:00
+created: 2025-12-06T01:23:32.811Z
+modified: 2026-07-11T16:16:50.832Z
+published: 2026-07-11T16:16:50.832Z
 tags:
   - Rules
 ---

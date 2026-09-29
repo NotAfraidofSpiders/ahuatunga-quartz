@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/d. Dangers/Afflictions/Diseases.md
-created: 2025-12-22T11:49:10.517-06:00
-modified: 2026-04-22T20:45:24.101-05:00
-published: 2026-04-22T20:45:24.101-05:00
+created: 2025-12-22T17:49:10.517Z
+modified: 2026-04-23T01:45:24.101Z
+published: 2026-04-23T01:45:24.101Z
 tags:
   - Rules
 ---

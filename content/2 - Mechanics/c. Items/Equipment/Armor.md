@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Armor.md
-created: 2025-12-05T16:21:52.750-06:00
-modified: 2026-04-22T20:41:03.771-05:00
-published: 2026-04-22T20:41:03.771-05:00
+created: 2025-12-05T22:21:52.750Z
+modified: 2026-04-23T01:41:03.771Z
+published: 2026-04-23T01:41:03.771Z
 tags:
   - Item
   - Rules

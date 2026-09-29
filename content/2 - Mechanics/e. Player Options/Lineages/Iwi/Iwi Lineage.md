@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Iwi/Iwi Lineage.md
-created: 2025-09-21T19:25:18.788-05:00
-modified: 2026-04-27T17:25:32.354-05:00
-published: 2026-04-27T17:25:32.354-05:00
+created: 2025-09-22T00:25:18.788Z
+modified: 2026-04-27T22:25:32.354Z
+published: 2026-04-27T22:25:32.354Z
 tags:
   - PlayerOption
   - lineage

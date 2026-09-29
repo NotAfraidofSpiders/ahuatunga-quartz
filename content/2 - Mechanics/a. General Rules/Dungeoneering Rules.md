@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Dungeoneering Rules.md
-created: 2026-04-28T19:44:12.499-05:00
-modified: 2026-04-28T23:15:09.764-05:00
-published: 2026-04-28T23:15:09.764-05:00
+created: 2026-04-29T00:44:12.499Z
+modified: 2026-04-29T04:15:09.764Z
+published: 2026-04-29T04:15:09.764Z
 tags:
   - Rules
   - Homebrew

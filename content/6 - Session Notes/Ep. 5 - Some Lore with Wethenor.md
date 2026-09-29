@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /6 - Session Notes/Ep. 5 - Some Lore with Wethenor.md
-created: 2026-07-10T17:57:37.035-05:00
-modified: 2026-09-02T10:02:49.371-05:00
-published: 2026-09-02T10:02:49.371-05:00
+created: 2026-07-10T22:57:37.035Z
+modified: 2026-09-02T15:02:49.371Z
+published: 2026-09-02T15:02:49.371Z
 tags:
   - Player-Notes
 ---

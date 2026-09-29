@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Huna.md
-created: 2025-09-21T19:25:18.243-05:00
-modified: 2026-05-02T16:02:19.934-05:00
-published: 2026-05-02T16:02:19.934-05:00
+created: 2025-09-22T00:25:18.243Z
+modified: 2026-05-02T21:02:19.934Z
+published: 2026-05-02T21:02:19.934Z
 tags:
   - Hipoki
   - Item

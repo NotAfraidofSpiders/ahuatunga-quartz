@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Mahiki.md
-created: 2025-09-21T19:25:18.380-05:00
-modified: 2026-09-02T20:15:10.777-05:00
-published: 2026-09-02T20:15:10.777-05:00
+created: 2025-09-22T00:25:18.380Z
+modified: 2026-09-03T01:15:10.777Z
+published: 2026-09-03T01:15:10.777Z
 tags:
   - Hipoki
   - Item

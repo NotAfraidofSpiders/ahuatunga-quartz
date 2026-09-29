@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Spellcasting/Spells.md
-created: 2025-09-21T19:24:55.683-05:00
-modified: 2026-09-02T10:23:47.441-05:00
-published: 2026-09-02T10:23:47.441-05:00
+created: 2025-09-22T00:24:55.683Z
+modified: 2026-09-02T15:23:47.441Z
+published: 2026-09-02T15:23:47.441Z
 tags:
   - Rules
   - StatBlock
@@ -3557,7 +3557,63 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level or higher, use the higher level where the spell’s level appears in the stat block.
 
-<div class="statblock-plugin-parent"><div class="block-language-statblock statblock-plugin-container"><div class="container svelte-1unaafm"><div class="bestial-spirit basic-5e-layout svelte-1unaafm obsidian-statblock-plugin statblock"><div class="bar svelte-zyyfbl"></div> <div class="statblock-content-container" style="--statblock-column-width: 400px;"><div class="statblock-content svelte-420xq"><div class="column"><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item group-container"><div class="statblock-item-container group-container "><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item heading-container"><div class="statblock-item-container heading-container "><div class="flex-container svelte-14k5qsm"><h1 class="heading statblock-heading name svelte-14k5qsm"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Bestial Spirit</div> </h1></div></div></div><div class="statblock-inline-item inline-container"><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"></div></div></div></div></div><div class="statblock-item-container subheading-container "><div class="subheading svelte-1fyuyh"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Small, beast, unaligned</div></div></div></div></div><div class="statblock-inline-item image-container"></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container property-container "><div class="line ac svelte-1rketb6"><span class="property-name svelte-1rketb6">Armor Class</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">11 + level of the spell</p></div></div></div><div class="statblock-item-container property-container "><div class="line hp svelte-1rketb6"><span class="property-name svelte-1rketb6">Hit Points</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto"><code class="code-styler-inline">dice: null|norender|noform|avg|noparen</code></p></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container saves-container "><div class="info"><div class="line saves saves svelte-1vwmbsx"><span class="property-name svelte-1vwmbsx">Saves</span> <div class="property-text svelte-1vwmbsx"></div></div></div></div><div class="statblock-item-container saves-container "><div class="info"><div class="line skills skillsaves svelte-1vwmbsx"><span class="property-name svelte-1vwmbsx">Skills</span> <div class="property-text svelte-1vwmbsx"></div></div></div></div><div class="statblock-item-container property-container "><div class="line senses svelte-1rketb6"><span class="property-name svelte-1rketb6">Senses</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">string</p></div></div></div><div class="statblock-item-container property-container "><div class="line languages svelte-1rketb6"><span class="property-name svelte-1rketb6">Languages</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">string</p></div></div></div><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Challenge</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">-</p></div></div></div></div><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Proficiency Bonus</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">-</p></div></div></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container traits-container "><div class="statblock-item-container statblock-trait-prop"><div class="property  traits trait svelte-1d2gp4n"> <div class="statblock-markdown svelte-1c3hzq4"></div> </div></div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property  actions trait svelte-1d2gp4n"> <div class="statblock-markdown svelte-1c3hzq4"></div> </div></div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header bonus-actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Bonus Actions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property  bonus_actions trait svelte-1d2gp4n"> <div class="statblock-markdown svelte-1c3hzq4"></div> </div></div></div><div class="statblock-item-container group-container "><h3 class="section-header legendary-actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Legendary Actions</div></h3></div><div class="statblock-item-container traits-container "><div class="statblock-item-container statblock-trait-prop"><div class="property  legendary_actions trait svelte-1d2gp4n"> <div class="statblock-markdown svelte-1c3hzq4"></div> </div></div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header reactions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Reactions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property  reactions trait svelte-1d2gp4n"> <div class="statblock-markdown svelte-1c3hzq4"></div> </div></div></div></div></div></div> <div class="bar svelte-zyyfbl"></div></div> <div class="icons svelte-1unaafm"></div></div></div></div>
+```statblock
+layout: Basic 5e Layout
+image: 
+name: Bestial Spirit
+size: Small
+type: beast
+alignment: unaligned
+ac: "11 + level of the spell"
+hp: Number
+hit_dice: 
+speed: 
+stats: 
+fage_stats: 
+saves:
+  - dash: 
+  - potato: 
+  - stew: 
+skillsaves:
+  - fake-skill: 
+  - turtle: 
+damage_vulnerabilities: 
+damage_resistances: 
+damage_immunities: 
+condition_immunities: 
+senses: string
+languages: string
+cr: number
+spells:
+  - 
+  - 
+  -  
+traits:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+legendary_actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+bonus_actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+reactions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+```
 
 ### Tasha's Mind Whip
 

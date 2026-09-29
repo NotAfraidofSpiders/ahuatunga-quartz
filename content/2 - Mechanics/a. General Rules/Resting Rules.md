@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Resting Rules.md
-created: 2025-12-22T10:18:36.684-06:00
-modified: 2026-09-07T10:22:29.864-05:00
-published: 2026-09-07T10:22:29.864-05:00
+created: 2025-12-22T16:18:36.684Z
+modified: 2026-09-07T15:22:29.864Z
+published: 2026-09-07T15:22:29.864Z
 tags:
   - Rules
 ---

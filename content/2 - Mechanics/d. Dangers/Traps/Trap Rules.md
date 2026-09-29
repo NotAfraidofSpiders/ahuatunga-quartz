@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/d. Dangers/Traps/Trap Rules.md
-created: 2025-12-22T11:17:54.226-06:00
-modified: 2026-04-27T17:24:13.048-05:00
-published: 2026-04-27T17:24:13.048-05:00
+created: 2025-12-22T17:17:54.226Z
+modified: 2026-04-27T22:24:13.048Z
+published: 2026-04-27T22:24:13.048Z
 tags:
   - Rules
   - trap

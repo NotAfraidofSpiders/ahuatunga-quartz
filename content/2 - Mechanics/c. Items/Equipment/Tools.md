@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Tools.md
-created: 2025-12-05T16:21:57.808-06:00
-modified: 2026-09-07T16:45:54.799-05:00
-published: 2026-09-07T16:45:54.799-05:00
+created: 2025-12-05T22:21:57.808Z
+modified: 2026-09-07T21:45:54.799Z
+published: 2026-09-07T21:45:54.799Z
 tags:
   - Item
   - Rules

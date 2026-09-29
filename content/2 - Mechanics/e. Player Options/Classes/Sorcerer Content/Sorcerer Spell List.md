@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Sorcerer Content/Sorcerer Spell List.md
-created: 2025-12-02T18:52:03.395-06:00
-modified: 2026-09-02T08:38:55.668-05:00
-published: 2026-09-02T08:38:55.668-05:00
+created: 2025-12-03T00:52:03.395Z
+modified: 2026-09-02T13:38:55.668Z
+published: 2026-09-02T13:38:55.668Z
 tags:
   - PlayerOption
   - Spell-list

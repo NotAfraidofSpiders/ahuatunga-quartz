@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Overview.md
-created: 2025-09-21T19:25:18.705-05:00
-modified: 2026-07-11T11:32:20.707-05:00
-published: 2026-07-11T11:32:20.707-05:00
+created: 2025-09-22T00:25:18.705Z
+modified: 2026-07-11T16:32:20.707Z
+published: 2026-07-11T16:32:20.707Z
 tags:
   - Hipoki
   - Homebrew

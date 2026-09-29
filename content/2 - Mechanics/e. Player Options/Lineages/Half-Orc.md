@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Lineages/Half-Orc.md
-created: 2026-05-02T23:24:12.510-05:00
-modified: 2026-05-03T04:14:56.300-05:00
-published: 2026-05-03T04:14:56.300-05:00
+created: 2026-05-03T04:24:12.510Z
+modified: 2026-05-03T09:14:56.300Z
+published: 2026-05-03T09:14:56.300Z
 tags:
   - PlayerOption
   - lineage

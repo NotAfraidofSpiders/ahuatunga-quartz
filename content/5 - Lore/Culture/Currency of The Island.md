@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /5 - Lore/Culture/Currency of The Island.md
-created: 2025-09-21T19:24:57.010-05:00
-modified: 2026-04-27T17:25:32.354-05:00
-published: 2026-04-27T17:25:32.354-05:00
+created: 2025-09-22T00:24:57.010Z
+modified: 2026-04-27T22:25:32.354Z
+published: 2026-04-27T22:25:32.354Z
 tags:
   - Culture
   - Rules

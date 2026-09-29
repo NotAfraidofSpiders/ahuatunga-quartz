@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/c. Items/Equipment/Weapons.md
-created: 2025-12-05T16:21:46.943-06:00
-modified: 2026-05-03T02:21:54.612-05:00
-published: 2026-05-03T02:21:54.612-05:00
+created: 2025-12-05T22:21:46.943Z
+modified: 2026-05-03T07:21:54.612Z
+published: 2026-05-03T07:21:54.612Z
 tags:
   - Item
   - Rules

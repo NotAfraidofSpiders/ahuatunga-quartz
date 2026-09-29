@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Blood Hunter Content/Blood Curses.md
-created: 2025-10-14T12:17:26.240-05:00
-modified: 2026-05-03T04:02:16.696-05:00
-published: 2026-05-03T04:02:16.696-05:00
+created: 2025-10-14T17:17:26.240Z
+modified: 2026-05-03T09:02:16.696Z
+published: 2026-05-03T09:02:16.696Z
 tags:
   - PlayerOption
   - Class

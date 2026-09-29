@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /2 - Mechanics/e. Player Options/Classes/Bard Content/Bard Spell List.md
-created: 2025-12-02T18:45:58.931-06:00
-modified: 2026-07-01T20:03:33.666-05:00
-published: 2026-07-01T20:03:33.666-05:00
+created: 2025-12-03T00:45:58.931Z
+modified: 2026-07-02T01:03:33.666Z
+published: 2026-07-02T01:03:33.666Z
 tags:
   - PlayerOption
   - Rules
