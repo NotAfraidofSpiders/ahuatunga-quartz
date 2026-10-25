@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Wealth Rules.md
 created: 2025-12-28T23:07:08.357Z
-modified: 2026-04-23T01:46:37.029Z
-published: 2026-04-23T01:46:37.029Z
+modified: 2026-10-25T06:51:47.191Z
+published: 2026-10-25T06:51:47.191Z
 tags:
   - Rules
   - Item
@@ -17,12 +17,12 @@ Members of the nobility trade either in legal rights, such as the rights to a mi
 
 ### Starting Wealth by Class
 
-|Class|Funds|
-|---|---|
-|Cleric|5d4 × 10 gp|
-|Fighter|5d4 × 10 gp|
-|Rogue|4d4 × 10 gp|
-|Wizard|4d4 × 10 gp|
+| Class   | Funds       |
+| ------- | ----------- |
+| Cleric  | 5d4 × 10 gp |
+| Fighter | 5d4 × 10 gp |
+| Rogue   | 4d4 × 10 gp |
+| Wizard  | 4d4 × 10 gp |
 
 ## Coinage
 

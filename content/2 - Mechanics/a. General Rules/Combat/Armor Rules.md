@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Armor Rules.md
 created: 2025-12-24T21:17:57.313Z
-modified: 2026-04-23T01:43:42.514Z
-published: 2026-04-23T01:43:42.514Z
+modified: 2026-10-25T06:43:47.345Z
+published: 2026-10-25T06:43:47.345Z
 tags:
   - Rules
 ---
@@ -27,7 +27,7 @@ Heavier armor interferes with the wearer’s ability to move quickly, stealthily
 **Stealth**:
 If the [[Armor Rules#Armor Table|Armor Table]] shows “[[Ability Scores#Advantage and Disadvantage|Disadvantage]]” in the Stealth column, the wearer has disadvantage on [[Ability Scores#Dexterity Checks|Dexterity (Stealth) Check]].
 
-#### Shields:
+## Shields:
 
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
