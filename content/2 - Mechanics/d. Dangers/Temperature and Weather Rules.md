@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/d. Dangers/Temperature and Weather Rules.md
 created: 2025-09-22T00:24:55.705Z
-modified: 2026-04-29T01:13:20.834Z
-published: 2026-04-29T01:13:20.834Z
+modified: 2026-10-25T05:37:02.643Z
+published: 2026-10-25T05:37:02.643Z
 tags:
   - Rules
   - Homebrew
@@ -67,7 +67,7 @@ On a hot day, wind can feel welcome. On a cold day, it makes the cold that much 
   - Move two steps toward cold temperatures
   - [[Ability Scores#Advantage and Disadvantage|Disadvantage]] on [[Combat Rules#Ranged Attacks|ranged weapon attack rolls]] and [[Ability Scores#Wisdom Checks|Wisdom (Perception) checks]] that rely on hearing
   - Extinguishes most open flames, disperses fog
-  - [[Movement Rules#Special Types of Movement|Flying]] by non-magical means is impossible. Most flying creatures must land by the end of their turn or fall.
+  - [[Movement Rules#Special Types of Movement|Flying]] by non-magical means is impossible. Most flying creatures must land by the end of their turn or [[Environment Rules#Falling|fall]].
   - Depending on terrain, may also cause sand, snow, or dust to obscure vision, imposing [[Ability Scores#Advantage and Disadvantage|disadvantage]] on [[Ability Scores#Wisdom Checks|Wisdom (Perception) checks]] to see
 
 ## Temperature modifiers

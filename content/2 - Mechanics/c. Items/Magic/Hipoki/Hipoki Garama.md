@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/c. Items/Magic/Hipoki/Hipoki Garama.md
 created: 2025-09-22T00:25:18.193Z
-modified: 2026-05-02T21:01:09.589Z
-published: 2026-05-02T21:01:09.589Z
+modified: 2026-10-16T01:49:58.035Z
+published: 2026-10-16T01:49:58.035Z
 tags:
   - Hipoki
   - Item
