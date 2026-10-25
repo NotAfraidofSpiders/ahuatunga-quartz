@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Environment Rules.md
 created: 2025-09-22T00:24:55.624Z
-modified: 2026-06-07T05:41:49.577Z
-published: 2026-06-07T05:41:49.577Z
+modified: 2026-10-25T05:55:51.488Z
+published: 2026-10-25T05:55:51.488Z
 tags:
   - Rules
 ---
@@ -32,7 +32,7 @@ A creature can hold its breath for a number of minutes equal to 1 + its [[Abilit
 
 ## Running out of Air
 
-At the start of its next turn, it drops to 0 hit points and is [[Conditions#Unstable|unstable]], and it can't regain hit points or be [[Conditions#Downed|stabilized]] until it can breath again.
+When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is [[Conditions#Unstable|unstable]], and it can't regain hit points or be [[Conditions#Downed|stabilized]] until it can breath again.
 
 For example, a creature with a Constitution of 14 can hold it's breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points.
 
@@ -121,6 +121,6 @@ If the character already has one or more levels of exhaustion, the character tak
 - [[Object Rules|Objects]] are immune to poison and psychic damage
 - DM determines an [[Object Rules#Statistics for Objects|objects AC and HP]]
   - and any additional immunities or resistances
-- Objects always fail Strength and Dexterity \[\[saving throws, and they are immune to effects that require other saves.
+- Objects always fail Strength and Dexterity [[Ability Scores#Saving Throws|saving throws]], and they are immune to effects that require other saves.
 - When an object drops to 0 hit points, it breaks.
 - A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.

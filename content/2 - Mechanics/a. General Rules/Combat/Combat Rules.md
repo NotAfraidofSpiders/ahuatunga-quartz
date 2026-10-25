@@ -2,13 +2,15 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Combat Rules.md
 created: 2025-12-06T01:23:32.811Z
-modified: 2026-07-11T16:16:50.832Z
-published: 2026-07-11T16:16:50.832Z
+modified: 2026-10-25T03:03:42.901Z
+published: 2026-10-25T03:03:42.901Z
 tags:
   - Rules
 ---
 
 ## The Order of Combat
+
+^18b7c8
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and [[Spellcasting Rules|spellcasting]]. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other.
 
@@ -21,6 +23,8 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 5. **Begin the next round**. When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
 ### Surprise
+
+^a97f16
 
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A Gelatinous Cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
@@ -42,15 +46,18 @@ Optionally, the GM can have the tied characters and monsters each roll a d20 to 
 
 On your turn, you can **[[Combat Rules#Movement and Position|move]]** a distance up to your [[Movement Rules#Speed|speed]] and **take one action**.
 
-You decide whether to move first or take your action first. Your speed— sometimes called your walking speed—is noted on your character sheet.\
+You decide whether to move first or take your action first. Your speed— sometimes called your walking speed—is noted on your character sheet.
+
 The most common actions you can take are described in the “[[Combat Rules#Actions in Combat|Actions in Combat]]” section. Many class features and other abilities provide additional options for your action.
 
 You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do on your turn, consider taking the [[Combat Rules#Dodge|dodge]] or [[Combat Rules#Ready|ready]] actions, as described in “[[Combat Rules#Actions in Combat|Actions in Combat]].”
 
 ### Bonus Actions
 
-Various class features, [[Spellcasting Rules|spells]], and other abilities let you take an additional action on your turn called a bonus action. The [[Rogue#Cunning Action|Cunning Action]] feature, for example, allows a [[Rogue]] to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.\
-You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.\
+Various class features, [[Spellcasting Rules|spells]], and other abilities let you take an additional action on your turn called a bonus action. The [[Rogue#Cunning Action|Cunning Action]] feature, for example, allows a [[Rogue]] to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don’t have a bonus action to take.
+
+You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
+
 You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
 
 ### Other Activity on Your Turn
@@ -178,7 +185,7 @@ A creature can squeeze through a space that is large enough for a creature one [
 
 ## Actions in Combat
 
-When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
+When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.   ^a9313d
 
 When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 

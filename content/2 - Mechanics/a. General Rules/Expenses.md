@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Expenses.md
 created: 2025-12-25T23:20:07.455Z
-modified: 2026-04-23T01:45:29.806Z
-published: 2026-04-23T01:45:29.806Z
+modified: 2026-10-02T01:34:33.234Z
+published: 2026-10-02T01:34:33.234Z
 tags:
   - Rules
 ---
@@ -18,15 +18,15 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 #### Lifestyle Expenses Table
 
-|Lifestyle|Price/Day|
-|---|---|
-|Wretched|---|
-|Squalid|1 sp|
-|Poor|2 sp|
-|Modest|1 gp|
-|Comfortable|2 gp|
-|Wealthy|4 gp|
-|Aristocratic|10 gp minimum|
+| Lifestyle    | Price/Day     |
+| ------------ | ------------- |
+| Wretched     | ---           |
+| Squalid      | 1 sp          |
+| Poor         | 2 sp          |
+| Modest       | 1 gp          |
+| Comfortable  | 2 gp          |
+| Wealthy      | 4 gp          |
+| Aristocratic | 10 gp minimum |
 
 ## Wretched
 
