@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Resting Rules.md
 created: 2025-12-22T16:18:36.684Z
-modified: 2026-09-07T15:22:29.864Z
-published: 2026-09-07T15:22:29.864Z
+modified: 2026-11-01T03:01:54.891Z
+published: 2026-11-01T03:01:54.891Z
 tags:
   - Rules
 ---
@@ -84,7 +84,7 @@ Downtime activities other than the ones presented below are possible. If you wan
 
 ### Crafting
 
-You can craft nonmagical [[Object Rules|objects]], including [[Adventuring Gear|adventuring gear]] and works of art. You must be [[Ability Scores#Proficiency Bonus|proficient]] with [[Tools|tools]] related to the object you are trying to create (typically [[Tools#Artisan’s Tools|artisan's tools]]). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [smith’s tools](https://roll20.net/compendium/dnd5e/Rules:Tools?expansion=34047#content) needs a forge in order to craft a sword or suit of armor.
+You can craft nonmagical [[Object Rules|objects]], including [[Adventuring Gear|adventuring gear]] and works of art. You must be [[Ability Scores#Proficiency Bonus|proficient]] with [[Tools|tools]] related to the object you are trying to create (typically [[Tools#Artisan’s Tools|artisan's tools]]). You might also need access to special materials or locations necessary to create it. For example, someone proficient with [[Tools#Smith's Tools|smith's tools]] needs a forge in order to craft a sword or suit of armor.
 
 For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5- gp increments until you reach the market value of the item. For example, a suit of [[Armor#Plate|plate armor]] (market value 1,500 gp) takes 300 days to craft by yourself.
 
