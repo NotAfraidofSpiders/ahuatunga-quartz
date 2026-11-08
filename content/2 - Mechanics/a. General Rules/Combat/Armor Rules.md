@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Combat/Armor Rules.md
 created: 2025-12-24T21:17:57.313Z
-modified: 2026-10-25T06:43:47.345Z
-published: 2026-10-25T06:43:47.345Z
+modified: 2026-10-25T07:05:25.703Z
+published: 2026-10-25T07:05:25.703Z
 tags:
   - Rules
 ---
@@ -76,7 +76,7 @@ Heavy armor doesn’t let you add your [[Ability Scores#Ability Scores and Modif
 
 | Armor                                      | Cost     | Armor Class (AC)          | Strength | Stealth                                                     | Weight |
 | ------------------------------------------ | -------- | ------------------------- | -------- | ----------------------------------------------------------- | ------ |
-| Light Armor                                |          |                           |          |                                                             |        |
+| **Light Armor**                            |          |                           |          |                                                             |        |
 | [[Armor#Padded\|Padded]]                   | 5 gp     | 11 + Dex modifier         | —        | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 8 lb.  |
 | [[Armor#Leather Armor\|Leather]]           | 10 gp    | 11 + Dex modifier         | —        | —                                                           | 10 lb. |
 | [[Armor#Studded Leather\|Studded Leather]] | 45 gp    | 12 + Dex modifier         | —        | —                                                           | 13 lb. |
@@ -86,12 +86,12 @@ Heavy armor doesn’t let you add your [[Ability Scores#Ability Scores and Modif
 | [[Armor#Scale Mail\|Scale Mail]]           | 50 gp    | 14 + Dex modifier (max 2) | —        | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 45 lb. |
 | [[Armor#Breastplate\|Breastplate]]         | 400 gp   | 14 + Dex modifier (max 2) | —        | —                                                           | 20 lb. |
 | [[Armor#Half Plate\|Half Plate]]           | 750 gp   | 15 + Dex modifier (max 2) | —        | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 40 lb. |
-| Heavy Armor                                |          |                           |          |                                                             |        |
+| **Heavy Armor**                            |          |                           |          |                                                             |        |
 | [[Armor#Ring Mail\|Ring Mail]]             | 30 gp    | 14                        | —        | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 40 lb. |
 | [[Armor#Chain Mail\|Chain Mail]]           | 75 gp    | 16                        | Str 13   | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 55 lb. |
 | [[Armor#Splint\|Splint]]                   | 200 gp   | 17                        | Str 15   | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 60 lb. |
 | [[Armor#Plate\|Plate]]                     | 1,500 gp | 18                        | Str 15   | [[Ability Scores#Advantage and Disadvantage\|Disadvantage]] | 65 lb. |
-| Shields                                    |          |                           |          |                                                             |        |
+| **Shields**                                |          |                           |          |                                                             |        |
 | [[Armor#Shield\|Shield]]                   | 10 gp    | +2                        | —        | —                                                           | 6 lb.  |
 
 ## Getting Into and Out of Armor

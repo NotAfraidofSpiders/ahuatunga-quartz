@@ -2,13 +2,13 @@
 publish: true
 permalink: /6 - Session Notes/Ep. 5 - Some Lore with Wethenor.md
 created: 2026-07-10T22:57:37.035Z
-modified: 2026-09-02T15:02:49.371Z
-published: 2026-09-02T15:02:49.371Z
+modified: 2026-11-01T03:06:15.685Z
+published: 2026-11-01T03:06:15.685Z
 tags:
   - Player-Notes
 ---
 
-[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[Ep. 6 - Enought Space| Next Ep. >>]]
+[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[Ep. 6 - Enough Space| Next Ep. >>]]
 
 ## Summary
 
@@ -71,4 +71,4 @@ Uspia identified the mask as a [[Hipoki Dagup|Great Hipoki Dagup]], with the Anc
 
 ---
 
-[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[Ep. 6 - Enought Space| Next Ep. >>]]
+[[Ep. 4 - Discovering the Bone Zone|<<Prev. Ep.]] | [[Ep. 6 - Enough Space| Next Ep. >>]]
